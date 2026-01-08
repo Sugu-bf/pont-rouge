@@ -1,0 +1,2485 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpLingua\n"
+"POT-Creation-Date: 2025-08-25 11:57+0200\n"
+"PO-Revision-Date: 2025-08-25 15:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wplingua.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: data.php:559
+msgid "Bottom right"
+msgstr "Alhaalla oikealla"
+
+#: data.php:560
+msgid "Bottom center"
+msgstr "Alhaalla keskellä"
+
+#: data.php:561
+msgid "Bottom left"
+msgstr "Alhaalla vasemmalla"
+
+#: data.php:562
+msgid "None"
+msgstr "Ei mitään"
+
+#: data.php:574
+msgid "Light - Double - Smooth"
+msgstr "Kevyt - kaksinkertainen - sileä"
+
+#: data.php:575
+msgid "Light - Double - Square"
+msgstr "Valo - Kaksinkertainen - Neliö"
+
+#: data.php:576
+msgid "Light - Simple - Smooth"
+msgstr "Kevyt - yksinkertainen - pehmeä"
+
+#: data.php:577
+msgid "Light - Simple - Square"
+msgstr "Kevyt - Yksinkertainen - Neliön muotoinen"
+
+#: data.php:578
+msgid "Grey - Double - Smooth"
+msgstr "Harmaa - Kaksinkertainen - Sileä"
+
+#: data.php:579
+msgid "Grey - Double - Square"
+msgstr "Harmaa - Kaksinkertainen - Neliö"
+
+#: data.php:580
+msgid "Grey - Simple - Smooth"
+msgstr "Harmaa - Yksinkertainen - Sileä"
+
+#: data.php:581
+msgid "Grey - Simple - Square"
+msgstr "Harmaa - Yksinkertainen - Neliö"
+
+#: data.php:582
+msgid "Dark - Double - Smooth"
+msgstr "Tumma - Kaksinkertainen - Sileä"
+
+#: data.php:583
+msgid "Dark - Double - Square"
+msgstr "Tumma - Kaksinkertainen - Neliö"
+
+#: data.php:584
+msgid "Dark - Simple - Smooth"
+msgstr "Tumma - yksinkertainen - pehmeä"
+
+#: data.php:585
+msgid "Dark - Simple - Square"
+msgstr "Tumma - Yksinkertainen - Neliö"
+
+#: data.php:586
+msgid "Blur Black - Double - Smooth"
+msgstr "Blur Black - Kaksinkertainen - Sileä"
+
+#: data.php:587
+msgid "Blur Black - Double - Square"
+msgstr "Blur Black - Double - Square"
+
+#: data.php:588
+msgid "Blur Black - Simple - Smooth"
+msgstr "Blur Black - Yksinkertainen - Sileä"
+
+#: data.php:589
+msgid "Blur Black - Simple - Square"
+msgstr "Blur Black - Yksinkertainen - Neliö"
+
+#: data.php:590
+msgid "Blur White - Double - Smooth"
+msgstr "Blur White - Kaksinkertainen - Sileä"
+
+#: data.php:591
+msgid "Blur White - Double - Square"
+msgstr "Blur White - Double - neliö"
+
+#: data.php:592
+msgid "Blur White - Simple - Smooth"
+msgstr "Blur White - Yksinkertainen - Sileä"
+
+#: data.php:593
+msgid "Blur White - Simple - Square"
+msgstr "Blur White - Yksinkertainen - Neliö"
+
+#: data.php:605
+msgid "Inline list"
+msgstr "Inline-luettelo"
+
+#: data.php:606
+msgid "Block"
+msgstr "Estä"
+
+#: data.php:607
+msgid "Dropdown"
+msgstr "Pudotusvalikko"
+
+#: data.php:619 data.php:653
+msgid "Original name"
+msgstr "Alkuperäinen nimi"
+
+#: data.php:620 data.php:654
+msgid "Translated name"
+msgstr "Käännetty nimi"
+
+#: data.php:621 data.php:655
+msgid "Language ID"
+msgstr "Kielen tunnus"
+
+#: data.php:622 data.php:637 data.php:656 data.php:669
+msgid "No display"
+msgstr "Ei näyttöä"
+
+#: data.php:634
+msgid "Circle"
+msgstr "Ympyrä"
+
+#: data.php:635
+msgid "Rectangular"
+msgstr "Suorakulmainen"
+
+#: data.php:636
+msgid "Wave"
+msgstr "Aalto"
+
+#: data.php:668
+msgid "Display"
+msgstr "Näytä"
+
+#: data.php:681
+msgid "List without current language"
+msgstr "Luettelo ilman nykyistä kieltä"
+
+#: data.php:682
+msgid "List without active class"
+msgstr "Luettelo ilman aktiivista luokkaa"
+
+#: data.php:683
+msgid "List with active class"
+msgstr "Luettelo aktiivisen luokan kanssa"
+
+#: data.php:684
+msgid "Sub-list"
+msgstr "Alaluettelo"
+
+#: data.php:737
+msgid "Arabic"
+msgstr "Arabia"
+
+#: data.php:743 data.php:897
+msgid "Global"
+msgstr "Yleinen"
+
+#: data.php:748
+msgid "Egypt"
+msgstr "Egypti"
+
+#: data.php:753
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabia"
+
+#: data.php:758
+msgid "Algeria"
+msgstr "Algeria"
+
+#: data.php:763
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: data.php:768
+msgid "Chad"
+msgstr "Tsad"
+
+#: data.php:773
+msgid "Comoros"
+msgstr "Comoros"
+
+#: data.php:778
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: data.php:783
+msgid "Iraq"
+msgstr "Irak"
+
+#: data.php:788
+msgid "Jordan"
+msgstr "Jordania"
+
+#: data.php:793
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: data.php:798
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: data.php:803
+msgid "Libya"
+msgstr "Libya"
+
+#: data.php:808
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: data.php:813
+msgid "Morocco"
+msgstr "Marokko"
+
+#: data.php:818
+msgid "Oman"
+msgstr "Oman"
+
+#: data.php:823
+msgid "Palestine"
+msgstr "Palestiina"
+
+#: data.php:828
+msgid "Qatar"
+msgstr "Qatar"
+
+#: data.php:833
+msgid "Somalia"
+msgstr "Somalia"
+
+#: data.php:838
+msgid "Sudan"
+msgstr "Sudan"
+
+#: data.php:843
+msgid "Syria"
+msgstr "Syyria"
+
+#: data.php:848
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: data.php:853
+msgid "United Arab Emirates"
+msgstr "Yhdistyneet Arabiemiirikunnat"
+
+#: data.php:858
+msgid "Yemen"
+msgstr "Yemen"
+
+#: data.php:892
+msgid "Chinese"
+msgstr "Kiina"
+
+#: data.php:902
+msgid "China"
+msgstr "Kiina"
+
+#: data.php:907
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: data.php:912
+msgid "Malaysia"
+msgstr "Malesia"
+
+#: data.php:917 data.php:1153
+msgid "Singapore"
+msgstr "Singapore"
+
+#: data.php:951
+msgid "Danish"
+msgstr "Tanska"
+
+#: data.php:956
+msgid "Denmark"
+msgstr "Tanska"
+
+#: data.php:990
+msgid "Dutch"
+msgstr "Hollanti"
+
+#: data.php:995
+msgid "Netherlands"
+msgstr "Alankomaat"
+
+#: data.php:1000 data.php:1246
+msgid "Belgium"
+msgstr "Belgia"
+
+#: data.php:1005
+msgid "Suriname"
+msgstr "Surinami"
+
+#: data.php:1039
+msgid "Slovak"
+msgstr "Slovakki"
+
+#: data.php:1044
+msgid "Slovakia"
+msgstr "Slovakia"
+
+#: data.php:1049
+msgid "Czech Republic"
+msgstr "Tšekin tasavalta"
+
+#: data.php:1083
+msgid "English"
+msgstr "Englanti"
+
+#: data.php:1088
+msgid "US / GB"
+msgstr "US / GB"
+
+#: data.php:1093
+msgid "United Kingdom"
+msgstr "Englanti"
+
+#: data.php:1098
+msgid "United States"
+msgstr "Yhdysvallat"
+
+#: data.php:1103
+msgid "Australia"
+msgstr "Australia"
+
+#: data.php:1108 data.php:1256
+msgid "Canada"
+msgstr "Kanada"
+
+#: data.php:1113
+msgid "Ireland"
+msgstr "Irlanti"
+
+#: data.php:1118
+msgid "New Zealand"
+msgstr "Uusiseelanti"
+
+#: data.php:1123
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: data.php:1128
+msgid "South Africa"
+msgstr "Etelä-Afrikka"
+
+#: data.php:1133
+msgid "Kenya"
+msgstr "Kenia"
+
+#: data.php:1138
+msgid "Ghana"
+msgstr "Ghana"
+
+#: data.php:1143
+msgid "South Sudan"
+msgstr "Etelä-Sudan"
+
+#: data.php:1148
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: data.php:1158
+msgid "Liberia"
+msgstr "Liberia"
+
+#: data.php:1163
+msgid "Jamaica"
+msgstr "Jamaika"
+
+#: data.php:1197
+msgid "Finnish"
+msgstr "Suomi"
+
+#: data.php:1202 data.php:1988
+msgid "Finland"
+msgstr "Suomi"
+
+#: data.php:1236
+msgid "French"
+msgstr "Ranska"
+
+#: data.php:1241
+msgid "France"
+msgstr "Ranska"
+
+#: data.php:1251
+msgid "Quebec"
+msgstr "Quebec"
+
+#: data.php:1261
+msgid "Congo - Kinshasa"
+msgstr "Kongo - Kinshasa"
+
+#: data.php:1266
+msgid "Congo - Brazzaville"
+msgstr "Kongo - Brazzaville"
+
+#: data.php:1271
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: data.php:1276
+msgid "Ivory Coast"
+msgstr "Norsunluurannikko"
+
+#: data.php:1281 data.php:1330
+msgid "Switzerland"
+msgstr "Sveitsi"
+
+#: data.php:1315
+msgid "German"
+msgstr "Saksa"
+
+#: data.php:1320
+msgid "Germany"
+msgstr "Saksa"
+
+#: data.php:1325
+msgid "Austria"
+msgstr "Itävalta"
+
+#: data.php:1335
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: data.php:1369
+msgid "Greek"
+msgstr "Kreikka"
+
+#: data.php:1374
+msgid "Greece"
+msgstr "Kreikka"
+
+#: data.php:1379 data.php:2032
+msgid "Cyprus"
+msgstr "Kypros"
+
+#: data.php:1413
+msgid "Hebrew"
+msgstr "Heprea"
+
+#: data.php:1419
+msgid "Israel"
+msgstr "Israel"
+
+#: data.php:1453
+msgid "Hindi"
+msgstr "Hindi"
+
+#: data.php:1458
+msgid "India"
+msgstr "Intia"
+
+#: data.php:1463
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: data.php:1497
+msgid "Hungarian"
+msgstr "Unkari"
+
+#: data.php:1502
+msgid "Hungary"
+msgstr "Unkari"
+
+#: data.php:1536
+msgid "Indonesian"
+msgstr "Indonesia"
+
+#: data.php:1541
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: data.php:1575
+msgid "Italian"
+msgstr "Italia"
+
+#: data.php:1580
+msgid "Italy"
+msgstr "Italia"
+
+#: data.php:1614
+msgid "Japanese"
+msgstr "Japani"
+
+#: data.php:1619
+msgid "Japan"
+msgstr "Japani"
+
+#: data.php:1653
+msgid "Korean"
+msgstr "Korea"
+
+#: data.php:1658
+msgid "South Korea"
+msgstr "Etelä-Korea"
+
+#: data.php:1663
+msgid "North Korea"
+msgstr "Pohjois-Korea"
+
+#: data.php:1697
+msgid "Polish"
+msgstr "Puola"
+
+#: data.php:1702
+msgid "Poland"
+msgstr "Puola"
+
+#: data.php:1736
+msgid "Portuguese"
+msgstr "Portugali"
+
+#: data.php:1741
+msgid "Portugal"
+msgstr "Portugali"
+
+#: data.php:1746
+msgid "Brazil"
+msgstr "Brasilia"
+
+#: data.php:1751
+msgid "Mozambique"
+msgstr "Mosambik"
+
+#: data.php:1756
+msgid "Angola"
+msgstr "Angola"
+
+#: data.php:1790
+msgid "Russian"
+msgstr "Venäjä"
+
+#: data.php:1795
+msgid "Russia"
+msgstr "Venäjä"
+
+#: data.php:1800
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: data.php:1805
+msgid "Belarus"
+msgstr "Valko-Venäjä"
+
+#: data.php:1810
+msgid "Kyrgyzstan"
+msgstr "Kirgisia"
+
+#: data.php:1815
+msgid "Tajikistan"
+msgstr "Tadžikistan"
+
+#: data.php:1849
+msgid "Spanish"
+msgstr "Espanja"
+
+#: data.php:1854
+msgid "Spain"
+msgstr "Espanja"
+
+#: data.php:1859
+msgid "Mexico"
+msgstr "Meksiko"
+
+#: data.php:1864
+msgid "Argentina"
+msgstr "Argentiina"
+
+#: data.php:1869
+msgid "Colombia"
+msgstr "Kolumbia"
+
+#: data.php:1874
+msgid "Peru"
+msgstr "Peru"
+
+#: data.php:1879
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: data.php:1884
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: data.php:1889
+msgid "Chile"
+msgstr "Chile"
+
+#: data.php:1894
+msgid "Equatorial Guinea"
+msgstr "Päiväntasaajan Guinea"
+
+#: data.php:1899
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: data.php:1904
+msgid "Cuba"
+msgstr "Kuuba"
+
+#: data.php:1909
+msgid "Dominican Republic"
+msgstr "Dominikaaninen tasavalta"
+
+#: data.php:1914
+msgid "Honduras"
+msgstr "Honduras"
+
+#: data.php:1919
+msgid "Paraguay"
+msgstr "Paraguai"
+
+#: data.php:1924
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: data.php:1929
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: data.php:1934
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: data.php:1939
+msgid "Panama"
+msgstr "Panama"
+
+#: data.php:1944
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: data.php:1978
+msgid "Swedish"
+msgstr "Ruotsi"
+
+#: data.php:1983
+msgid "Sweden"
+msgstr "Ruotsi"
+
+#: data.php:2022
+msgid "Turkish"
+msgstr "Turkki"
+
+#: data.php:2027
+msgid "Turkey"
+msgstr "Turkki"
+
+#: data.php:2066
+msgid "Ukrainian"
+msgstr "Ukraina"
+
+#: data.php:2071
+msgid "Ukraine"
+msgstr "Ukraina"
+
+#: data.php:2105
+msgid "Vietnamese"
+msgstr "Vietnam"
+
+#: data.php:2110
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#. Plugin Name of the plugin/theme
+#: inc/admin/admin-bar.php:25 inc/admin/option-page.php:18
+#: inc/admin/option-page.php:37 inc/admin/switcher-nav-menu.php:167
+msgid "wpLingua"
+msgstr "wpLingua"
+
+#: inc/admin/admin-bar.php:35
+msgid "This URL is excluded from translation"
+msgstr "Tämä URL-osoite on jätetty käännöksen ulkopuolelle"
+
+#: inc/admin/admin-bar.php:65 inc/admin/translation-edit-modal.php:18
+#: inc/dom/mode-list.php:158
+msgid "Return on page"
+msgstr "Paluu sivulle"
+
+#: inc/admin/admin-bar.php:75
+msgid "Visual editor"
+msgstr "Visuaalinen editori"
+
+#: inc/admin/admin-bar.php:84 inc/dom/mode-list.php:250
+msgid "All translations on page"
+msgstr "Kaikki käännökset sivulla"
+
+#: inc/admin/admin-bar.php:200
+msgid "Edit the page slug"
+msgstr "Muokkaa sivun slugia"
+
+#: inc/admin/admin-bar.php:279 inc/admin/admin.php:59
+#: inc/admin/translation-cpt.php:23
+msgid "Translations"
+msgstr "Käännökset"
+
+#: inc/admin/admin.php:57
+msgid "Edit translations"
+msgstr "Muokkaa käännöksiä"
+
+#: inc/admin/assets.php:366 inc/admin/assets.php:458 inc/assets.php:89
+msgid ""
+"You are about to leave the page without saving your changes. They will be "
+"lost if you continue. Would you like to leave the page anyway?"
+msgstr ""
+"Olet poistumassa sivulta tallentamatta muutoksia. Ne menetetään, jos jatkat. "
+"Haluatko kuitenkin poistua sivulta?"
+
+#: inc/admin/option-page-dictionary.php:20
+msgid "wpLingua - Dictionary rules"
+msgstr "wpLingua - Sanakirjan säännöt"
+
+#: inc/admin/option-page-dictionary.php:34
+msgid "Dictionary entries"
+msgstr "Sanakirjan merkinnät"
+
+#: inc/admin/option-page-dictionary.php:38
+msgid "Translation rules by dictionary: "
+msgstr "Käännössäännöt sanakirjan mukaan: "
+
+#: inc/admin/option-page-dictionary.php:40
+msgid ""
+"The dictionary allows you to define translation rules that apply when "
+"generating machine translations. You can specify words or sets of words that "
+"should never be translated, or define how they should be translated for each "
+"language."
+msgstr ""
+"Sanakirjan avulla voit määritellä käännössäännöt, joita sovelletaan "
+"konekäännöksiä luotaessa. Voit määrittää sanoja tai sanajoukkoja, joita ei "
+"saa koskaan kääntää, tai määritellä, miten ne käännetään kullakin kielellä."
+
+#: inc/admin/option-page-dictionary.php:47
+msgid "Add a dictionary entry"
+msgstr "Lisää sanakirjamerkintä"
+
+#: inc/admin/option-page-dictionary.php:55
+#: inc/admin/option-page-link-media.php:55
+msgid "Add an entry"
+msgstr "Lisää merkintä"
+
+#: inc/admin/option-page-dictionary.php:64
+#: inc/admin/option-page-link-media.php:64
+msgid "Edit the entry"
+msgstr "Muokkaa merkintää"
+
+#: inc/admin/option-page-dictionary.php:102
+msgid "All dictionary entries: "
+msgstr "Kaikki sanakirjamerkinnät: "
+
+#: inc/admin/option-page-dictionary.php:117
+#: inc/admin/option-page-link-media.php:117
+msgid "Rule N°"
+msgstr "Sääntö nro"
+
+#: inc/admin/option-page-dictionary.php:127
+#: inc/admin/option-page-link-media.php:127
+#: inc/admin/option-page-settings.php:272 inc/admin/option-page-settings.php:337
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: inc/admin/option-page-dictionary.php:134
+#: inc/admin/option-page-link-media.php:134
+#: inc/admin/option-page-settings.php:338
+msgid "Remove"
+msgstr "Poista"
+
+#: inc/admin/option-page-dictionary.php:146
+msgid "Always translate: "
+msgstr "Käännä aina: "
+
+#: inc/admin/option-page-dictionary.php:162
+msgid " - By: "
+msgstr " - By: "
+
+#: inc/admin/option-page-dictionary.php:168
+msgid "Never translate: "
+msgstr "Älä koskaan käännä: "
+
+#: inc/admin/option-page-dictionary.php:206
+#: inc/admin/option-page-dictionary.php:320
+msgid "Source text: "
+msgstr "Lähdeteksti: "
+
+#: inc/admin/option-page-dictionary.php:230
+#: inc/admin/option-page-dictionary.php:344
+msgid "Never translate"
+msgstr "Älä koskaan käännä"
+
+#: inc/admin/option-page-dictionary.php:252
+#: inc/admin/option-page-dictionary.php:366
+#: inc/admin/option-page-link-media.php:446
+msgid " - Always translate by: "
+msgstr " - Käännä aina: "
+
+#: inc/admin/option-page-dictionary.php:279
+#: inc/admin/option-page-dictionary.php:393
+#: inc/admin/option-page-link-media.php:336
+#: inc/admin/option-page-link-media.php:472
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: inc/admin/option-page-dictionary.php:287
+#: inc/admin/option-page-link-media.php:344
+msgid "Save new entry"
+msgstr "Tallenna uusi merkintä"
+
+#: inc/admin/option-page-dictionary.php:401
+#: inc/admin/option-page-link-media.php:480
+msgid "Save edited entry"
+msgstr "Tallenna muokattu merkintä"
+
+#: inc/admin/option-page-exclusions.php:17
+msgid "wpLingua - Exclusion rules"
+msgstr "wpLingua - Poissulkemissäännöt"
+
+#: inc/admin/option-page-exclusions.php:28
+msgid "Exclude URL"
+msgstr "Sulje URL-osoite pois"
+
+#: inc/admin/option-page-exclusions.php:31
+msgid "Exclude URL from translation: "
+msgstr "Jätä URL-osoite pois käännöksestä: "
+
+#: inc/admin/option-page-exclusions.php:35
+msgid ""
+"You can exclude from translations pages you wish to offer only in the "
+"website's original language. To do this, list the REGEXs that match the URL "
+"to be excluded, one per line. Examples: "
+msgstr ""
+"Voit sulkea pois käännöksistä sivut, joita haluat tarjota vain verkkosivuston "
+"alkuperäisellä kielellä. Luettele tätä varten REGEX-koodit, jotka vastaavat "
+"pois suljettavaa URL-osoitetta, yksi per rivi. Esimerkkejä: "
+
+#: inc/admin/option-page-exclusions.php:38
+msgid "Exclude URL \"/my-page/\""
+msgstr "Sulje pois URL-osoite \"/my-page/\""
+
+#: inc/admin/option-page-exclusions.php:39
+msgid "Exclude URL starting with \"/my-page/\""
+msgstr "Sulje pois URL-osoite, joka alkaa \"/my-page/\""
+
+#: inc/admin/option-page-exclusions.php:40
+msgid "Exclude URL ending with \"/my-page/\""
+msgstr "Sulje pois URL-osoite, joka päättyy \"/my-page/\""
+
+#: inc/admin/option-page-exclusions.php:41
+msgid "Exclude URL containing \"/my-page/\""
+msgstr "Sulje pois URL-osoite, joka sisältää \"/my-page/\""
+
+#: inc/admin/option-page-exclusions.php:49
+msgid "Exclude elements"
+msgstr "Sulje pois elementit"
+
+#: inc/admin/option-page-exclusions.php:52
+msgid "Exclude HTML elements: "
+msgstr "HTML-elementtien poissulkeminen: "
+
+#: inc/admin/option-page-exclusions.php:56
+msgid ""
+"You can leave some elements of your web pages untranslated. To do this, list "
+"below the CSS selectors for the elements to be excluded, one per line. "
+"Examples: "
+msgstr ""
+"Voit jättää joitakin verkkosivujen osia kääntämättä. Luettele tätä varten "
+"alla olevien CSS-valitsimien CSS-valitsimet elementtejä varten, jotka "
+"jätetään pois, yksi per rivi. Esimerkkejä: "
+
+#: inc/admin/option-page-exclusions.php:59
+msgid "Exclude elements by ID attribute"
+msgstr "Elementtien poissulkeminen ID-attribuutin perusteella"
+
+#: inc/admin/option-page-exclusions.php:60
+msgid "Exclude elements by class attribute"
+msgstr "Elementtien poissulkeminen luokka-attribuutin perusteella"
+
+#: inc/admin/option-page-exclusions.php:61
+msgid "Exclude elements by CSS selector"
+msgstr "Sulje elementit pois CSS-valitsimen avulla"
+
+#: inc/admin/option-page-exclusions.php:69 inc/admin/option-page-settings.php:86
+#: inc/admin/option-page-switcher.php:496
+#: inc/admin/translation-edit-modal.php:71 inc/assets.php:96
+msgid "Save"
+msgstr "Tallenna"
+
+#: inc/admin/option-page-link-media.php:20
+msgid "wpLingua - Links & Medias"
+msgstr "wpLingua - Linkit ja mediat"
+
+#: inc/admin/option-page-link-media.php:34
+msgid "Links & medias"
+msgstr "Linkit & mediat"
+
+#: inc/admin/option-page-link-media.php:38
+msgid "Links and medias translations rules: "
+msgstr "Linkit ja mediakäännökset säännöt: "
+
+#: inc/admin/option-page-link-media.php:40
+msgid ""
+"Translation rules on links and media allow different images to be displayed "
+"or link URLs to be changed according to the current language. These rules "
+"apply to elements such as: link target URLs, image source URLs, iframe source "
+"URLs, URLs in intercepted JSONs..."
+msgstr ""
+"Linkkien ja median käännössäännöt mahdollistavat erilaisten kuvien "
+"näyttämisen tai linkkien URL-osoitteiden muuttamisen nykyisen kielen mukaan. "
+"Näitä sääntöjä sovelletaan esimerkiksi seuraaviin elementteihin: linkin kohde-"
+"URL-osoitteet, kuvan lähde-URL-osoitteet, iframe-lähde-URL-osoitteet, "
+"siepattujen JSON-osoitteiden URL-osoitteet..."
+
+#: inc/admin/option-page-link-media.php:47
+msgid "Add a rule"
+msgstr "Lisää sääntö"
+
+#: inc/admin/option-page-link-media.php:102
+msgid "All links and medias rules: "
+msgstr "Kaikki linkit ja mediasäännöt: "
+
+#: inc/admin/option-page-link-media.php:149
+msgid "Mode: "
+msgstr "Tila: "
+
+#: inc/admin/option-page-link-media.php:158
+#: inc/admin/option-page-link-media.php:266
+#: inc/admin/option-page-link-media.php:402
+msgid "Exactly equal"
+msgstr "Täsmälleen yhtä suuri"
+
+#: inc/admin/option-page-link-media.php:162
+#: inc/admin/option-page-link-media.php:275
+#: inc/admin/option-page-link-media.php:411
+msgid "Partially equal"
+msgstr "Osittain yhtä suuri"
+
+#: inc/admin/option-page-link-media.php:166
+msgid "Regex"
+msgstr "Säännöllinen lauseke"
+
+#: inc/admin/option-page-link-media.php:170
+msgid "Error"
+msgstr "Virhe"
+
+#: inc/admin/option-page-link-media.php:182
+msgid "Original: "
+msgstr "Alkuperäinen: "
+
+#: inc/admin/option-page-link-media.php:241
+#: inc/admin/option-page-link-media.php:377
+msgid "Original URL: "
+msgstr "Alkuperäinen URL-osoite: "
+
+#: inc/admin/option-page-link-media.php:284
+#: inc/admin/option-page-link-media.php:420
+msgid "REGEX"
+msgstr "REGEX"
+
+#: inc/admin/option-page-link-media.php:310
+msgid " - URL: "
+msgstr " - URL: "
+
+#: inc/admin/option-page-register.php:31 inc/admin/option-page-register.php:70
+msgid "Message: "
+msgstr "Viesti: "
+
+#: inc/admin/option-page-register.php:37
+msgid "An error occurred with API key."
+msgstr "API-avaimessa tapahtui virhe."
+
+#: inc/admin/option-page-register.php:53
+msgid "Invalid API key."
+msgstr "Väärä API-avain."
+
+#: inc/admin/option-page-register.php:77
+msgid "An error occurred while creating the API key."
+msgstr "API-avaimen luomisessa tapahtui virhe."
+
+#: inc/admin/option-page-register.php:93
+msgid "wpLingua - Register API key"
+msgstr "wpLingua - Rekisteröi API-avain"
+
+#: inc/admin/option-page-register.php:113
+msgid "API key created"
+msgstr "API-avain luotu"
+
+#: inc/admin/option-page-register.php:117
+msgid "API key created and sent by email"
+msgstr "API-avain luodaan ja lähetetään sähköpostitse"
+
+#: inc/admin/option-page-register.php:121
+msgid ""
+"The API key has been correctly created and sent to the following e-mail "
+"address: "
+msgstr ""
+"API-avain on luotu oikein ja lähetetty seuraavaan sähköpostiosoitteeseen: "
+
+#: inc/admin/option-page-register.php:127
+msgid ""
+"Go to your mailbox and copy the API key sent to you (don't forget to check "
+"the spam section of your mailbox). Then paste it in the section below, and "
+"click \"Set API key\" to make your website multilingual."
+msgstr ""
+"Mene postilaatikkoosi ja kopioi sinulle lähetetty API-avain (älä unohda "
+"tarkistaa postilaatikkosi roskapostiosastoa). Liitä se sitten alla olevaan "
+"osioon ja napsauta \"Aseta API-avain\" tehdäksesi verkkosivustostasi "
+"monikielisen."
+
+#: inc/admin/option-page-register.php:133 inc/admin/option-page-register.php:149
+msgid "Set API Key"
+msgstr "Aseta API-avain"
+
+#: inc/admin/option-page-register.php:142 inc/admin/option-page-register.php:187
+#: inc/admin/option-page-register.php:372
+msgid "Get API key"
+msgstr "Hae API-avain"
+
+#: inc/admin/option-page-register.php:156
+msgid "Start with wpLingua"
+msgstr "Aloita wpLingua"
+
+#: inc/admin/option-page-register.php:159
+msgid "You are just a few clicks away from making your website multilingual!"
+msgstr ""
+"Olet vain muutaman napsautuksen päässä siitä, että verkkosivustosi on "
+"monikielinen!"
+
+#: inc/admin/option-page-register.php:165
+msgid ""
+"For wpLingua to work, an API key is required so that your website has access "
+"to the automatic translation service. On this page you can enter your API key "
+"if you already have one, or create one for free."
+msgstr ""
+"Jotta wpLingua toimisi, tarvitaan API-avain, jotta sivustosi pääsee "
+"automaattiseen käännöspalveluun. Tällä sivulla voit syöttää API-avaimesi, jos "
+"sinulla on jo sellainen, tai luoda sellaisen ilmaiseksi."
+
+#: inc/admin/option-page-register.php:170
+msgid ""
+"An <strong>instantly multilingual website</strong> thanks to automatic text "
+"detection and translation. Easy to use, no knowledge required."
+msgstr ""
+"Automaattisen tekstintunnistuksen ja kääntämisen ansiosta <strong>heti "
+"monikielinen verkkosivusto</strong>. Helppokäyttöinen, ei vaadi tietämystä."
+
+#: inc/admin/option-page-register.php:174
+msgid ""
+"<strong>SEO friendly</strong> to allow search engines to index translated "
+"pages. Open up your website and your business to the whole world."
+msgstr ""
+"<strong>SEO-ystävällinen</strong>, jotta hakukoneet voivat indeksoida "
+"käännetyt sivut. Avaa verkkosivustosi ja yrityksesi koko maailmalle."
+
+#: inc/admin/option-page-register.php:178
+msgid ""
+"All <strong>translations are editable</strong>. Discover the visual editor "
+"and edit translations simply by clicking on them. With a fully customizable "
+"language switcher."
+msgstr ""
+"Kaikki <strong>käännökset ovat muokattavissa</strong>. Tutustu visuaaliseen "
+"editoriin ja muokkaa käännöksiä yksinkertaisesti klikkaamalla niitä. Täysin "
+"mukautettavalla kielivaihtajalla."
+
+#: inc/admin/option-page-register.php:182
+msgid ""
+"One <strong>free and unlimited</strong> language for personal blogs and non-"
+"commercial websites. And many more features!"
+msgstr ""
+"Yksi <strong>ilmainen ja rajoittamaton</strong> kieli henkilökohtaisille "
+"blogeille ja ei-kaupallisille verkkosivustoille. Ja monia muita ominaisuuksia!"
+
+#: inc/admin/option-page-register.php:191 inc/admin/option-page-register.php:242
+msgid "Set API key"
+msgstr "Aseta API-avain"
+
+#: inc/admin/option-page-register.php:197
+msgid "Advanced API features"
+msgstr "Edistyneet API-ominaisuudet"
+
+#: inc/admin/option-page-register.php:222
+msgid "Set the wpLingua API key: "
+msgstr "Aseta wpLinguan API-avain: "
+
+#: inc/admin/option-page-register.php:228
+msgid ""
+"If you already have an API key, enter it below. If you've forgotten your "
+"website's API key, visit"
+msgstr ""
+"Jos sinulla on jo API-avain, anna se alla. Jos olet unohtanut sivustosi API-"
+"avaimen, käy osoitteessa"
+
+#: inc/admin/option-page-register.php:228
+msgid "the API key retrieval page"
+msgstr "aPI-avaimen hakusivu"
+
+#: inc/admin/option-page-register.php:229 inc/admin/option-page-register.php:293
+#: inc/admin/option-page-register.php:309 inc/admin/option-page-register.php:325
+#: inc/admin/option-page-register.php:341 inc/admin/option-page-settings.php:244
+#: inc/admin/option-page-settings.php:376 inc/admin/option-page-settings.php:432
+#: inc/admin/option-page-settings.php:452 inc/admin/option-page-settings.php:490
+#: inc/admin/option-page-settings.php:509 inc/admin/option-page-settings.php:539
+#: inc/admin/option-page-switcher.php:73 inc/admin/option-page-switcher.php:124
+#: inc/admin/option-page-switcher.php:179 inc/admin/option-page-switcher.php:237
+#: inc/admin/option-page-switcher.php:331 inc/admin/option-page-switcher.php:384
+#: inc/admin/option-page-switcher.php:437 inc/admin/option-page-switcher.php:451
+#: inc/admin/option-page-switcher.php:465
+msgid "Click to expand"
+msgstr "Laajenna klikkaamalla"
+
+#: inc/admin/option-page-register.php:233 inc/admin/option-page-settings.php:544
+msgid ""
+"A wpLingua API key consists of 42 characters (uppercase, lowercase and "
+"numbers). It is emailed to you when you request it using the form provided "
+"when you install the plugin. You must keep this key secret and only "
+"communicate it to wplingua.com services."
+msgstr ""
+"WpLingua API-avain koostuu 42 merkistä (isot ja pienet kirjaimet sekä "
+"numerot). Se lähetetään sinulle sähköpostitse, kun pyydät sitä lisäosan "
+"asennuksen yhteydessä annetulla lomakkeella. Sinun on pidettävä tämä avain "
+"salassa ja ilmoitettava se vain wplingua.com-palveluille."
+
+#: inc/admin/option-page-register.php:277
+msgid "Register wpLingua API key: "
+msgstr "Rekisteröi wpLingua API-avain: "
+
+#: inc/admin/option-page-register.php:283
+msgid ""
+"Claim a wpLingua API key and make your website multilingual in a minute! For "
+"a personal blog or a non-commercial website, get one unlimited free language."
+msgstr ""
+"Lunasta wpLingua API-avain ja tee verkkosivustostasi monikielinen minuutissa! "
+"Henkilökohtaiseen blogiin tai ei-kaupalliseen verkkosivustoon saat yhden "
+"rajoittamattoman ilmaisen kielen."
+
+#: inc/admin/option-page-register.php:292
+msgid "Email address: "
+msgstr "Sähköpostiosoite: "
+
+#: inc/admin/option-page-register.php:300
+msgid ""
+"The email address is detected and pre-filled. This is the administrative "
+"email address entered in the Settings ➔ General tab. You can use another "
+"email address used to receive your API key."
+msgstr ""
+"Sähköpostiosoite tunnistetaan ja täytetään valmiiksi. Tämä on hallinnollinen "
+"sähköpostiosoite, joka on syötetty Asetukset ➔ Yleiset-välilehdellä. Voit "
+"käyttää toista sähköpostiosoitetta, jota käytetään API-avaimen "
+"vastaanottamiseen."
+
+#: inc/admin/option-page-register.php:308
+msgid "Website URL: "
+msgstr "Verkkosivuston URL: "
+
+#: inc/admin/option-page-register.php:316
+msgid ""
+"This is the URL of your website, it is detected and pre-filled automatically. "
+"Please check it and only enter the address of your production website (no "
+"test website or development environment)."
+msgstr ""
+"Tämä on verkkosivustosi URL-osoite, joka tunnistetaan ja täytetään "
+"automaattisesti. Tarkista se ja syötä vain tuotantosivustosi osoite (ei "
+"testisivustoa tai kehitysympäristöä)."
+
+#: inc/admin/option-page-register.php:324
+msgid "Website language: "
+msgstr "Verkkosivuston kieli: "
+
+#: inc/admin/option-page-register.php:332 inc/admin/option-page-settings.php:251
+msgid ""
+"This is the language of your website, defined by the associated API key. Make "
+"sure your website language is also correctly set in WordPress options "
+"(Settings ➔ General ➔ Website Language)."
+msgstr ""
+"Tämä on verkkosivustosi kieli, joka määritellään siihen liittyvän API-avaimen "
+"avulla. Varmista, että verkkosivustosi kieli on myös asetettu oikein "
+"WordPressin asetuksissa (Asetukset ➔ Yleiset ➔ Verkkosivuston kieli)."
+
+#: inc/admin/option-page-register.php:340
+msgid "Target language: "
+msgstr "Kohdekieli: "
+
+#: inc/admin/option-page-register.php:348
+msgid ""
+"This is the language you want to translate your website into. Be careful not "
+"to make a mistake because you will not be able to change the language "
+"afterwards."
+msgstr ""
+"Tämä on kieli, jolle haluat kääntää verkkosivustosi. Varo tekemästä virhettä, "
+"sillä et voi muuttaa kieltä jälkikäteen."
+
+#: inc/admin/option-page-register.php:357
+msgid "I have read and accept the"
+msgstr "Olen lukenut ja hyväksyn"
+
+#: inc/admin/option-page-register.php:357
+msgid "API terms of use"
+msgstr "API:n käyttöehdot"
+
+#: inc/admin/option-page-register.php:365
+msgid "Website Locale: "
+msgstr "Verkkosivuston sijainti: "
+
+#: inc/admin/option-page-register.php:386
+msgid "Get more target languages and advanced features: "
+msgstr "Saat lisää kohdekieliä ja lisäominaisuuksia: "
+
+#: inc/admin/option-page-register.php:392
+msgid ""
+"To translate your website into more languages and access advanced features, "
+"visit wpLingua website."
+msgstr ""
+"Jos haluat kääntää verkkosivustosi useammalle kielelle ja käyttää "
+"lisäominaisuuksia, käy wpLingua-sivustolla."
+
+#: inc/admin/option-page-register.php:396 inc/admin/option-page-settings.php:431
+msgid "Use wpLingua on commercial website"
+msgstr "Käytä wpLingua kaupallisella verkkosivustolla"
+
+#: inc/admin/option-page-register.php:397
+msgid "Allow search from all languages"
+msgstr "Salli haku kaikilla kielillä"
+
+#: inc/admin/option-page-register.php:398
+msgid "Get more target languages"
+msgstr "Hanki lisää kohdekieliä"
+
+#: inc/admin/option-page-register.php:403
+msgid "Visit wpLingua website"
+msgstr "Vieraile wpLinguan verkkosivustolla"
+
+#: inc/admin/option-page-settings.php:25
+msgid "wpLingua - General settings"
+msgstr "wpLingua - Yleiset asetukset"
+
+#: inc/admin/option-page-settings.php:52
+msgid "Website language"
+msgstr "Verkkosivuston kieli"
+
+#: inc/admin/option-page-settings.php:58
+msgid "Translated languages"
+msgstr "Käännetyt kielet"
+
+#: inc/admin/option-page-settings.php:64
+msgid "Features"
+msgstr "Ominaisuudet"
+
+#: inc/admin/option-page-settings.php:80
+msgid "API Key"
+msgstr "API-avain"
+
+#: inc/admin/option-page-settings.php:167
+msgid "Your website is being translated and will be ready soon."
+msgstr "Verkkosivujasi käännetään parhaillaan, ja ne ovat pian valmiit."
+
+#: inc/admin/option-page-settings.php:168
+msgid ""
+"In just a few seconds, your website will be multilingual, and search engines "
+"will be able to index these new pages. wpLingua detects all the texts on your "
+"pages and offers you a first automatically generated translation. All "
+"translations are editable: open the visual editor from the administration bar "
+"and edit them simply by clicking on the texts on your website."
+msgstr ""
+"Vain muutamassa sekunnissa sivustosi on monikielinen, ja hakukoneet voivat "
+"indeksoida nämä uudet sivut. wpLingua tunnistaa kaikki sivujesi tekstit ja "
+"tarjoaa sinulle ensimmäisen automaattisesti luodun käännöksen. Kaikki "
+"käännökset ovat muokattavissa: avaa visuaalinen editori hallintapalkista ja "
+"muokkaa niitä yksinkertaisesti napsauttamalla sivustosi tekstejä."
+
+#: inc/admin/option-page-settings.php:172
+msgid ""
+"Your website is now multilingual! You can start visiting the translated "
+"version."
+msgstr ""
+"Sivustosi on nyt monikielinen! Voit aloittaa vierailun käännettyyn versioon."
+
+#: inc/admin/option-page-settings.php:173
+msgid ""
+"The first time a translated page is loaded, the translations are "
+"automatically generated and saved in the database. This may take some time "
+"(on first generation only) depending on the size of your content. This is why "
+"we advise you to browse your entire website for the first time in order to "
+"generate all the multilingual versions."
+msgstr ""
+"Kun käännetty sivu ladataan ensimmäistä kertaa, käännökset luodaan "
+"automaattisesti ja tallennetaan tietokantaan. Tämä voi kestää jonkin aikaa "
+"(vain ensimmäisellä sukupolvella) sisällön koosta riippuen. Siksi "
+"suosittelemme, että selaat koko verkkosivustosi ensimmäisen kerran, jotta "
+"kaikki monikieliset versiot saadaan luotua."
+
+#: inc/admin/option-page-settings.php:174
+msgid ""
+"All translations are editable: open the visual editor from the administration "
+"bar and edit them simply by clicking on the texts on your website."
+msgstr ""
+"Kaikki käännökset ovat muokattavissa: avaa visuaalinen editori "
+"hallintapalkista ja muokkaa niitä yksinkertaisesti napsauttamalla "
+"verkkosivuston tekstejä."
+
+#: inc/admin/option-page-settings.php:177
+msgid "Visit your multilingual website"
+msgstr "Vieraile monikielisellä verkkosivustollasi"
+
+#: inc/admin/option-page-settings.php:204
+msgid "Original website language: "
+msgstr "Alkuperäisen verkkosivuston kieli: "
+
+#: inc/admin/option-page-settings.php:230
+msgid "Please choose an option"
+msgstr "Valitse vaihtoehto"
+
+#: inc/admin/option-page-settings.php:241
+msgid "Original website language, defined by API key: "
+msgstr "Alkuperäinen verkkosivuston kieli, joka on määritelty API-avaimella: "
+
+#: inc/admin/option-page-settings.php:253
+msgid ""
+"If you have mistakenly entered the wrong language, contact wpLingua support "
+"to request a correction."
+msgstr ""
+"Jos olet vahingossa syöttänyt väärän kielen, ota yhteyttä wpLinguan tukeen ja "
+"pyydä korjausta."
+
+#: inc/admin/option-page-settings.php:256
+msgid "wplingua.com : Contact support"
+msgstr "wplingua.com : Yhteydenotto tukeen"
+
+#: inc/admin/option-page-settings.php:263
+msgid "Custom"
+msgstr "Mukautettu"
+
+#: inc/admin/option-page-settings.php:278 inc/admin/option-page-settings.php:344
+msgid "Flag to use for this language: "
+msgstr "Tätä kieltä varten käytettävä lippu: "
+
+#: inc/admin/option-page-settings.php:287 inc/admin/option-page-settings.php:352
+msgid "Custom flag URL for this language: "
+msgstr "Tämän kielen mukautetun lipun URL-osoite: "
+
+#: inc/admin/option-page-settings.php:310
+msgid ""
+"Important: space out the addition of new languages ​​by at least ten days and "
+"browse your site for the first time in the added languages. This promotes "
+"better indexing by search engines, reduces the load on your server and "
+"minimizes the risk of slowdowns on your site."
+msgstr ""
+"Tärkeää: lisää uusia kieliä vähintään kymmenen päivän välein ja selaa "
+"sivustoasi ensimmäistä kertaa lisätyillä kielillä. Tämä edistää hakukoneiden "
+"parempaa indeksointia, vähentää palvelimesi kuormitusta ja minimoi sivustosi "
+"hidastumisen riskin."
+
+#: inc/admin/option-page-settings.php:314
+msgid "Add new target Language: "
+msgstr "Lisää uusi kohde Kieli: "
+
+#: inc/admin/option-page-settings.php:320
+msgid "Add language"
+msgstr "Lisää kieli"
+
+#: inc/admin/option-page-settings.php:333
+msgid "(Private)"
+msgstr "(Yksityinen)"
+
+#: inc/admin/option-page-settings.php:358
+msgid "Make this language private"
+msgstr "Tee tästä kielestä yksityinen"
+
+#: inc/admin/option-page-settings.php:359
+msgid ""
+"Private languages will only be visible to logged-in users with editing "
+"rights. This option allows administrators to pre-generate and correct "
+"translations before they are accessible to the public."
+msgstr ""
+"Yksityiset kielet näkyvät vain kirjautuneille käyttäjille, joilla on "
+"muokkausoikeudet. Tämän vaihtoehdon avulla ylläpitäjät voivat luoda ja "
+"korjata käännöksiä etukäteen ennen kuin ne ovat yleisön saatavilla."
+
+#: inc/admin/option-page-settings.php:368
+msgid "Target languages enabled: "
+msgstr "Kohdekielet käytössä: "
+
+#: inc/admin/option-page-settings.php:375
+msgid "Access more target languages by upgrading your API key."
+msgstr "Pääset käyttämään useampia kohdekieliä päivittämällä API-avaimesi."
+
+#: inc/admin/option-page-settings.php:384
+msgid "Available languages: "
+msgstr "Käytettävissä olevat kielet: - Kieli: "
+
+#: inc/admin/option-page-settings.php:404 inc/admin/option-page-settings.php:442
+#: inc/admin/option-page-settings.php:466 inc/admin/option-page-settings.php:549
+msgid "wplingua.com : Upgrade your API key"
+msgstr "wplingua.com : Päivitä API-avaimesi"
+
+#: inc/admin/option-page-settings.php:422
+msgid "API translation features: "
+msgstr "API-käännösominaisuudet: "
+
+#: inc/admin/option-page-settings.php:425
+msgid ""
+"The options below require extended access to the wpLingua API to be "
+"functional on your website."
+msgstr ""
+"Alla olevat vaihtoehdot edellyttävät laajennettua wpLingua API:n "
+"käyttöoikeutta, jotta ne toimisivat verkkosivustollasi."
+
+#: inc/admin/option-page-settings.php:437
+msgid ""
+"Use of the free wpLingua API keys is reserved for personal blogs and non-"
+"profit websites; paid subscriptions are available for companies and "
+"commercial websites."
+msgstr ""
+"Ilmaisten wpLingua API-avaimien käyttö on varattu henkilökohtaisille "
+"blogeille ja voittoa tavoittelemattomille verkkosivustoille; maksulliset "
+"tilaukset ovat saatavilla yrityksille ja kaupallisille verkkosivustoille."
+
+#: inc/admin/option-page-settings.php:451
+msgid "Search from translated languages"
+msgstr "Haku käännetyistä kielistä"
+
+#: inc/admin/option-page-settings.php:457
+msgid "Enable visitors to search on your website in their own language."
+msgstr ""
+"Anna kävijöille mahdollisuus tehdä hakuja verkkosivustollasi omalla "
+"kielellään."
+
+#: inc/admin/option-page-settings.php:461
+msgid ""
+"Example: if your website is translated from English to French and you have a "
+"post named \"Hello\". When a French visitor searches for the term \"Bonjour\" "
+"on the website, this feature will translate it on the fly to \"Hello\" before "
+"launching the search. This will allow WordPress to find the post named "
+"\"Hello\" when your visitor has searched for \"Bonjour\"."
+msgstr ""
+"Esimerkki: jos verkkosivustosi on käännetty englannista ranskaan ja sinulla "
+"on viesti nimeltä \"Hello\". Kun ranskalainen kävijä hakee termiä \"Bonjour\" "
+"verkkosivustolla, tämä ominaisuus kääntää sen lennossa termiksi \"Hello\" "
+"ennen haun käynnistämistä. Näin WordPress löytää \"Hello\" -nimisen viestin, "
+"kun kävijä on hakenut \"Bonjour\" -nimellä."
+
+#: inc/admin/option-page-settings.php:483
+msgid "Plugin translation features: "
+msgstr "Liitännäisen käännösominaisuudet: "
+
+#: inc/admin/option-page-settings.php:489
+msgid "Progress bar for editors"
+msgstr "Edistymispalkki muokkaajille"
+
+#: inc/admin/option-page-settings.php:495
+msgid "Enable progress bar: Smooth translations loading for editors"
+msgstr ""
+"Ota edistymispalkki käyttöön: Käännösten sujuva lataaminen toimittajille"
+
+#: inc/admin/option-page-settings.php:499
+msgid ""
+"Activate a progress bar when a page requires the generation of more than 20 "
+"new string translations. This feature only applies to connected editors."
+msgstr ""
+"Aktivoi edistymispalkki, kun sivu vaatii yli 20 uuden merkkijonokäännöksen "
+"luomista. Tämä ominaisuus koskee vain liitettyjä muokkaajia."
+
+#: inc/admin/option-page-settings.php:508
+msgid "Enable multilingual XML Sitemap"
+msgstr "Ota käyttöön monikielinen XML-sivukartta"
+
+#: inc/admin/option-page-settings.php:514
+msgid ""
+"Enable multilingual Sitemap XML: Automatically add links to your wpLingua "
+"translated pages in your XML Sitemap files."
+msgstr ""
+"Ota käyttöön monikielinen Sitemap XML: Lisää automaattisesti linkit wpLingua-"
+"käännettyihin sivuihin XML-sivukarttatiedostoihin."
+
+#: inc/admin/option-page-settings.php:533
+msgid "Website API key: "
+msgstr "Verkkosivuston API-avain: "
+
+#: inc/admin/option-page-settings.php:538
+msgid ""
+"The API key connects the website to wpLingua's online services and automatic "
+"translation generators."
+msgstr ""
+"API-avain yhdistää verkkosivuston wpLinguan verkkopalveluihin ja "
+"automaattisiin käännösgeneraattoreihin."
+
+#: inc/admin/option-page-settings.php:560
+msgid "Show API key"
+msgstr "Näytä API-avain"
+
+#: inc/admin/option-page-settings.php:562
+msgid "Hide API key"
+msgstr "Piilota API-avain"
+
+#: inc/admin/option-page-settings.php:568
+msgid "API key status: "
+msgstr "API-avaimen tila: "
+
+#: inc/admin/option-page-settings.php:583
+msgid "Premium expiration: "
+msgstr "Palkkion päättyminen: "
+
+#: inc/admin/option-page-switcher.php:35
+msgid "wpLingua - Switcher settings"
+msgstr "wpLingua - Vaihtajan asetukset"
+
+#: inc/admin/option-page-switcher.php:51
+msgid "No target language selected."
+msgstr "Kohdekieltä ei ole valittu."
+
+#: inc/admin/option-page-switcher.php:56
+msgid "Preview"
+msgstr "Esikatselu"
+
+#: inc/admin/option-page-switcher.php:66
+msgid "Design"
+msgstr "Ulkoasu"
+
+#: inc/admin/option-page-switcher.php:72 inc/admin/switcher-nav-menu.php:229
+#: inc/admin/switcher-nav-menu.php:342 inc/switcher-block.php:156
+msgid "Layout: "
+msgstr "Asettelu: "
+
+#: inc/admin/option-page-switcher.php:99
+msgid ""
+"This option allow you to define the layout of the languages ​​in the switcher."
+msgstr "Tämän vaihtoehdon avulla voit määrittää kielten asettelun vaihtimessa."
+
+#: inc/admin/option-page-switcher.php:104
+msgid "Inline list: "
+msgstr "Inline-luettelo: "
+
+#: inc/admin/option-page-switcher.php:105
+msgid "the languages ​​are lined up next to each other."
+msgstr "kielet ovat vierekkäin."
+
+#: inc/admin/option-page-switcher.php:108
+msgid "Block: "
+msgstr "Kortteli: "
+
+#: inc/admin/option-page-switcher.php:109
+msgid "the languages ​​are placed in columns, one under the other."
+msgstr "kielet on sijoitettu sarakkeisiin toistensa alle."
+
+#: inc/admin/option-page-switcher.php:112
+msgid "Dropdown: "
+msgstr "Pudotusvalikko: "
+
+#: inc/admin/option-page-switcher.php:113
+msgid ""
+"the languages ​​appear in a drop-down menu; this is recommended when your "
+"website offers several languages."
+msgstr ""
+"kielet näkyvät pudotusvalikossa; tätä suositellaan, kun verkkosivustollasi on "
+"useita kieliä."
+
+#: inc/admin/option-page-switcher.php:123 inc/admin/switcher-nav-menu.php:197
+#: inc/admin/switcher-nav-menu.php:298 inc/switcher-block.php:157
+msgid "Displayed names: "
+msgstr "Näytetyt nimet: "
+
+#: inc/admin/option-page-switcher.php:148
+msgid ""
+"This option allow you to choose how the languages names should be written in "
+"the switcher."
+msgstr ""
+"Tämän vaihtoehdon avulla voit valita, miten kielten nimet kirjoitetaan "
+"kytkimessä."
+
+#: inc/admin/option-page-switcher.php:155
+msgid "Translated names: "
+msgstr "Käännetyt nimet: "
+
+#: inc/admin/option-page-switcher.php:156
+msgid ""
+"the name of the languages ​​is translated into the current language displayed."
+msgstr "kielten nimet käännetään nykyiselle näytettävälle kielelle."
+
+#: inc/admin/option-page-switcher.php:159
+msgid "Original name: "
+msgstr "Alkuperäinen nimi: "
+
+#: inc/admin/option-page-switcher.php:160
+msgid ""
+"each language retains its name in its own language (English, Français, 日本"
+"語, Português, Español, etc.)."
+msgstr ""
+"kukin kieli säilyttää nimensä omalla kielellään (englanti, ranska, 日本語, "
+"portugali, espanja jne.)."
+
+#: inc/admin/option-page-switcher.php:163
+msgid "Language ID: "
+msgstr "Kielen ID: "
+
+#: inc/admin/option-page-switcher.php:164
+msgid "language names use language ID (FR, EN, DE, RU, etc.)."
+msgstr "kielten nimissä käytetään kielitunnusta (FR, EN, DE, RU jne.)."
+
+#: inc/admin/option-page-switcher.php:167 inc/admin/option-page-switcher.php:220
+msgid "No display: "
+msgstr "Ei näyttöä: "
+
+#: inc/admin/option-page-switcher.php:168
+msgid "no text, only flags are displayed."
+msgstr "ei tekstiä, vain liput näytetään."
+
+#: inc/admin/option-page-switcher.php:178 inc/switcher-block.php:158
+msgid "Flags style: "
+msgstr "Lippujen tyyli: "
+
+#: inc/admin/option-page-switcher.php:202
+msgid ""
+"This option allow you to choose the appearance of the flags in the switcher. "
+msgstr "Tämän vaihtoehdon avulla voit valita lippujen ulkoasun vaihtimessa. "
+
+#: inc/admin/option-page-switcher.php:208
+msgid "Circle: "
+msgstr "Ympyrä: "
+
+#: inc/admin/option-page-switcher.php:209
+msgid "display round flags."
+msgstr "näyttää pyöreitä lippuja."
+
+#: inc/admin/option-page-switcher.php:212
+msgid "Rectangular: "
+msgstr "Suorakulmainen: "
+
+#: inc/admin/option-page-switcher.php:213
+msgid "display rectangular flags."
+msgstr "näyttää suorakulmaiset liput."
+
+#: inc/admin/option-page-switcher.php:216
+msgid "Wave: "
+msgstr "Aalto: "
+
+#: inc/admin/option-page-switcher.php:217
+msgid "display wavy flags."
+msgstr "näyttää aaltolippuja."
+
+#: inc/admin/option-page-switcher.php:221
+msgid "no display any flags, only the language name will be displayed."
+msgstr "ei näytä mitään lippuja, vain kielen nimi näytetään."
+
+#: inc/admin/option-page-switcher.php:227
+msgid ""
+"You can also change the country flag or set a custom flag from wpLingua ➔ "
+"General settings. For example, you can set the flag of Mexico for Spanish "
+"instead of the flag of Spain."
+msgstr ""
+"Voit myös vaihtaa maan lipun tai asettaa oman lipun wpLingua ➔ Yleiset "
+"asetukset -kohdasta. Voit esimerkiksi asettaa Espanjan lipun sijasta Meksikon "
+"lipun."
+
+#: inc/admin/option-page-switcher.php:236 inc/switcher-block.php:159
+msgid "Color theme: "
+msgstr "Väriteema: "
+
+#: inc/admin/option-page-switcher.php:262
+msgid ""
+"This option allows you to choose the color and border styles of the languages "
+"switcher."
+msgstr ""
+"Tämän vaihtoehdon avulla voit valita kieltenvaihtajan värin ja kehystyylin."
+
+#: inc/admin/option-page-switcher.php:268
+msgid "The color options offer 5 themes: "
+msgstr "Värivaihtoehdoissa on 5 teemaa: "
+
+#: inc/admin/option-page-switcher.php:273
+msgid "Light: "
+msgstr "Valo: "
+
+#: inc/admin/option-page-switcher.php:274
+msgid "white color in the background of the switcher."
+msgstr "valkoinen väri kytkimen taustalla."
+
+#: inc/admin/option-page-switcher.php:277
+msgid "Grey: "
+msgstr "Harmaa: "
+
+#: inc/admin/option-page-switcher.php:278
+msgid "grey background color."
+msgstr "harmaa taustaväri."
+
+#: inc/admin/option-page-switcher.php:281
+msgid "Dark: "
+msgstr "Tumma: "
+
+#: inc/admin/option-page-switcher.php:282
+msgid "black background color."
+msgstr "musta taustaväri."
+
+#: inc/admin/option-page-switcher.php:285
+msgid "Blur Black: "
+msgstr "Blur Black: "
+
+#: inc/admin/option-page-switcher.php:286
+msgid "transparent and blurred background color with black text and borders."
+msgstr "läpinäkyvä ja hämärtynyt taustaväri mustalla tekstillä ja reunuksilla."
+
+#: inc/admin/option-page-switcher.php:289
+msgid "Blur White: "
+msgstr "Sumea valkoinen: "
+
+#: inc/admin/option-page-switcher.php:290
+msgid "transparent and blurred background color with white text and borders."
+msgstr "läpinäkyvä ja sumea taustaväri, jossa on valkoinen teksti ja reunat."
+
+#: inc/admin/option-page-switcher.php:297
+msgid "Each theme is then broken down by shape and border style:"
+msgstr "Kukin teema on sitten jaoteltu muodon ja reunustustyylin mukaan:"
+
+#: inc/admin/option-page-switcher.php:302
+msgid "Double – Smooth: "
+msgstr "Kaksinkertainen - sileä: "
+
+#: inc/admin/option-page-switcher.php:303
+msgid "the switcher will be framed by a double border with rounded corners."
+msgstr ""
+"kytkin on kehystetty kaksinkertaisella kehyksellä, jossa on pyöristetyt "
+"kulmat."
+
+#: inc/admin/option-page-switcher.php:306
+msgid "Double – Square: "
+msgstr "Kaksinkertainen - neliö: "
+
+#: inc/admin/option-page-switcher.php:307
+msgid "double border with square corners."
+msgstr "kaksinkertainen reunus ja neliönmuotoiset kulmat."
+
+#: inc/admin/option-page-switcher.php:310
+msgid "Simple – Smooth: "
+msgstr "Yksinkertainen - pehmeä: "
+
+#: inc/admin/option-page-switcher.php:311
+msgid "single border with rounded corners."
+msgstr "yksi reunus, jossa on pyöristetyt kulmat."
+
+#: inc/admin/option-page-switcher.php:314
+msgid "Simple – Square: "
+msgstr "Yksinkertainen - neliö: "
+
+#: inc/admin/option-page-switcher.php:315
+msgid "single border with square corners."
+msgstr "yksi reunus ja neliönmuotoiset kulmat."
+
+#: inc/admin/option-page-switcher.php:325
+msgid "Custom CSS"
+msgstr "Mukautettu CSS"
+
+#: inc/admin/option-page-switcher.php:327
+msgid "Set custom CSS: "
+msgstr "Aseta mukautettu CSS: "
+
+#: inc/admin/option-page-switcher.php:330
+msgid ""
+"The field below allows you to add custom CSS code that will run on all pages."
+msgstr ""
+"Alla olevaan kenttään voit lisätä mukautetun CSS-koodin, joka toimii kaikilla "
+"sivuilla."
+
+#: inc/admin/option-page-switcher.php:335
+msgid ""
+"First of all, note that the CSS class <code>.switcher-content</code> allows "
+"you to act on the entire block of the language switcher while the class "
+"<code>.wplng-langague</code> allows you to act on the languages ​​themselves."
+msgstr ""
+"Huomaa ensinnäkin, että CSS-luokan <code>.switcher-content</code> avulla voit "
+"vaikuttaa koko kielivaihtajan lohkoon, kun taas luokan <code>.wplng-langague</"
+"code> avulla voit vaikuttaa itse kieliin."
+
+#: inc/admin/option-page-switcher.php:350
+msgid ""
+"To change the background and border colors of languages, here is the CSS:"
+msgstr "Voit muuttaa kielten taustan ja reunojen värejä CSS:llä:"
+
+#: inc/admin/option-page-switcher.php:365
+msgid "More example on wplingua.com"
+msgstr "Lisää esimerkkejä osoitteessa wplingua.com"
+
+#: inc/admin/option-page-switcher.php:376
+msgid "Insertion"
+msgstr "Asettaminen"
+
+#: inc/admin/option-page-switcher.php:383
+msgid "Automatic insert: "
+msgstr "Automaattinen lisäys: "
+
+#: inc/admin/option-page-switcher.php:409
+msgid "Choose a predefined location: "
+msgstr "Valitse ennalta määritetty sijainti: "
+
+#: inc/admin/option-page-switcher.php:413
+msgid "Bottom right: "
+msgstr "Alhaalla oikealla: "
+
+#: inc/admin/option-page-switcher.php:414
+msgid "the switcher is placed at the bottom right of the screen."
+msgstr "vaihtaja on sijoitettu näytön oikeaan alareunaan."
+
+#: inc/admin/option-page-switcher.php:417
+msgid "Bottom Center: "
+msgstr "Alhaalla keskellä: "
+
+#: inc/admin/option-page-switcher.php:418
+msgid "bottom center of the screen."
+msgstr "näytön keskellä alhaalla."
+
+#: inc/admin/option-page-switcher.php:421
+msgid "Bottom left: "
+msgstr "Alhaalla vasemmalla: "
+
+#: inc/admin/option-page-switcher.php:422
+msgid "bottom left of the screen."
+msgstr "näytön vasemmassa alareunassa."
+
+#: inc/admin/option-page-switcher.php:425
+msgid "None: "
+msgstr "Ei mitään: "
+
+#: inc/admin/option-page-switcher.php:426
+msgid "the switcher is not inserted automatically."
+msgstr "kytkintä ei aseteta automaattisesti."
+
+#: inc/admin/option-page-switcher.php:436
+msgid "Shortcode switcher: "
+msgstr "Shortcode-vaihtaja: "
+
+#: inc/admin/option-page-switcher.php:443
+msgid ""
+"If you want to insert the language switcher only in certain places on your "
+"website, you can use the shortcode provided for this purpose. Note that in "
+"this case, the previous option should be \"None\". This method is ideal for "
+"placing the switcher where you want it, whether you are using a Gutenberg "
+"block-based theme (FSE), a classic theme or even a page or theme builder like "
+"Divi, Elementor..."
+msgstr ""
+"Jos haluat lisätä kielivaihtajan vain tiettyihin paikkoihin "
+"verkkosivustollasi, voit käyttää tähän tarkoitukseen tarkoitettua "
+"lyhytkoodia. Huomaa, että tässä tapauksessa edellisen vaihtoehdon pitäisi "
+"olla \"Ei mitään\". Tämä menetelmä on ihanteellinen, kun haluat sijoittaa "
+"kielivaihtajan haluamaasi paikkaan, käytitpä sitten Gutenbergin lohkoihin "
+"perustuvaa teemaa (FSE), klassista teemaa tai jopa sivun tai teeman "
+"rakentajaa, kuten Divi, Elementor...."
+
+#: inc/admin/option-page-switcher.php:450
+msgid "Gutenberg & FSE: "
+msgstr "Gutenberg & FSE: "
+
+#: inc/admin/option-page-switcher.php:453
+msgid "Block wpLingua Switcher"
+msgstr "Lohko wpLingua Switcher"
+
+#: inc/admin/option-page-switcher.php:457
+msgid ""
+"Block based themes, wpLingua offers a dedicated Gutenberg block. You can "
+"insert the switcher wherever you want, whether in the content or via the "
+"overall site editor."
+msgstr ""
+"Lohkopohjaiset teemat, wpLingua tarjoaa erityisen Gutenberg-lohkon. Voit "
+"lisätä vaihtimen minne haluat, joko sisältöön tai koko sivuston editorin "
+"kautta."
+
+#: inc/admin/option-page-switcher.php:464
+msgid "Switcher in menu: "
+msgstr "Vaihtaja valikossa: "
+
+#: inc/admin/option-page-switcher.php:479
+msgid "Appearance ➔ Menus"
+msgstr "Ulkonäkö ➔ Valikot"
+
+#: inc/admin/option-page-switcher.php:490
+msgid ""
+"If the active theme manages menus (classic theme), it is possible to add a "
+"language switcher. The design of these language switchers will be defined by "
+"the theme. Go to the Appearance ➔ Menu tab to add the wpLingua switcher as a "
+"menu item. It is also possible to add it as a sub-element."
+msgstr ""
+"Jos aktiivinen teema hallitsee valikoita (klassinen teema), on mahdollista "
+"lisätä kielivaihdin. Näiden kielivaihtimien muotoilu määritellään teeman "
+"mukaan. Siirry Ulkoasu ➔ Valikot-välilehdelle lisätäksesi wpLingua-vaihtajan "
+"valikkokohteeksi. Se on mahdollista lisätä myös alaelementtinä."
+
+#: inc/admin/option-page.php:17
+msgid "wpLingua: Register"
+msgstr "wpLingua: Rekisteröidy"
+
+#: inc/admin/option-page.php:36 inc/admin/option-page.php:47
+msgid "wpLingua: Settings"
+msgstr "wpLingua: Asetukset"
+
+#: inc/admin/option-page.php:48
+msgid "General settings"
+msgstr "Yleiset asetukset"
+
+#: inc/admin/option-page.php:56
+msgid "wpLingua: Switcher"
+msgstr "wpLingua: Vaihtaja"
+
+#: inc/admin/option-page.php:57
+msgid "Switcher"
+msgstr "Vaihtaja"
+
+#: inc/admin/option-page.php:65
+msgid "wpLingua: Exclusion"
+msgstr "wpLingua: Poissulkeminen"
+
+#: inc/admin/option-page.php:66
+msgid "Exclusion"
+msgstr "Poissulku"
+
+#: inc/admin/option-page.php:74
+msgid "wpLingua: Dictionary"
+msgstr "wpLingua: Sanakirja"
+
+#: inc/admin/option-page.php:75
+msgid "Dictionary"
+msgstr "Sanakirja"
+
+#: inc/admin/option-page.php:83
+msgid "wplingua: Links & Medias"
+msgstr "wplingua: Linkit ja mediat"
+
+#: inc/admin/option-page.php:84
+msgid "Links & Medias"
+msgstr "Linkit & mediat"
+
+#: inc/admin/option-page.php:92
+msgid "wpLingua: Website slugs"
+msgstr "wpLingua: Verkkosivun slugit"
+
+#: inc/admin/option-page.php:93 inc/admin/slug-cpt.php:23
+msgid "Website slugs"
+msgstr "Verkkosivun slugit"
+
+#: inc/admin/option-page.php:101
+msgid "wpLingua: Translations"
+msgstr "wpLingua: Käännökset"
+
+#: inc/admin/option-page.php:102
+msgid "All translations"
+msgstr "Kaikki käännökset"
+
+#: inc/admin/option-page.php:221
+msgid "Thank you for choosing wpLingua!"
+msgstr "Kiitos, että valitsit wpLinguan!"
+
+#: inc/admin/option-page.php:224
+#, php-format
+msgid "If you like wpLingua please leave us a %1$s rating. A huge thanks!"
+msgstr "Jos pidät wpLingua jätä meille %1$s-luokitus. Suuret kiitokset!"
+
+#: inc/admin/option-page.php:225
+msgid "five stars"
+msgstr "viisi tähteä"
+
+#: inc/admin/option-page.php:249
+msgid "Version"
+msgstr "Versio"
+
+#: inc/admin/option-page.php:272
+msgid "Settings"
+msgstr "Asetukset"
+
+#: inc/admin/option-page.php:314
+msgid "wpLingua - Translation solution for multilingual website"
+msgstr "wpLingua - Käännösratkaisu monikieliselle verkkosivustolle"
+
+#: inc/admin/option-page.php:317
+msgid ""
+"wpLingua is installed, but not yet configured. You are just a few clicks away "
+"from making your website multilingual!"
+msgstr ""
+"wpLingua on asennettu, mutta sitä ei ole vielä määritetty. Olet vain muutaman "
+"klikkauksen päässä siitä, että verkkosivustosi on monikielinen!"
+
+#: inc/admin/option-page.php:320
+msgid "Go to the configuration page"
+msgstr "Siirry määrityssivulle"
+
+#: inc/admin/option-page.php:394
+msgid "wpLingua - Incompatible plugin detected"
+msgstr "wpLingua - Yhteensopimaton lisäosa havaittu"
+
+#: inc/admin/option-page.php:397
+msgid ""
+"You have several translation plugins. This may result in unpredictable or "
+"incorrect behavior. For best results, use only one translation plugin at a "
+"time. These plugins can cause problems with wpLingua: "
+msgstr ""
+"Sinulla on useita käännösliitännäisiä. Tämä voi johtaa arvaamattomaan tai "
+"virheelliseen käyttäytymiseen. Saat parhaat tulokset käyttämällä vain yhtä "
+"käännöslaajennusta kerrallaan. Nämä lisäosat voivat aiheuttaa ongelmia "
+"wpLinguan kanssa: "
+
+#: inc/admin/option-page.php:414
+#, php-format
+msgid "Deactivate plugin: %1$s"
+msgstr "Deaktivoi lisäosa: %1$s"
+
+#: inc/admin/option-page.php:423
+msgid "Deactivate"
+msgstr "Poista käytöstä"
+
+#: inc/admin/option-page.php:440
+msgid "Manage active plugins"
+msgstr "Hallitse aktiivisia lisäosia"
+
+#: inc/admin/option-page.php:465
+msgid "wpLingua - Incompatible with multisite"
+msgstr "wpLingua - Yhteensopimaton monisivuston kanssa"
+
+#: inc/admin/option-page.php:468
+msgid "wpLingua is not compatible with multisite."
+msgstr "wpLingua ei ole yhteensopiva monisivuston kanssa."
+
+#: inc/admin/option-page.php:492
+msgid "wpLingua - Incompatible with WordPress installed in a subfolder"
+msgstr "wpLingua - Yhteensopimaton alikansioon asennetun WordPressin kanssa"
+
+#: inc/admin/option-page.php:495
+msgid "wpLingua is not compatible with WordPress installed in a subfolder."
+msgstr "wpLingua ei ole yhteensopiva alikansioon asennetun WordPressin kanssa."
+
+#: inc/admin/option-page.php:519
+msgid "wpLingua - Incompatible PHP version"
+msgstr "wpLingua - Yhteensopimaton PHP-versio"
+
+#: inc/admin/option-page.php:522
+msgid ""
+"wpLingua is not compatible with your PHP version. wpLingua requires PHP 7.4 "
+"or higher."
+msgstr ""
+"wpLingua ei ole yhteensopiva PHP-versiosi kanssa. wpLingua vaatii PHP 7.4:n "
+"tai uudemman version."
+
+#: inc/admin/option-page.php:585
+msgid "wpLingua - Incompatible HTACCESS file"
+msgstr "wpLingua - Yhteensopimaton HTACCESS-tiedosto"
+
+#: inc/admin/option-page.php:588
+msgid ""
+"It seems that a plugin was incorrectly deactivated and corrupted the site's "
+"HTACCESS file, preventing the correct redirection of translated pages. Please "
+"edit the \".htaccess\" file located at the root of the site and delete the "
+"lines between :"
+msgstr ""
+"Vaikuttaa siltä, että plugin oli virheellisesti poistettu käytöstä ja "
+"korruptoi sivuston HTACCESS-tiedoston, mikä estää käännettyjen sivujen oikean "
+"uudelleenohjauksen. Muokkaa sivuston juuressa sijaitsevaa \".htaccess\"-"
+"tiedostoa ja poista rivit välillä :"
+
+#: inc/admin/slug-cpt.php:19
+msgid "wpLingua - Website slugs"
+msgstr "wpLingua - Verkkosivun slugit"
+
+#: inc/admin/slug-cpt.php:20
+msgid "wpLingua - Website slug"
+msgstr "wpLingua - Verkkosivun slug"
+
+#: inc/admin/slug-cpt.php:21
+msgid "wpLingua - All slugs"
+msgstr "wpLingua - Kaikki slugit"
+
+#: inc/admin/slug-cpt.php:22
+msgid "wpLingua - Edit slug"
+msgstr "wpLingua - Muokkaa slugia"
+
+#: inc/admin/slug-cpt.php:24
+msgid "Search slugs"
+msgstr "Etsi slugit"
+
+#: inc/admin/slug-cpt.php:112
+msgid "All slug status"
+msgstr "Kaikki slugin tilat"
+
+#: inc/admin/slug-cpt.php:127 inc/admin/slug-cpt.php:139
+#: inc/admin/translation-cpt.php:111 inc/admin/translation-cpt.php:119
+#: inc/dom/mode-list.php:193
+msgid "Reviewed"
+msgstr "Tarkastettu"
+
+#: inc/admin/slug-cpt.php:128 inc/admin/slug-cpt.php:399
+#: inc/admin/slug-cpt.php:438 inc/admin/translation-cpt.php:112
+#: inc/admin/translation-cpt.php:379 inc/admin/translation-cpt.php:418
+#: inc/dom/mode-list.php:197
+msgid "Unreviewed"
+msgstr "Tarkistamaton"
+
+#: inc/admin/slug-cpt.php:137 inc/admin/slug-cpt.php:389
+#: inc/admin/slug-cpt.php:426 inc/admin/translation-cpt.php:117
+#: inc/admin/translation-cpt.php:369 inc/admin/translation-cpt.php:406
+msgid "Full reviewed"
+msgstr "Täysin tarkistettu"
+
+#: inc/admin/slug-cpt.php:138 inc/admin/slug-cpt.php:394
+#: inc/admin/slug-cpt.php:432 inc/admin/translation-cpt.php:118
+#: inc/admin/translation-cpt.php:374 inc/admin/translation-cpt.php:412
+msgid "Partially reviewed"
+msgstr "Osittain tarkistettu"
+
+#: inc/admin/slug-cpt.php:140 inc/admin/translation-cpt.php:120
+msgid "Full unreviewed"
+msgstr "Täysin tarkistamaton"
+
+#: inc/admin/slug-cpt.php:285
+msgid "Slug status"
+msgstr "Slugin tila"
+
+#: inc/admin/slug-cpt.php:421
+msgid "Slug status: "
+msgstr "Slugin tila: "
+
+#: inc/admin/slug-meta.php:23
+msgid "Slug"
+msgstr "Slug"
+
+#: inc/admin/slug-meta.php:75 inc/admin/slug-meta.php:154
+#: inc/admin/translation-meta.php:77 inc/admin/translation-meta.php:146
+msgid "Flag for language: "
+msgstr "Kielilippu: "
+
+#: inc/admin/slug-meta.php:89
+msgid " - Original slug: "
+msgstr " - Alkuperäinen slug: "
+
+#: inc/admin/slug-meta.php:153 inc/admin/translation-meta.php:145
+msgid "Regenerate translation"
+msgstr "Uudelleenkääntäminen käännös"
+
+#: inc/admin/slug-meta.php:156 inc/admin/translation-meta.php:148
+msgid "Mark as review"
+msgstr "Merkitse arvosteluksi"
+
+#: inc/admin/slug-meta.php:171 inc/admin/translation-meta.php:157
+msgid "Generate translation"
+msgstr "Luo käännös"
+
+#: inc/admin/slug-meta.php:197 inc/admin/translation-meta.php:183
+msgid "Reviewed on "
+msgstr "Arvosteltu artikkelissa "
+
+#: inc/admin/slug-meta.php:226
+msgid " - Slug translation: "
+msgstr " - Slug käännös: "
+
+#: inc/admin/slug-meta.php:261 inc/admin/translation-meta.php:247
+msgid "Is reviewed"
+msgstr "Tarkistetaan"
+
+#: inc/admin/slug-meta.php:492 inc/admin/translation-meta.php:471
+msgid "Invalid parameters"
+msgstr "Virheelliset parametrit"
+
+#: inc/admin/slug-meta.php:504 inc/admin/translation-meta.php:484
+msgid "Invalid languages parameters"
+msgstr "Väärät kieliparametrit"
+
+#: inc/admin/slug-meta.php:561 inc/admin/translation-meta.php:524
+msgid "Invalid API response"
+msgstr "Virheellinen API-vastaus"
+
+#: inc/admin/switcher-nav-menu.php:190
+msgid ""
+"These options are used to add a language switcher in a menu. This language "
+"switcher automatically uses the menu design."
+msgstr ""
+"Näiden vaihtoehtojen avulla voit lisätä valikkoon kielenvaihtoehdon. Tämä "
+"kielivaihtaja käyttää automaattisesti valikon ulkoasua."
+
+#: inc/admin/switcher-nav-menu.php:213 inc/admin/switcher-nav-menu.php:320
+msgid "Displayed flag: "
+msgstr "Näytetty lippu: "
+
+#: inc/admin/switcher-nav-menu.php:249
+msgid "Language switcher"
+msgstr "Kielivalinta"
+
+#: inc/admin/switcher-nav-menu.php:259
+msgid "Add to menu"
+msgstr "Lisää valikkoon"
+
+#: inc/admin/translation-cpt.php:19
+msgid "wpLingua - Translations"
+msgstr "wpLingua - Käännökset"
+
+#: inc/admin/translation-cpt.php:20
+msgid "wpLingua - Translation"
+msgstr "wpLingua - Käännös"
+
+#: inc/admin/translation-cpt.php:21
+msgid "wpLingua - All translations"
+msgstr "wpLingua - Kaikki käännökset"
+
+#: inc/admin/translation-cpt.php:22
+msgid "wpLingua - Edit translation"
+msgstr "wpLingua - Muokkaa käännöstä"
+
+#: inc/admin/translation-cpt.php:24
+msgid "Search translations"
+msgstr "Etsi käännöksiä"
+
+#: inc/admin/translation-cpt.php:110 inc/admin/translation-cpt.php:116
+msgid "All translation status"
+msgstr "Kaikki käännöksen tila"
+
+#: inc/admin/translation-cpt.php:265
+msgid "Translation status"
+msgstr "Käännöksen tila"
+
+#: inc/admin/translation-cpt.php:401
+msgid "Translation status: "
+msgstr "Käännöksen tila: "
+
+#: inc/admin/translation-edit-modal.php:29
+msgid "All languages"
+msgstr "Kaikki kielet"
+
+#: inc/admin/translation-edit-modal.php:42
+msgid "Open edit page"
+msgstr "Avaa muokkaussivu"
+
+#: inc/admin/translation-edit-modal.php:58
+msgid "Edit translation"
+msgstr "Muokkaa käännöstä"
+
+#: inc/admin/translation-edit-modal.php:96
+#: inc/admin/translation-edit-modal.php:155
+msgid "Invalid translation ID"
+msgstr "Virheellinen käännöksen ID"
+
+#: inc/admin/translation-edit-modal.php:107
+msgid "Invalid translation post"
+msgstr "Virheellinen käännös viesti"
+
+#: inc/admin/translation-edit-modal.php:178
+msgid "Translation saving failed"
+msgstr "Käännöksen tallentaminen epäonnistui"
+
+#: inc/admin/translation-meta.php:23
+msgid "Translation"
+msgstr "Käännös"
+
+#: inc/admin/translation-meta.php:87
+msgid " - Original text: "
+msgstr " - Alkuperäinen teksti: "
+
+#: inc/admin/translation-meta.php:212
+msgid " - Translation: "
+msgstr " - Käännös: "
+
+#: inc/admin/translation-meta.php:282
+msgid "Discovery URL: "
+msgstr "Löytö URL: "
+
+#: inc/api-call/request-api-key.php:60
+msgid "Error - Invalid data."
+msgstr "Virhe - Virheelliset tiedot."
+
+#: inc/api-call/request-api-key.php:71
+msgid "Error - Invalid data (email address)."
+msgstr "Virhe - Virheellinen tieto (sähköpostiosoite)."
+
+#: inc/api-call/request-api-key.php:82
+msgid "Error - Invalid data (website URL)."
+msgstr "Virhe - Virheelliset tiedot (verkkosivuston URL-osoite)."
+
+#: inc/api-call/request-api-key.php:97
+msgid "Error - Invalid data (languages)."
+msgstr "Virhe - Virheelliset tiedot (kielet)."
+
+#: inc/api-call/request-api-key.php:136
+msgid "Error - The API could not be called."
+msgstr "Virhe - API:ta ei voitu kutsua."
+
+#: inc/api-call/request-api-key.php:181
+msgid "Error - API response not valid."
+msgstr "Virhe - API-vastaus ei kelvollinen."
+
+#: inc/api-call/validate-api-key.php:191
+msgid "Code"
+msgstr "Koodi"
+
+#: inc/api-call/validate-api-key.php:217
+msgid "API returned an unexpected response."
+msgstr "API palautti odottamattoman vastauksen."
+
+#: inc/assets.php:93
+msgid ""
+"You are about to exit without saving your changes. They will be lost if you "
+"continue. Would you like to leave anyway?"
+msgstr ""
+"Olet poistumassa tallentamatta muutoksia. Ne menetetään, jos jatkat. Haluatko "
+"kuitenkin lähteä?"
+
+#: inc/assets.php:97
+msgid "Save in progress..."
+msgstr "Tallennus käynnissä..."
+
+#: inc/dom/load-overload.php:35
+msgid "Translation API overloaded"
+msgstr "Käännös API ylikuormitettu"
+
+#: inc/dom/load-overload.php:39
+msgid "Translation API overloaded. Retry in a few minutes."
+msgstr "Käännös API ylikuormitettu. Yritä uudelleen muutaman minuutin kuluttua."
+
+#: inc/dom/load-overload.php:45
+msgid "Close"
+msgstr "Sulje"
+
+#: inc/dom/load-progress.php:86 inc/dom/load-progress.php:167
+msgid "Translation in progress"
+msgstr "Käännös tekeillä"
+
+#: inc/dom/load-progress.php:171
+msgid "In progress: Translation and saving of new texts"
+msgstr "Käynnissä: Uusien tekstien kääntäminen ja tallentaminen"
+
+#: inc/dom/mode-editor.php:118 inc/dom/mode-list.php:306
+msgid "Edit this translation"
+msgstr "Muokkaa tätä käännöstä"
+
+#: inc/dom/mode-list.php:171
+msgid "Search"
+msgstr "Hae"
+
+#: inc/dom/mode-list.php:183
+msgid "Status"
+msgstr "Tila"
+
+#: inc/dom/mode-list.php:189
+msgid "All"
+msgstr "Kaikki"
+
+#: inc/dom/mode-list.php:211
+msgid "Order"
+msgstr "Järjestys"
+
+#: inc/dom/mode-list.php:217
+msgid "Occurrence order"
+msgstr "Esiintymisjärjestys"
+
+#: inc/dom/mode-list.php:221
+msgid "Alphabetical - sources"
+msgstr "Aakkosjärjestys - lähteet"
+
+#: inc/dom/mode-list.php:225
+msgid "Alphabetical - translations"
+msgstr "Aakkosjärjestys - käännökset"
+
+#: inc/dom/mode-list.php:322
+msgid "Go to top"
+msgstr "Siirry sivun alkuun"
+
+#: inc/slug.php:294 inc/translation.php:238
+msgid "..."
+msgstr "..."
+
+#: inc/switcher-block.php:47
+msgid "wpLingua: languages switcher"
+msgstr "wpLingua: kielten vaihtaja"
+
+#: inc/switcher-block.php:48
+msgid "Add a language switcher to your page."
+msgstr "Lisää kielivaihtaja sivullesi."
+
+#: inc/switcher-block.php:53
+msgid "language"
+msgstr "kieli"
+
+#: inc/switcher-block.php:54
+msgid "switcher"
+msgstr "vaihtaja"
+
+#: inc/switcher-block.php:55
+msgid "multilanguage"
+msgstr "monikielinen"
+
+#: inc/switcher-block.php:56
+msgid "multilingual"
+msgstr "monikielinen"
+
+#: inc/switcher-block.php:57
+msgid "translate"
+msgstr "käännä"
+
+#: inc/switcher-block.php:58
+msgid "translation"
+msgstr "käännös"
+
+#: inc/switcher-block.php:59
+msgid "flag"
+msgstr "lippu"
+
+#: inc/switcher-block.php:60
+msgid "flags"
+msgstr "liput"
+
+#: inc/switcher-block.php:151
+msgid "Languages switcher"
+msgstr "Kielien vaihtaminen"
+
+#: inc/switcher-block.php:152
+msgid "Display the wpLingua languages switcher."
+msgstr "Näytä wpLinguan kieltenvaihtaja."
+
+#: inc/switcher-block.php:153
+msgid "Default"
+msgstr "Oletus"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wplingua.com/"
+msgstr "https://wplingua.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"An all-in-one solution that makes your websites multilingual and translates "
+"them automatically, without word or page limits. The highlights: a free first "
+"language, an on-page visual editor for editing translations, a customizable "
+"language switcher, search engine optimization (SEO), self-hosted data and "
+"more!"
+msgstr ""
+"All-in-one-ratkaisu, joka tekee verkkosivustoistasi monikielisiä ja kääntää "
+"ne automaattisesti ilman sana- tai sivurajoja. Kohokohdat: ilmainen "
+"ensimmäinen kieli, sivulla oleva visuaalinen editori käännösten "
+"muokkaamiseen, mukautettava kielivaihdin, hakukoneoptimointi (SEO), itse "
+"isännöidyt tiedot ja paljon muuta!"
+
+#. Author of the plugin/theme
+msgid "wpLingua Translation Service"
+msgstr "wpLingua käännöspalvelu"
+
+#~ msgid "wpLingua is not compatible with Multisite."
+#~ msgstr "wpLingua ei ole yhteensopiva Multisite-sivuston kanssa."
+
+#~ msgid "Contact support on wplingua.com"
+#~ msgstr "Ota yhteyttä tukeen osoitteessa wplingua.com"
+
+#~ msgid "Upgrade your API key on wplingua.com"
+#~ msgstr "Päivitä API-avaimesi osoitteessa wplingua.com"
+
+#~ msgid "API feature: Use wpLingua on commercial website"
+#~ msgstr "API-ominaisuus: Käytä wpLingua kaupallisella verkkosivustolla"
+
+#~ msgid "Website slug"
+#~ msgstr "Verkkosivuston etuliite"
+
+#~ msgid "All slugs"
+#~ msgstr "Kaikki etanat"
+
+#~ msgid "Edit slug"
+#~ msgstr "Muokkaa polkutunnus"
+
+#~ msgid "Edit entry"
+#~ msgstr "Muokkaa merkintää"
+
+#~ msgid "Mark slug translation as review"
+#~ msgstr "Merkitse slug-käännös tarkistukseksi"

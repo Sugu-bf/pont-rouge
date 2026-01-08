@@ -1,0 +1,2501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpLingua\n"
+"POT-Creation-Date: 2025-08-25 11:57+0200\n"
+"PO-Revision-Date: 2025-08-25 16:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wplingua.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: data.php:559
+msgid "Bottom right"
+msgstr "Kanan bawah"
+
+#: data.php:560
+msgid "Bottom center"
+msgstr "Bagian tengah bawah"
+
+#: data.php:561
+msgid "Bottom left"
+msgstr "Kiri bawah"
+
+#: data.php:562
+msgid "None"
+msgstr "Nihil"
+
+#: data.php:574
+msgid "Light - Double - Smooth"
+msgstr "Ringan - Ganda - Halus"
+
+#: data.php:575
+msgid "Light - Double - Square"
+msgstr "Cahaya - Ganda - Persegi"
+
+#: data.php:576
+msgid "Light - Simple - Smooth"
+msgstr "Ringan - Sederhana - Halus"
+
+#: data.php:577
+msgid "Light - Simple - Square"
+msgstr "Cahaya - Sederhana - Persegi"
+
+#: data.php:578
+msgid "Grey - Double - Smooth"
+msgstr "Abu-abu - Ganda - Halus"
+
+#: data.php:579
+msgid "Grey - Double - Square"
+msgstr "Abu-abu - Ganda - Persegi"
+
+#: data.php:580
+msgid "Grey - Simple - Smooth"
+msgstr "Abu-abu - Sederhana - Halus"
+
+#: data.php:581
+msgid "Grey - Simple - Square"
+msgstr "Abu-abu - Sederhana - Persegi"
+
+#: data.php:582
+msgid "Dark - Double - Smooth"
+msgstr "Gelap - Ganda - Halus"
+
+#: data.php:583
+msgid "Dark - Double - Square"
+msgstr "Gelap - Ganda - Persegi"
+
+#: data.php:584
+msgid "Dark - Simple - Smooth"
+msgstr "Gelap - Sederhana - Halus"
+
+#: data.php:585
+msgid "Dark - Simple - Square"
+msgstr "Gelap - Sederhana - Kotak"
+
+#: data.php:586
+msgid "Blur Black - Double - Smooth"
+msgstr "Buram Hitam - Ganda - Halus"
+
+#: data.php:587
+msgid "Blur Black - Double - Square"
+msgstr "Buram Hitam - Ganda - Persegi"
+
+#: data.php:588
+msgid "Blur Black - Simple - Smooth"
+msgstr "Buram Hitam - Sederhana - Halus"
+
+#: data.php:589
+msgid "Blur Black - Simple - Square"
+msgstr "Buram Hitam - Sederhana - Persegi"
+
+#: data.php:590
+msgid "Blur White - Double - Smooth"
+msgstr "Buram Putih - Ganda - Halus"
+
+#: data.php:591
+msgid "Blur White - Double - Square"
+msgstr "Buram Putih - Ganda - Persegi"
+
+#: data.php:592
+msgid "Blur White - Simple - Smooth"
+msgstr "Blur Putih - Sederhana - Halus"
+
+#: data.php:593
+msgid "Blur White - Simple - Square"
+msgstr "Putih Buram - Sederhana - Persegi"
+
+#: data.php:605
+msgid "Inline list"
+msgstr "Daftar sebaris"
+
+#: data.php:606
+msgid "Block"
+msgstr "Blok"
+
+#: data.php:607
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: data.php:619 data.php:653
+msgid "Original name"
+msgstr "Nama asli"
+
+#: data.php:620 data.php:654
+msgid "Translated name"
+msgstr "Nama yang diterjemahkan"
+
+#: data.php:621 data.php:655
+msgid "Language ID"
+msgstr "ID Bahasa"
+
+#: data.php:622 data.php:637 data.php:656 data.php:669
+msgid "No display"
+msgstr "Tidak ada tampilan"
+
+#: data.php:634
+msgid "Circle"
+msgstr "Lingkaran"
+
+#: data.php:635
+msgid "Rectangular"
+msgstr "Persegi panjang"
+
+#: data.php:636
+msgid "Wave"
+msgstr "Gelombang"
+
+#: data.php:668
+msgid "Display"
+msgstr "Tampilan"
+
+#: data.php:681
+msgid "List without current language"
+msgstr "Daftar tanpa bahasa saat ini"
+
+#: data.php:682
+msgid "List without active class"
+msgstr "Daftar tanpa kelas aktif"
+
+#: data.php:683
+msgid "List with active class"
+msgstr "Daftar dengan kelas aktif"
+
+#: data.php:684
+msgid "Sub-list"
+msgstr "Sub-daftar"
+
+#: data.php:737
+msgid "Arabic"
+msgstr "Arab"
+
+#: data.php:743 data.php:897
+msgid "Global"
+msgstr "Global"
+
+#: data.php:748
+msgid "Egypt"
+msgstr "Mesir"
+
+#: data.php:753
+msgid "Saudi Arabia"
+msgstr "Arab Saudi"
+
+#: data.php:758
+msgid "Algeria"
+msgstr "Algeria"
+
+#: data.php:763
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: data.php:768
+msgid "Chad"
+msgstr "Chad"
+
+#: data.php:773
+msgid "Comoros"
+msgstr "Komoro"
+
+#: data.php:778
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: data.php:783
+msgid "Iraq"
+msgstr "Irak"
+
+#: data.php:788
+msgid "Jordan"
+msgstr "Yordania"
+
+#: data.php:793
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: data.php:798
+msgid "Lebanon"
+msgstr "Lebanon"
+
+#: data.php:803
+msgid "Libya"
+msgstr "Libya"
+
+#: data.php:808
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: data.php:813
+msgid "Morocco"
+msgstr "Maroko"
+
+#: data.php:818
+msgid "Oman"
+msgstr "Oman"
+
+#: data.php:823
+msgid "Palestine"
+msgstr "Palestina"
+
+#: data.php:828
+msgid "Qatar"
+msgstr "Qatar"
+
+#: data.php:833
+msgid "Somalia"
+msgstr "Somalia"
+
+#: data.php:838
+msgid "Sudan"
+msgstr "Sudan"
+
+#: data.php:843
+msgid "Syria"
+msgstr "Suriah"
+
+#: data.php:848
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: data.php:853
+msgid "United Arab Emirates"
+msgstr "Uni Emirat Arab"
+
+#: data.php:858
+msgid "Yemen"
+msgstr "Yaman"
+
+#: data.php:892
+msgid "Chinese"
+msgstr "Cina"
+
+#: data.php:902
+msgid "China"
+msgstr "Cina"
+
+#: data.php:907
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+#: data.php:912
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: data.php:917 data.php:1153
+msgid "Singapore"
+msgstr "Singapura"
+
+#: data.php:951
+msgid "Danish"
+msgstr "Denmark"
+
+#: data.php:956
+msgid "Denmark"
+msgstr "Denmark"
+
+#: data.php:990
+msgid "Dutch"
+msgstr "Belanda"
+
+#: data.php:995
+msgid "Netherlands"
+msgstr "Belanda"
+
+#: data.php:1000 data.php:1246
+msgid "Belgium"
+msgstr "Belgia"
+
+#: data.php:1005
+msgid "Suriname"
+msgstr "Suriname"
+
+#: data.php:1039
+msgid "Slovak"
+msgstr "Slovakia"
+
+#: data.php:1044
+msgid "Slovakia"
+msgstr "Slovakia"
+
+#: data.php:1049
+msgid "Czech Republic"
+msgstr "Republik Ceko"
+
+#: data.php:1083
+msgid "English"
+msgstr "Inggris (English)"
+
+#: data.php:1088
+msgid "US / GB"
+msgstr "AS / GB"
+
+#: data.php:1093
+msgid "United Kingdom"
+msgstr "Kerajaan Inggris"
+
+#: data.php:1098
+msgid "United States"
+msgstr "Amerika Serikat"
+
+#: data.php:1103
+msgid "Australia"
+msgstr "Australia"
+
+#: data.php:1108 data.php:1256
+msgid "Canada"
+msgstr "Kanada"
+
+#: data.php:1113
+msgid "Ireland"
+msgstr "Irlandia"
+
+#: data.php:1118
+msgid "New Zealand"
+msgstr "Selandia Baru"
+
+#: data.php:1123
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: data.php:1128
+msgid "South Africa"
+msgstr "Afrika Selatan"
+
+#: data.php:1133
+msgid "Kenya"
+msgstr "Kenya"
+
+#: data.php:1138
+msgid "Ghana"
+msgstr "Ghana"
+
+#: data.php:1143
+msgid "South Sudan"
+msgstr "Sudan Selatan"
+
+#: data.php:1148
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: data.php:1158
+msgid "Liberia"
+msgstr "Liberia"
+
+#: data.php:1163
+msgid "Jamaica"
+msgstr "Jamaika"
+
+#: data.php:1197
+msgid "Finnish"
+msgstr "Finlandia"
+
+#: data.php:1202 data.php:1988
+msgid "Finland"
+msgstr "Finlandia"
+
+#: data.php:1236
+msgid "French"
+msgstr "Perancis"
+
+#: data.php:1241
+msgid "France"
+msgstr "Perancis"
+
+#: data.php:1251
+msgid "Quebec"
+msgstr "Quebec"
+
+#: data.php:1261
+msgid "Congo - Kinshasa"
+msgstr "Kongo - Kinshasa"
+
+#: data.php:1266
+msgid "Congo - Brazzaville"
+msgstr "Kongo - Brazzaville"
+
+#: data.php:1271
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: data.php:1276
+msgid "Ivory Coast"
+msgstr "Ivory Coast"
+
+#: data.php:1281 data.php:1330
+msgid "Switzerland"
+msgstr "Swiss"
+
+#: data.php:1315
+msgid "German"
+msgstr "Jerman"
+
+#: data.php:1320
+msgid "Germany"
+msgstr "Jerman"
+
+#: data.php:1325
+msgid "Austria"
+msgstr "Austria"
+
+#: data.php:1335
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: data.php:1369
+msgid "Greek"
+msgstr "Yunani"
+
+#: data.php:1374
+msgid "Greece"
+msgstr "Yunani"
+
+#: data.php:1379 data.php:2032
+msgid "Cyprus"
+msgstr "Siprus"
+
+#: data.php:1413
+msgid "Hebrew"
+msgstr "Ibrani"
+
+#: data.php:1419
+msgid "Israel"
+msgstr "Israel"
+
+#: data.php:1453
+msgid "Hindi"
+msgstr "Hindi"
+
+#: data.php:1458
+msgid "India"
+msgstr "India"
+
+#: data.php:1463
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: data.php:1497
+msgid "Hungarian"
+msgstr "Hungaria"
+
+#: data.php:1502
+msgid "Hungary"
+msgstr "Hongaria"
+
+#: data.php:1536
+msgid "Indonesian"
+msgstr "Bahasa Indonesia"
+
+#: data.php:1541
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: data.php:1575
+msgid "Italian"
+msgstr "Italia"
+
+#: data.php:1580
+msgid "Italy"
+msgstr "Italia"
+
+#: data.php:1614
+msgid "Japanese"
+msgstr "Jepang"
+
+#: data.php:1619
+msgid "Japan"
+msgstr "Jepang"
+
+#: data.php:1653
+msgid "Korean"
+msgstr "Korea"
+
+#: data.php:1658
+msgid "South Korea"
+msgstr "Korea Selatan"
+
+#: data.php:1663
+msgid "North Korea"
+msgstr "Korea Utara"
+
+#: data.php:1697
+msgid "Polish"
+msgstr "Polandia"
+
+#: data.php:1702
+msgid "Poland"
+msgstr "Polandia"
+
+#: data.php:1736
+msgid "Portuguese"
+msgstr "Portugis"
+
+#: data.php:1741
+msgid "Portugal"
+msgstr "Portugal"
+
+#: data.php:1746
+msgid "Brazil"
+msgstr "Brazil"
+
+#: data.php:1751
+msgid "Mozambique"
+msgstr "Mozambik"
+
+#: data.php:1756
+msgid "Angola"
+msgstr "Angola"
+
+#: data.php:1790
+msgid "Russian"
+msgstr "Rusia"
+
+#: data.php:1795
+msgid "Russia"
+msgstr "Rusia"
+
+#: data.php:1800
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: data.php:1805
+msgid "Belarus"
+msgstr "Belarus"
+
+#: data.php:1810
+msgid "Kyrgyzstan"
+msgstr "Kirgistan"
+
+#: data.php:1815
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: data.php:1849
+msgid "Spanish"
+msgstr "Spanyol"
+
+#: data.php:1854
+msgid "Spain"
+msgstr "Spanyol"
+
+#: data.php:1859
+msgid "Mexico"
+msgstr "Meksiko"
+
+#: data.php:1864
+msgid "Argentina"
+msgstr "Argentina"
+
+#: data.php:1869
+msgid "Colombia"
+msgstr "Kolombia"
+
+#: data.php:1874
+msgid "Peru"
+msgstr "Peru"
+
+#: data.php:1879
+msgid "Ecuador"
+msgstr "Ekuador"
+
+#: data.php:1884
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: data.php:1889
+msgid "Chile"
+msgstr "Chili"
+
+#: data.php:1894
+msgid "Equatorial Guinea"
+msgstr "Guinea ekuator"
+
+#: data.php:1899
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: data.php:1904
+msgid "Cuba"
+msgstr "Kuba"
+
+#: data.php:1909
+msgid "Dominican Republic"
+msgstr "Republik Dominika"
+
+#: data.php:1914
+msgid "Honduras"
+msgstr "Honduras"
+
+#: data.php:1919
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: data.php:1924
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: data.php:1929
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: data.php:1934
+msgid "Costa Rica"
+msgstr "Kosta Rika"
+
+#: data.php:1939
+msgid "Panama"
+msgstr "Panama"
+
+#: data.php:1944
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: data.php:1978
+msgid "Swedish"
+msgstr "Swedia"
+
+#: data.php:1983
+msgid "Sweden"
+msgstr "Swedia"
+
+#: data.php:2022
+msgid "Turkish"
+msgstr "Turki"
+
+#: data.php:2027
+msgid "Turkey"
+msgstr "Turki"
+
+#: data.php:2066
+msgid "Ukrainian"
+msgstr "Ukraina"
+
+#: data.php:2071
+msgid "Ukraine"
+msgstr "Ukraina"
+
+#: data.php:2105
+msgid "Vietnamese"
+msgstr "Vietnam"
+
+#: data.php:2110
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#. Plugin Name of the plugin/theme
+#: inc/admin/admin-bar.php:25 inc/admin/option-page.php:18
+#: inc/admin/option-page.php:37 inc/admin/switcher-nav-menu.php:167
+msgid "wpLingua"
+msgstr "wpLingua"
+
+#: inc/admin/admin-bar.php:35
+msgid "This URL is excluded from translation"
+msgstr "URL ini dikecualikan dari terjemahan"
+
+#: inc/admin/admin-bar.php:65 inc/admin/translation-edit-modal.php:18
+#: inc/dom/mode-list.php:158
+msgid "Return on page"
+msgstr "Kembali ke halaman"
+
+#: inc/admin/admin-bar.php:75
+msgid "Visual editor"
+msgstr "Editor visual"
+
+#: inc/admin/admin-bar.php:84 inc/dom/mode-list.php:250
+msgid "All translations on page"
+msgstr "Semua terjemahan pada halaman"
+
+#: inc/admin/admin-bar.php:200
+msgid "Edit the page slug"
+msgstr "Mengedit slug halaman"
+
+#: inc/admin/admin-bar.php:279 inc/admin/admin.php:59
+#: inc/admin/translation-cpt.php:23
+msgid "Translations"
+msgstr "Terjemahan"
+
+#: inc/admin/admin.php:57
+msgid "Edit translations"
+msgstr "Edit terjemahan"
+
+#: inc/admin/assets.php:366 inc/admin/assets.php:458 inc/assets.php:89
+msgid ""
+"You are about to leave the page without saving your changes. They will be "
+"lost if you continue. Would you like to leave the page anyway?"
+msgstr ""
+"Anda akan meninggalkan halaman tanpa menyimpan perubahan Anda. Perubahan "
+"tersebut akan hilang jika Anda melanjutkan. Apakah Anda tetap ingin "
+"meninggalkan halaman?"
+
+#: inc/admin/option-page-dictionary.php:20
+msgid "wpLingua - Dictionary rules"
+msgstr "wpLingua - Aturan kamus"
+
+#: inc/admin/option-page-dictionary.php:34
+msgid "Dictionary entries"
+msgstr "Entri kamus"
+
+#: inc/admin/option-page-dictionary.php:38
+msgid "Translation rules by dictionary: "
+msgstr "Aturan penerjemahan berdasarkan kamus: "
+
+#: inc/admin/option-page-dictionary.php:40
+msgid ""
+"The dictionary allows you to define translation rules that apply when "
+"generating machine translations. You can specify words or sets of words that "
+"should never be translated, or define how they should be translated for each "
+"language."
+msgstr ""
+"Kamus memungkinkan Anda untuk menentukan aturan penerjemahan yang berlaku "
+"saat menghasilkan terjemahan mesin. Anda dapat menentukan kata atau kumpulan "
+"kata yang tidak boleh diterjemahkan, atau menentukan bagaimana kata tersebut "
+"harus diterjemahkan untuk setiap bahasa."
+
+#: inc/admin/option-page-dictionary.php:47
+msgid "Add a dictionary entry"
+msgstr "Menambahkan entri kamus"
+
+#: inc/admin/option-page-dictionary.php:55
+#: inc/admin/option-page-link-media.php:55
+msgid "Add an entry"
+msgstr "Menambahkan entri"
+
+#: inc/admin/option-page-dictionary.php:64
+#: inc/admin/option-page-link-media.php:64
+msgid "Edit the entry"
+msgstr "Mengedit entri"
+
+#: inc/admin/option-page-dictionary.php:102
+msgid "All dictionary entries: "
+msgstr "Semua entri kamus: "
+
+#: inc/admin/option-page-dictionary.php:117
+#: inc/admin/option-page-link-media.php:117
+msgid "Rule N°"
+msgstr "Aturan No"
+
+#: inc/admin/option-page-dictionary.php:127
+#: inc/admin/option-page-link-media.php:127
+#: inc/admin/option-page-settings.php:272 inc/admin/option-page-settings.php:337
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/admin/option-page-dictionary.php:134
+#: inc/admin/option-page-link-media.php:134
+#: inc/admin/option-page-settings.php:338
+msgid "Remove"
+msgstr "Hapus"
+
+#: inc/admin/option-page-dictionary.php:146
+msgid "Always translate: "
+msgstr "Selalu terjemahkan: "
+
+#: inc/admin/option-page-dictionary.php:162
+msgid " - By: "
+msgstr " - Oleh: "
+
+#: inc/admin/option-page-dictionary.php:168
+msgid "Never translate: "
+msgstr "Jangan pernah menerjemahkan: "
+
+#: inc/admin/option-page-dictionary.php:206
+#: inc/admin/option-page-dictionary.php:320
+msgid "Source text: "
+msgstr "Teks sumber: "
+
+#: inc/admin/option-page-dictionary.php:230
+#: inc/admin/option-page-dictionary.php:344
+msgid "Never translate"
+msgstr "Jangan pernah menerjemahkan"
+
+#: inc/admin/option-page-dictionary.php:252
+#: inc/admin/option-page-dictionary.php:366
+#: inc/admin/option-page-link-media.php:446
+msgid " - Always translate by: "
+msgstr " - Selalu terjemahkan oleh: "
+
+#: inc/admin/option-page-dictionary.php:279
+#: inc/admin/option-page-dictionary.php:393
+#: inc/admin/option-page-link-media.php:336
+#: inc/admin/option-page-link-media.php:472
+msgid "Cancel"
+msgstr "Batal"
+
+#: inc/admin/option-page-dictionary.php:287
+#: inc/admin/option-page-link-media.php:344
+msgid "Save new entry"
+msgstr "Menyimpan entri baru"
+
+#: inc/admin/option-page-dictionary.php:401
+#: inc/admin/option-page-link-media.php:480
+msgid "Save edited entry"
+msgstr "Menyimpan entri yang telah diedit"
+
+#: inc/admin/option-page-exclusions.php:17
+msgid "wpLingua - Exclusion rules"
+msgstr "wpLingua - Aturan pengecualian"
+
+#: inc/admin/option-page-exclusions.php:28
+msgid "Exclude URL"
+msgstr "Kecualikan URL"
+
+#: inc/admin/option-page-exclusions.php:31
+msgid "Exclude URL from translation: "
+msgstr "Kecualikan URL dari terjemahan: "
+
+#: inc/admin/option-page-exclusions.php:35
+msgid ""
+"You can exclude from translations pages you wish to offer only in the "
+"website's original language. To do this, list the REGEXs that match the URL "
+"to be excluded, one per line. Examples: "
+msgstr ""
+"Anda dapat mengecualikan halaman terjemahan yang ingin Anda tawarkan hanya "
+"dalam bahasa asli situs web. Untuk melakukan ini, buat daftar REGEX yang "
+"sesuai dengan URL yang akan dikecualikan, satu per baris. Contoh: "
+
+#: inc/admin/option-page-exclusions.php:38
+msgid "Exclude URL \"/my-page/\""
+msgstr "Kecualikan URL \"/halaman-saya/\""
+
+#: inc/admin/option-page-exclusions.php:39
+msgid "Exclude URL starting with \"/my-page/\""
+msgstr "Kecualikan URL yang dimulai dengan \"/halaman-saya/\""
+
+#: inc/admin/option-page-exclusions.php:40
+msgid "Exclude URL ending with \"/my-page/\""
+msgstr "Kecualikan URL yang diakhiri dengan \"/halaman-saya/\""
+
+#: inc/admin/option-page-exclusions.php:41
+msgid "Exclude URL containing \"/my-page/\""
+msgstr "Kecualikan URL yang mengandung \"/halaman-saya/\""
+
+#: inc/admin/option-page-exclusions.php:49
+msgid "Exclude elements"
+msgstr "Mengecualikan elemen"
+
+#: inc/admin/option-page-exclusions.php:52
+msgid "Exclude HTML elements: "
+msgstr "Mengecualikan elemen HTML: "
+
+#: inc/admin/option-page-exclusions.php:56
+msgid ""
+"You can leave some elements of your web pages untranslated. To do this, list "
+"below the CSS selectors for the elements to be excluded, one per line. "
+"Examples: "
+msgstr ""
+"Anda dapat membiarkan beberapa elemen halaman web Anda tidak diterjemahkan. "
+"Untuk melakukan hal ini, cantumkan di bawah pemilih CSS untuk elemen yang "
+"akan dikecualikan, satu per baris. Contoh: "
+
+#: inc/admin/option-page-exclusions.php:59
+msgid "Exclude elements by ID attribute"
+msgstr "Mengecualikan elemen berdasarkan atribut ID"
+
+#: inc/admin/option-page-exclusions.php:60
+msgid "Exclude elements by class attribute"
+msgstr "Mengecualikan elemen berdasarkan atribut kelas"
+
+#: inc/admin/option-page-exclusions.php:61
+msgid "Exclude elements by CSS selector"
+msgstr "Mengecualikan elemen dengan pemilih CSS"
+
+#: inc/admin/option-page-exclusions.php:69 inc/admin/option-page-settings.php:86
+#: inc/admin/option-page-switcher.php:496
+#: inc/admin/translation-edit-modal.php:71 inc/assets.php:96
+msgid "Save"
+msgstr "Simpan"
+
+#: inc/admin/option-page-link-media.php:20
+msgid "wpLingua - Links & Medias"
+msgstr "wpLingua - Tautan & Media"
+
+#: inc/admin/option-page-link-media.php:34
+msgid "Links & medias"
+msgstr "Tautan & media"
+
+#: inc/admin/option-page-link-media.php:38
+msgid "Links and medias translations rules: "
+msgstr "Aturan penerjemahan tautan dan media: "
+
+#: inc/admin/option-page-link-media.php:40
+msgid ""
+"Translation rules on links and media allow different images to be displayed "
+"or link URLs to be changed according to the current language. These rules "
+"apply to elements such as: link target URLs, image source URLs, iframe source "
+"URLs, URLs in intercepted JSONs..."
+msgstr ""
+"Aturan penerjemahan pada tautan dan media memungkinkan gambar yang berbeda "
+"ditampilkan atau URL tautan diubah sesuai dengan bahasa yang digunakan. "
+"Aturan ini berlaku untuk elemen-elemen seperti: URL target tautan, URL sumber "
+"gambar, URL sumber iframe, URL dalam JSON yang disadap..."
+
+#: inc/admin/option-page-link-media.php:47
+msgid "Add a rule"
+msgstr "Menambahkan aturan"
+
+#: inc/admin/option-page-link-media.php:102
+msgid "All links and medias rules: "
+msgstr "Semua aturan tautan dan media: "
+
+#: inc/admin/option-page-link-media.php:149
+msgid "Mode: "
+msgstr "Mode: "
+
+#: inc/admin/option-page-link-media.php:158
+#: inc/admin/option-page-link-media.php:266
+#: inc/admin/option-page-link-media.php:402
+msgid "Exactly equal"
+msgstr "Persis sama"
+
+#: inc/admin/option-page-link-media.php:162
+#: inc/admin/option-page-link-media.php:275
+#: inc/admin/option-page-link-media.php:411
+msgid "Partially equal"
+msgstr "Sebagian sama"
+
+#: inc/admin/option-page-link-media.php:166
+msgid "Regex"
+msgstr "Regex"
+
+#: inc/admin/option-page-link-media.php:170
+msgid "Error"
+msgstr "Kesalahan"
+
+#: inc/admin/option-page-link-media.php:182
+msgid "Original: "
+msgstr "Asli: "
+
+#: inc/admin/option-page-link-media.php:241
+#: inc/admin/option-page-link-media.php:377
+msgid "Original URL: "
+msgstr "URL asli: "
+
+#: inc/admin/option-page-link-media.php:284
+#: inc/admin/option-page-link-media.php:420
+msgid "REGEX"
+msgstr "REGEX"
+
+#: inc/admin/option-page-link-media.php:310
+msgid " - URL: "
+msgstr " - URL: "
+
+#: inc/admin/option-page-register.php:31 inc/admin/option-page-register.php:70
+msgid "Message: "
+msgstr "Pesan: "
+
+#: inc/admin/option-page-register.php:37
+msgid "An error occurred with API key."
+msgstr "Terjadi kesalahan pada kunci API."
+
+#: inc/admin/option-page-register.php:53
+msgid "Invalid API key."
+msgstr "Kunci API tidak valid."
+
+#: inc/admin/option-page-register.php:77
+msgid "An error occurred while creating the API key."
+msgstr "Terjadi kesalahan saat membuat kunci API."
+
+#: inc/admin/option-page-register.php:93
+msgid "wpLingua - Register API key"
+msgstr "wpLingua - Daftarkan kunci API"
+
+#: inc/admin/option-page-register.php:113
+msgid "API key created"
+msgstr "Kunci API dibuat"
+
+#: inc/admin/option-page-register.php:117
+msgid "API key created and sent by email"
+msgstr "Kunci API dibuat dan dikirim melalui email"
+
+#: inc/admin/option-page-register.php:121
+msgid ""
+"The API key has been correctly created and sent to the following e-mail "
+"address: "
+msgstr ""
+"Kunci API telah dibuat dengan benar dan dikirim ke alamat email berikut: "
+
+#: inc/admin/option-page-register.php:127
+msgid ""
+"Go to your mailbox and copy the API key sent to you (don't forget to check "
+"the spam section of your mailbox). Then paste it in the section below, and "
+"click \"Set API key\" to make your website multilingual."
+msgstr ""
+"Buka kotak surat Anda dan salin kunci API yang dikirimkan kepada Anda (jangan "
+"lupa untuk memeriksa bagian spam pada kotak surat Anda). Kemudian tempelkan "
+"pada bagian di bawah ini, dan klik \"Set API key\" untuk menjadikan situs web "
+"Anda multibahasa."
+
+#: inc/admin/option-page-register.php:133 inc/admin/option-page-register.php:149
+msgid "Set API Key"
+msgstr "Mengatur Kunci API"
+
+#: inc/admin/option-page-register.php:142 inc/admin/option-page-register.php:187
+#: inc/admin/option-page-register.php:372
+msgid "Get API key"
+msgstr "Dapatkan kunci API"
+
+#: inc/admin/option-page-register.php:156
+msgid "Start with wpLingua"
+msgstr "Mulai dengan wpLingua"
+
+#: inc/admin/option-page-register.php:159
+msgid "You are just a few clicks away from making your website multilingual!"
+msgstr ""
+"Anda hanya perlu beberapa klik saja untuk membuat situs web Anda menjadi "
+"multibahasa!"
+
+#: inc/admin/option-page-register.php:165
+msgid ""
+"For wpLingua to work, an API key is required so that your website has access "
+"to the automatic translation service. On this page you can enter your API key "
+"if you already have one, or create one for free."
+msgstr ""
+"Agar wpLingua dapat berfungsi, diperlukan kunci API agar situs web Anda "
+"memiliki akses ke layanan penerjemahan otomatis. Di halaman ini Anda dapat "
+"memasukkan kunci API jika Anda sudah memilikinya, atau membuatnya secara "
+"gratis."
+
+#: inc/admin/option-page-register.php:170
+msgid ""
+"An <strong>instantly multilingual website</strong> thanks to automatic text "
+"detection and translation. Easy to use, no knowledge required."
+msgstr ""
+"<strong>Situs web multibahasa secara instan</strong> berkat deteksi dan "
+"terjemahan teks otomatis. Mudah digunakan, tidak perlu pengetahuan khusus."
+
+#: inc/admin/option-page-register.php:174
+msgid ""
+"<strong>SEO friendly</strong> to allow search engines to index translated "
+"pages. Open up your website and your business to the whole world."
+msgstr ""
+"<strong>Ramah SEO</strong> agar mesin pencari dapat mengindeks halaman yang "
+"diterjemahkan. Buka situs web dan bisnis Anda ke seluruh dunia."
+
+#: inc/admin/option-page-register.php:178
+msgid ""
+"All <strong>translations are editable</strong>. Discover the visual editor "
+"and edit translations simply by clicking on them. With a fully customizable "
+"language switcher."
+msgstr ""
+"Semua <strong>terjemahan dapat diedit.</strong> Temukan editor visual dan "
+"edit terjemahan hanya dengan mengekliknya. Dengan pengalih bahasa yang dapat "
+"disesuaikan sepenuhnya."
+
+#: inc/admin/option-page-register.php:182
+msgid ""
+"One <strong>free and unlimited</strong> language for personal blogs and non-"
+"commercial websites. And many more features!"
+msgstr ""
+"Satu bahasa <strong>gratis dan tak terbatas</strong> untuk blog pribadi dan "
+"situs web non-komersial. Dan masih banyak lagi fitur lainnya!"
+
+#: inc/admin/option-page-register.php:191 inc/admin/option-page-register.php:242
+msgid "Set API key"
+msgstr "Tetapkan kunci API"
+
+#: inc/admin/option-page-register.php:197
+msgid "Advanced API features"
+msgstr "Fitur API tingkat lanjut"
+
+#: inc/admin/option-page-register.php:222
+msgid "Set the wpLingua API key: "
+msgstr "Tetapkan kunci API wpLingua: "
+
+#: inc/admin/option-page-register.php:228
+msgid ""
+"If you already have an API key, enter it below. If you've forgotten your "
+"website's API key, visit"
+msgstr ""
+"Jika Anda sudah memiliki kunci API, masukkan di bawah ini. Jika Anda lupa "
+"kunci API situs web Anda, kunjungi"
+
+#: inc/admin/option-page-register.php:228
+msgid "the API key retrieval page"
+msgstr "halaman pengambilan kunci API"
+
+#: inc/admin/option-page-register.php:229 inc/admin/option-page-register.php:293
+#: inc/admin/option-page-register.php:309 inc/admin/option-page-register.php:325
+#: inc/admin/option-page-register.php:341 inc/admin/option-page-settings.php:244
+#: inc/admin/option-page-settings.php:376 inc/admin/option-page-settings.php:432
+#: inc/admin/option-page-settings.php:452 inc/admin/option-page-settings.php:490
+#: inc/admin/option-page-settings.php:509 inc/admin/option-page-settings.php:539
+#: inc/admin/option-page-switcher.php:73 inc/admin/option-page-switcher.php:124
+#: inc/admin/option-page-switcher.php:179 inc/admin/option-page-switcher.php:237
+#: inc/admin/option-page-switcher.php:331 inc/admin/option-page-switcher.php:384
+#: inc/admin/option-page-switcher.php:437 inc/admin/option-page-switcher.php:451
+#: inc/admin/option-page-switcher.php:465
+msgid "Click to expand"
+msgstr "Klik untuk memperluas"
+
+#: inc/admin/option-page-register.php:233 inc/admin/option-page-settings.php:544
+msgid ""
+"A wpLingua API key consists of 42 characters (uppercase, lowercase and "
+"numbers). It is emailed to you when you request it using the form provided "
+"when you install the plugin. You must keep this key secret and only "
+"communicate it to wplingua.com services."
+msgstr ""
+"Kunci API wpLingua terdiri dari 42 karakter (huruf besar, huruf kecil, dan "
+"angka). Kunci ini akan dikirimkan melalui email kepada Anda saat Anda "
+"memintanya menggunakan formulir yang disediakan saat Anda menginstal plugin. "
+"Anda harus merahasiakan kunci ini dan hanya mengomunikasikannya ke layanan "
+"wplingua.com."
+
+#: inc/admin/option-page-register.php:277
+msgid "Register wpLingua API key: "
+msgstr "Daftarkan kunci API wpLingua: "
+
+#: inc/admin/option-page-register.php:283
+msgid ""
+"Claim a wpLingua API key and make your website multilingual in a minute! For "
+"a personal blog or a non-commercial website, get one unlimited free language."
+msgstr ""
+"Klaim kunci API wpLingua dan jadikan situs web Anda multibahasa dalam satu "
+"menit! Untuk blog pribadi atau situs web non-komersial, dapatkan satu bahasa "
+"gratis tanpa batas."
+
+#: inc/admin/option-page-register.php:292
+msgid "Email address: "
+msgstr "Alamat email: "
+
+#: inc/admin/option-page-register.php:300
+msgid ""
+"The email address is detected and pre-filled. This is the administrative "
+"email address entered in the Settings ➔ General tab. You can use another "
+"email address used to receive your API key."
+msgstr ""
+"Alamat email terdeteksi dan sudah diisi sebelumnya. Ini adalah alamat email "
+"administratif yang dimasukkan di tab Pengaturan ➔ Umum. Anda dapat "
+"menggunakan alamat email lain yang digunakan untuk menerima kunci API."
+
+#: inc/admin/option-page-register.php:308
+msgid "Website URL: "
+msgstr "URL situs web: "
+
+#: inc/admin/option-page-register.php:316
+msgid ""
+"This is the URL of your website, it is detected and pre-filled automatically. "
+"Please check it and only enter the address of your production website (no "
+"test website or development environment)."
+msgstr ""
+"Ini adalah URL situs web Anda, terdeteksi dan terisi secara otomatis. Silakan "
+"periksa dan masukkan alamat situs web produksi Anda saja (jangan masukkan "
+"situs web uji coba atau lingkungan pengembangan)."
+
+#: inc/admin/option-page-register.php:324
+msgid "Website language: "
+msgstr "Bahasa situs web: "
+
+#: inc/admin/option-page-register.php:332 inc/admin/option-page-settings.php:251
+msgid ""
+"This is the language of your website, defined by the associated API key. Make "
+"sure your website language is also correctly set in WordPress options "
+"(Settings ➔ General ➔ Website Language)."
+msgstr ""
+"Ini adalah bahasa situs web Anda, yang ditentukan oleh kunci API terkait. "
+"Pastikan bahasa situs web Anda juga diatur dengan benar dalam opsi WordPress "
+"(Pengaturan ➔ Umum ➔ Bahasa Situs Web)."
+
+#: inc/admin/option-page-register.php:340
+msgid "Target language: "
+msgstr "Bahasa target: "
+
+#: inc/admin/option-page-register.php:348
+msgid ""
+"This is the language you want to translate your website into. Be careful not "
+"to make a mistake because you will not be able to change the language "
+"afterwards."
+msgstr ""
+"Ini adalah bahasa yang Anda inginkan untuk menerjemahkan situs web Anda. "
+"Berhati-hatilah agar tidak membuat kesalahan karena Anda tidak dapat mengubah "
+"bahasa setelahnya."
+
+#: inc/admin/option-page-register.php:357
+msgid "I have read and accept the"
+msgstr "Saya telah membaca dan menerima"
+
+#: inc/admin/option-page-register.php:357
+msgid "API terms of use"
+msgstr "Ketentuan penggunaan API"
+
+#: inc/admin/option-page-register.php:365
+msgid "Website Locale: "
+msgstr "Lokasi Situs Web: "
+
+#: inc/admin/option-page-register.php:386
+msgid "Get more target languages and advanced features: "
+msgstr "Dapatkan lebih banyak bahasa target dan fitur-fitur canggih: "
+
+#: inc/admin/option-page-register.php:392
+msgid ""
+"To translate your website into more languages and access advanced features, "
+"visit wpLingua website."
+msgstr ""
+"Untuk menerjemahkan situs web Anda ke dalam lebih banyak bahasa dan mengakses "
+"fitur-fitur canggih, kunjungi situs web wpLingua."
+
+#: inc/admin/option-page-register.php:396 inc/admin/option-page-settings.php:431
+msgid "Use wpLingua on commercial website"
+msgstr "Gunakan wpLingua di situs web komersial"
+
+#: inc/admin/option-page-register.php:397
+msgid "Allow search from all languages"
+msgstr "Izinkan pencarian dari semua bahasa"
+
+#: inc/admin/option-page-register.php:398
+msgid "Get more target languages"
+msgstr "Dapatkan lebih banyak bahasa target"
+
+#: inc/admin/option-page-register.php:403
+msgid "Visit wpLingua website"
+msgstr "Kunjungi situs web wpLingua"
+
+#: inc/admin/option-page-settings.php:25
+msgid "wpLingua - General settings"
+msgstr "wpLingua - Pengaturan umum"
+
+#: inc/admin/option-page-settings.php:52
+msgid "Website language"
+msgstr "Bahasa situs web"
+
+#: inc/admin/option-page-settings.php:58
+msgid "Translated languages"
+msgstr "Bahasa yang diterjemahkan"
+
+#: inc/admin/option-page-settings.php:64
+#, fuzzy
+#| msgid "API features"
+msgid "Features"
+msgstr "Dapatkan lebih banyak bahasa target dan fitur-fitur canggih: "
+
+#: inc/admin/option-page-settings.php:80
+msgid "API Key"
+msgstr "API Key"
+
+#: inc/admin/option-page-settings.php:167
+msgid "Your website is being translated and will be ready soon."
+msgstr "Situs web Anda sedang diterjemahkan dan akan segera siap."
+
+#: inc/admin/option-page-settings.php:168
+msgid ""
+"In just a few seconds, your website will be multilingual, and search engines "
+"will be able to index these new pages. wpLingua detects all the texts on your "
+"pages and offers you a first automatically generated translation. All "
+"translations are editable: open the visual editor from the administration bar "
+"and edit them simply by clicking on the texts on your website."
+msgstr ""
+"Hanya dalam beberapa detik, situs web Anda akan menjadi multibahasa, dan "
+"mesin pencari akan dapat mengindeks halaman-halaman baru ini. wpLingua "
+"mendeteksi semua teks di halaman Anda dan menawarkan terjemahan pertama yang "
+"dibuat secara otomatis. Semua terjemahan dapat diedit: buka editor visual "
+"dari bilah administrasi dan edit hanya dengan mengeklik teks di situs web "
+"Anda."
+
+#: inc/admin/option-page-settings.php:172
+msgid ""
+"Your website is now multilingual! You can start visiting the translated "
+"version."
+msgstr ""
+"Situs web Anda sekarang multibahasa! Anda dapat mulai mengunjungi versi "
+"terjemahan."
+
+#: inc/admin/option-page-settings.php:173
+msgid ""
+"The first time a translated page is loaded, the translations are "
+"automatically generated and saved in the database. This may take some time "
+"(on first generation only) depending on the size of your content. This is why "
+"we advise you to browse your entire website for the first time in order to "
+"generate all the multilingual versions."
+msgstr ""
+"Saat pertama kali halaman yang diterjemahkan dimuat, terjemahan secara "
+"otomatis dibuat dan disimpan dalam database. Hal ini mungkin memerlukan waktu "
+"(hanya pada generasi pertama), tergantung pada ukuran konten Anda. Inilah "
+"sebabnya mengapa kami menyarankan Anda untuk menelusuri seluruh situs web "
+"Anda untuk pertama kalinya agar dapat menghasilkan semua versi multibahasa."
+
+#: inc/admin/option-page-settings.php:174
+msgid ""
+"All translations are editable: open the visual editor from the administration "
+"bar and edit them simply by clicking on the texts on your website."
+msgstr ""
+"Semua terjemahan dapat diedit: buka editor visual dari bilah administrasi dan "
+"edit hanya dengan mengeklik teks pada situs web Anda."
+
+#: inc/admin/option-page-settings.php:177
+msgid "Visit your multilingual website"
+msgstr "Kunjungi situs web multibahasa Anda"
+
+#: inc/admin/option-page-settings.php:204
+msgid "Original website language: "
+msgstr "Bahasa asli situs web: "
+
+#: inc/admin/option-page-settings.php:230
+msgid "Please choose an option"
+msgstr "Silakan pilih salah satu opsi"
+
+#: inc/admin/option-page-settings.php:241
+msgid "Original website language, defined by API key: "
+msgstr "Bahasa situs web asli, ditentukan oleh kunci API: "
+
+#: inc/admin/option-page-settings.php:253
+msgid ""
+"If you have mistakenly entered the wrong language, contact wpLingua support "
+"to request a correction."
+msgstr ""
+"Jika Anda salah memasukkan bahasa yang salah, hubungi dukungan wpLingua untuk "
+"meminta koreksi."
+
+#: inc/admin/option-page-settings.php:256
+msgid "wplingua.com : Contact support"
+msgstr "wplingua.com : Hubungi dukungan"
+
+#: inc/admin/option-page-settings.php:263
+msgid "Custom"
+msgstr "Kustom"
+
+#: inc/admin/option-page-settings.php:278 inc/admin/option-page-settings.php:344
+msgid "Flag to use for this language: "
+msgstr "Tandai untuk digunakan untuk bahasa ini: "
+
+#: inc/admin/option-page-settings.php:287 inc/admin/option-page-settings.php:352
+msgid "Custom flag URL for this language: "
+msgstr "URL bendera khusus untuk bahasa ini: "
+
+#: inc/admin/option-page-settings.php:310
+msgid ""
+"Important: space out the addition of new languages ​​by at least ten days and "
+"browse your site for the first time in the added languages. This promotes "
+"better indexing by search engines, reduces the load on your server and "
+"minimizes the risk of slowdowns on your site."
+msgstr ""
+"Penting: beri jarak waktu minimal sepuluh hari untuk penambahan bahasa baru "
+"dan jelajahi situs Anda untuk pertama kalinya dalam bahasa yang ditambahkan. "
+"Hal ini mendorong pengindeksan yang lebih baik oleh mesin pencari, mengurangi "
+"beban pada server Anda dan meminimalkan risiko perlambatan pada situs Anda."
+
+#: inc/admin/option-page-settings.php:314
+msgid "Add new target Language: "
+msgstr "Menambahkan Bahasa target baru: "
+
+#: inc/admin/option-page-settings.php:320
+msgid "Add language"
+msgstr "Tambahkan bahasa"
+
+#: inc/admin/option-page-settings.php:333
+msgid "(Private)"
+msgstr "(Pribadi)"
+
+#: inc/admin/option-page-settings.php:358
+msgid "Make this language private"
+msgstr "Jadikan bahasa ini pribadi"
+
+#: inc/admin/option-page-settings.php:359
+msgid ""
+"Private languages will only be visible to logged-in users with editing "
+"rights. This option allows administrators to pre-generate and correct "
+"translations before they are accessible to the public."
+msgstr ""
+"Bahasa pribadi hanya akan terlihat oleh pengguna yang masuk dengan hak "
+"pengeditan. Opsi ini memungkinkan administrator untuk membuat dan mengoreksi "
+"terjemahan sebelum dapat diakses oleh publik."
+
+#: inc/admin/option-page-settings.php:368
+msgid "Target languages enabled: "
+msgstr "Bahasa target diaktifkan: "
+
+#: inc/admin/option-page-settings.php:375
+msgid "Access more target languages by upgrading your API key."
+msgstr "Akses lebih banyak bahasa target dengan meningkatkan kunci API Anda."
+
+#: inc/admin/option-page-settings.php:384
+msgid "Available languages: "
+msgstr "Bahasa yang tersedia: "
+
+#: inc/admin/option-page-settings.php:404 inc/admin/option-page-settings.php:442
+#: inc/admin/option-page-settings.php:466 inc/admin/option-page-settings.php:549
+msgid "wplingua.com : Upgrade your API key"
+msgstr "wplingua.com : Tingkatkan kunci API Anda"
+
+#: inc/admin/option-page-settings.php:422
+msgid "API translation features: "
+msgstr "Fitur terjemahan API: "
+
+#: inc/admin/option-page-settings.php:425
+msgid ""
+"The options below require extended access to the wpLingua API to be "
+"functional on your website."
+msgstr ""
+"Opsi-opsi di bawah ini memerlukan akses yang diperluas ke API wpLingua agar "
+"dapat berfungsi di situs web Anda."
+
+#: inc/admin/option-page-settings.php:437
+msgid ""
+"Use of the free wpLingua API keys is reserved for personal blogs and non-"
+"profit websites; paid subscriptions are available for companies and "
+"commercial websites."
+msgstr ""
+"Penggunaan kunci API wpLingua gratis diperuntukkan bagi blog pribadi dan "
+"situs web nirlaba; langganan berbayar tersedia untuk perusahaan dan situs web "
+"komersial."
+
+#: inc/admin/option-page-settings.php:451
+msgid "Search from translated languages"
+msgstr "Cari dari bahasa yang diterjemahkan"
+
+#: inc/admin/option-page-settings.php:457
+msgid "Enable visitors to search on your website in their own language."
+msgstr ""
+"Memungkinkan pengunjung untuk mencari di situs web Anda dalam bahasa mereka "
+"sendiri."
+
+#: inc/admin/option-page-settings.php:461
+msgid ""
+"Example: if your website is translated from English to French and you have a "
+"post named \"Hello\". When a French visitor searches for the term \"Bonjour\" "
+"on the website, this feature will translate it on the fly to \"Hello\" before "
+"launching the search. This will allow WordPress to find the post named "
+"\"Hello\" when your visitor has searched for \"Bonjour\"."
+msgstr ""
+"Contoh: jika situs web Anda diterjemahkan dari bahasa Inggris ke bahasa "
+"Prancis dan Anda memiliki postingan bernama \"Halo\". Saat pengunjung dari "
+"Prancis mencari istilah \"Bonjour\" di situs web, fitur ini akan "
+"menerjemahkannya dengan cepat menjadi \"Hello\" sebelum meluncurkan "
+"pencarian. Hal ini akan memungkinkan WordPress untuk menemukan postingan "
+"bernama \"Hello\" ketika pengunjung Anda mencari \"Bonjour\"."
+
+#: inc/admin/option-page-settings.php:483
+msgid "Plugin translation features: "
+msgstr "Fitur terjemahan plugin: "
+
+#: inc/admin/option-page-settings.php:489
+msgid "Progress bar for editors"
+msgstr "Bilah kemajuan untuk editor"
+
+#: inc/admin/option-page-settings.php:495
+msgid "Enable progress bar: Smooth translations loading for editors"
+msgstr ""
+"Mengaktifkan bilah kemajuan: Pemuatan terjemahan yang lancar untuk editor"
+
+#: inc/admin/option-page-settings.php:499
+msgid ""
+"Activate a progress bar when a page requires the generation of more than 20 "
+"new string translations. This feature only applies to connected editors."
+msgstr ""
+"Mengaktifkan bilah kemajuan saat halaman memerlukan pembuatan lebih dari 20 "
+"terjemahan string baru. Fitur ini hanya berlaku untuk editor yang terhubung."
+
+#: inc/admin/option-page-settings.php:508
+msgid "Enable multilingual XML Sitemap"
+msgstr "Mengaktifkan Peta Situs Web XML multibahasa"
+
+#: inc/admin/option-page-settings.php:514
+msgid ""
+"Enable multilingual Sitemap XML: Automatically add links to your wpLingua "
+"translated pages in your XML Sitemap files."
+msgstr ""
+"Mengaktifkan XML Peta Situs web multibahasa: Secara otomatis menambahkan "
+"tautan ke halaman yang diterjemahkan wpLingua Anda di file Peta Situs web XML."
+
+#: inc/admin/option-page-settings.php:533
+msgid "Website API key: "
+msgstr "Kunci API situs web: "
+
+#: inc/admin/option-page-settings.php:538
+msgid ""
+"The API key connects the website to wpLingua's online services and automatic "
+"translation generators."
+msgstr ""
+"Kunci API menghubungkan situs web ke layanan online wpLingua dan generator "
+"terjemahan otomatis."
+
+#: inc/admin/option-page-settings.php:560
+msgid "Show API key"
+msgstr "Tampilkan kunci API"
+
+#: inc/admin/option-page-settings.php:562
+msgid "Hide API key"
+msgstr "Sembunyikan kunci API"
+
+#: inc/admin/option-page-settings.php:568
+msgid "API key status: "
+msgstr "Status kunci API: "
+
+#: inc/admin/option-page-settings.php:583
+msgid "Premium expiration: "
+msgstr "Masa berlaku premi berakhir: "
+
+#: inc/admin/option-page-switcher.php:35
+msgid "wpLingua - Switcher settings"
+msgstr "wpLingua - Pengaturan pengalih"
+
+#: inc/admin/option-page-switcher.php:51
+msgid "No target language selected."
+msgstr "Tidak ada bahasa target yang dipilih."
+
+#: inc/admin/option-page-switcher.php:56
+msgid "Preview"
+msgstr "Pratinjau"
+
+#: inc/admin/option-page-switcher.php:66
+msgid "Design"
+msgstr "Desain"
+
+#: inc/admin/option-page-switcher.php:72 inc/admin/switcher-nav-menu.php:229
+#: inc/admin/switcher-nav-menu.php:342 inc/switcher-block.php:156
+msgid "Layout: "
+msgstr "Tata Letak: "
+
+#: inc/admin/option-page-switcher.php:99
+msgid ""
+"This option allow you to define the layout of the languages ​​in the switcher."
+msgstr "Opsi ini memungkinkan Anda menentukan tata letak bahasa dalam switcher."
+
+#: inc/admin/option-page-switcher.php:104
+msgid "Inline list: "
+msgstr "Daftar sebaris: "
+
+#: inc/admin/option-page-switcher.php:105
+msgid "the languages ​​are lined up next to each other."
+msgstr "bahasa-bahasa tersebut berbaris bersebelahan."
+
+#: inc/admin/option-page-switcher.php:108
+msgid "Block: "
+msgstr "Blok: "
+
+#: inc/admin/option-page-switcher.php:109
+msgid "the languages ​​are placed in columns, one under the other."
+msgstr "bahasa ditempatkan dalam kolom, satu di bawah yang lain."
+
+#: inc/admin/option-page-switcher.php:112
+msgid "Dropdown: "
+msgstr "Dropdown: "
+
+#: inc/admin/option-page-switcher.php:113
+msgid ""
+"the languages ​​appear in a drop-down menu; this is recommended when your "
+"website offers several languages."
+msgstr ""
+"bahasa muncul dalam menu drop-down; ini direkomendasikan ketika situs web "
+"Anda menawarkan beberapa bahasa."
+
+#: inc/admin/option-page-switcher.php:123 inc/admin/switcher-nav-menu.php:197
+#: inc/admin/switcher-nav-menu.php:298 inc/switcher-block.php:157
+msgid "Displayed names: "
+msgstr "Nama yang ditampilkan: "
+
+#: inc/admin/option-page-switcher.php:148
+msgid ""
+"This option allow you to choose how the languages names should be written in "
+"the switcher."
+msgstr ""
+"Opsi ini memungkinkan Anda untuk memilih bagaimana nama bahasa harus ditulis "
+"dalam switcher."
+
+#: inc/admin/option-page-switcher.php:155
+msgid "Translated names: "
+msgstr "Nama yang diterjemahkan: "
+
+#: inc/admin/option-page-switcher.php:156
+msgid ""
+"the name of the languages ​​is translated into the current language displayed."
+msgstr "nama bahasa diterjemahkan ke dalam bahasa yang ditampilkan saat ini."
+
+#: inc/admin/option-page-switcher.php:159
+msgid "Original name: "
+msgstr "Nama asli: "
+
+#: inc/admin/option-page-switcher.php:160
+msgid ""
+"each language retains its name in its own language (English, Français, 日本"
+"語, Português, Español, etc.)."
+msgstr ""
+"setiap bahasa mempertahankan namanya dalam bahasanya sendiri (Inggris, "
+"Prancis, Jepang, Português, Spanyol, dll.)."
+
+#: inc/admin/option-page-switcher.php:163
+msgid "Language ID: "
+msgstr "ID Bahasa: "
+
+#: inc/admin/option-page-switcher.php:164
+msgid "language names use language ID (FR, EN, DE, RU, etc.)."
+msgstr "nama bahasa menggunakan ID bahasa (FR, EN, DE, RU, dll.)."
+
+#: inc/admin/option-page-switcher.php:167 inc/admin/option-page-switcher.php:220
+msgid "No display: "
+msgstr "Tidak ada tampilan: "
+
+#: inc/admin/option-page-switcher.php:168
+msgid "no text, only flags are displayed."
+msgstr "tidak ada teks, hanya bendera yang ditampilkan."
+
+#: inc/admin/option-page-switcher.php:178 inc/switcher-block.php:158
+msgid "Flags style: "
+msgstr "Gaya bendera: "
+
+#: inc/admin/option-page-switcher.php:202
+msgid ""
+"This option allow you to choose the appearance of the flags in the switcher. "
+msgstr ""
+"Opsi ini memungkinkan Anda untuk memilih penampilan bendera di switcher. "
+
+#: inc/admin/option-page-switcher.php:208
+msgid "Circle: "
+msgstr "Lingkaran: "
+
+#: inc/admin/option-page-switcher.php:209
+msgid "display round flags."
+msgstr "menampilkan bendera bulat."
+
+#: inc/admin/option-page-switcher.php:212
+msgid "Rectangular: "
+msgstr "Persegi panjang: "
+
+#: inc/admin/option-page-switcher.php:213
+msgid "display rectangular flags."
+msgstr "menampilkan bendera persegi panjang."
+
+#: inc/admin/option-page-switcher.php:216
+msgid "Wave: "
+msgstr "Gelombang: "
+
+#: inc/admin/option-page-switcher.php:217
+msgid "display wavy flags."
+msgstr "menampilkan bendera bergelombang."
+
+#: inc/admin/option-page-switcher.php:221
+msgid "no display any flags, only the language name will be displayed."
+msgstr ""
+"tidak menampilkan bendera apa pun, hanya nama bahasa yang akan ditampilkan."
+
+#: inc/admin/option-page-switcher.php:227
+msgid ""
+"You can also change the country flag or set a custom flag from wpLingua ➔ "
+"General settings. For example, you can set the flag of Mexico for Spanish "
+"instead of the flag of Spain."
+msgstr ""
+"Anda juga dapat mengubah bendera negara atau mengatur bendera khusus dari "
+"wpLingua ➔ Pengaturan umum. Misalnya, Anda dapat mengatur bendera Meksiko "
+"untuk bahasa Spanyol, bukan bendera Spanyol."
+
+#: inc/admin/option-page-switcher.php:236 inc/switcher-block.php:159
+msgid "Color theme: "
+msgstr "Tema warna: "
+
+#: inc/admin/option-page-switcher.php:262
+msgid ""
+"This option allows you to choose the color and border styles of the languages "
+"switcher."
+msgstr ""
+"Opsi ini memungkinkan Anda untuk memilih warna dan gaya batas pengalih bahasa."
+
+#: inc/admin/option-page-switcher.php:268
+msgid "The color options offer 5 themes: "
+msgstr "Pilihan warna menawarkan 5 tema: "
+
+#: inc/admin/option-page-switcher.php:273
+msgid "Light: "
+msgstr "Cahaya: "
+
+#: inc/admin/option-page-switcher.php:274
+msgid "white color in the background of the switcher."
+msgstr "warna putih di latar belakang pengalih."
+
+#: inc/admin/option-page-switcher.php:277
+msgid "Grey: "
+msgstr "Abu-abu: "
+
+#: inc/admin/option-page-switcher.php:278
+msgid "grey background color."
+msgstr "warna latar belakang abu-abu."
+
+#: inc/admin/option-page-switcher.php:281
+msgid "Dark: "
+msgstr "Gelap: "
+
+#: inc/admin/option-page-switcher.php:282
+msgid "black background color."
+msgstr "warna latar belakang hitam."
+
+#: inc/admin/option-page-switcher.php:285
+msgid "Blur Black: "
+msgstr "Blur Black: "
+
+#: inc/admin/option-page-switcher.php:286
+msgid "transparent and blurred background color with black text and borders."
+msgstr ""
+"warna latar belakang transparan dan kabur dengan teks dan garis tepi hitam."
+
+#: inc/admin/option-page-switcher.php:289
+msgid "Blur White: "
+msgstr "Blur White: "
+
+#: inc/admin/option-page-switcher.php:290
+msgid "transparent and blurred background color with white text and borders."
+msgstr ""
+"warna latar belakang transparan dan kabur dengan teks dan garis tepi putih."
+
+#: inc/admin/option-page-switcher.php:297
+msgid "Each theme is then broken down by shape and border style:"
+msgstr "Setiap tema kemudian dipecah berdasarkan bentuk dan gaya perbatasan:"
+
+#: inc/admin/option-page-switcher.php:302
+msgid "Double – Smooth: "
+msgstr "Ganda - Halus: "
+
+#: inc/admin/option-page-switcher.php:303
+msgid "the switcher will be framed by a double border with rounded corners."
+msgstr "pengalih akan dibingkai oleh batas ganda dengan sudut membulat."
+
+#: inc/admin/option-page-switcher.php:306
+msgid "Double – Square: "
+msgstr "Ganda - Persegi: "
+
+#: inc/admin/option-page-switcher.php:307
+msgid "double border with square corners."
+msgstr "batas ganda dengan sudut persegi."
+
+#: inc/admin/option-page-switcher.php:310
+msgid "Simple – Smooth: "
+msgstr "Sederhana - Halus: "
+
+#: inc/admin/option-page-switcher.php:311
+msgid "single border with rounded corners."
+msgstr "batas tunggal dengan sudut membulat."
+
+#: inc/admin/option-page-switcher.php:314
+msgid "Simple – Square: "
+msgstr "Sederhana - Persegi: "
+
+#: inc/admin/option-page-switcher.php:315
+msgid "single border with square corners."
+msgstr "batas tunggal dengan sudut persegi."
+
+#: inc/admin/option-page-switcher.php:325
+msgid "Custom CSS"
+msgstr "Kustom CSS"
+
+#: inc/admin/option-page-switcher.php:327
+msgid "Set custom CSS: "
+msgstr "Mengatur CSS khusus: "
+
+#: inc/admin/option-page-switcher.php:330
+msgid ""
+"The field below allows you to add custom CSS code that will run on all pages."
+msgstr ""
+"Kolom di bawah ini memungkinkan Anda untuk menambahkan kode CSS khusus yang "
+"akan berjalan di semua halaman."
+
+#: inc/admin/option-page-switcher.php:335
+msgid ""
+"First of all, note that the CSS class <code>.switcher-content</code> allows "
+"you to act on the entire block of the language switcher while the class "
+"<code>.wplng-langague</code> allows you to act on the languages ​​themselves."
+msgstr ""
+"Pertama-tama, perhatikan bahwa kelas CSS <code>.switcher-content</code> "
+"memungkinkan Anda untuk bertindak pada seluruh blok pengalih bahasa sementara "
+"kelas <code>.wplng-langague</code> memungkinkan Anda untuk bertindak pada "
+"bahasa itu sendiri."
+
+#: inc/admin/option-page-switcher.php:350
+msgid ""
+"To change the background and border colors of languages, here is the CSS:"
+msgstr ""
+"Untuk mengubah latar belakang dan warna batas bahasa, berikut ini adalah CSS-"
+"nya:"
+
+#: inc/admin/option-page-switcher.php:365
+msgid "More example on wplingua.com"
+msgstr "Lebih banyak contoh di wplingua.com"
+
+#: inc/admin/option-page-switcher.php:376
+msgid "Insertion"
+msgstr "Penyisipan"
+
+#: inc/admin/option-page-switcher.php:383
+msgid "Automatic insert: "
+msgstr "Penyisipan otomatis: "
+
+#: inc/admin/option-page-switcher.php:409
+msgid "Choose a predefined location: "
+msgstr "Pilih lokasi yang telah ditentukan sebelumnya: "
+
+#: inc/admin/option-page-switcher.php:413
+msgid "Bottom right: "
+msgstr "Kanan bawah: "
+
+#: inc/admin/option-page-switcher.php:414
+msgid "the switcher is placed at the bottom right of the screen."
+msgstr "pengalih ditempatkan di kanan bawah layar."
+
+#: inc/admin/option-page-switcher.php:417
+msgid "Bottom Center: "
+msgstr "Pusat bawah: "
+
+#: inc/admin/option-page-switcher.php:418
+msgid "bottom center of the screen."
+msgstr "tengah bawah layar."
+
+#: inc/admin/option-page-switcher.php:421
+msgid "Bottom left: "
+msgstr "Kiri bawah: "
+
+#: inc/admin/option-page-switcher.php:422
+msgid "bottom left of the screen."
+msgstr "kiri bawah layar."
+
+#: inc/admin/option-page-switcher.php:425
+msgid "None: "
+msgstr "Tidak ada: "
+
+#: inc/admin/option-page-switcher.php:426
+msgid "the switcher is not inserted automatically."
+msgstr "pengalih tidak dimasukkan secara otomatis."
+
+#: inc/admin/option-page-switcher.php:436
+msgid "Shortcode switcher: "
+msgstr "Pengalih kode pendek: "
+
+#: inc/admin/option-page-switcher.php:443
+msgid ""
+"If you want to insert the language switcher only in certain places on your "
+"website, you can use the shortcode provided for this purpose. Note that in "
+"this case, the previous option should be \"None\". This method is ideal for "
+"placing the switcher where you want it, whether you are using a Gutenberg "
+"block-based theme (FSE), a classic theme or even a page or theme builder like "
+"Divi, Elementor..."
+msgstr ""
+"Jika Anda ingin menyisipkan pengalih bahasa hanya di tempat-tempat tertentu "
+"di situs web Anda, Anda dapat menggunakan kode pendek yang disediakan untuk "
+"tujuan ini. Perhatikan bahwa dalam kasus ini, opsi sebelumnya harus \"Tidak "
+"Ada\". Metode ini sangat ideal untuk menempatkan pengalih bahasa di tempat "
+"yang Anda inginkan, baik Anda menggunakan tema berbasis blok Gutenberg (FSE), "
+"tema klasik, atau bahkan pembangun halaman atau tema seperti Divi, "
+"Elementor..."
+
+#: inc/admin/option-page-switcher.php:450
+msgid "Gutenberg & FSE: "
+msgstr "Gutenberg & FSE: "
+
+#: inc/admin/option-page-switcher.php:453
+msgid "Block wpLingua Switcher"
+msgstr "Blokir wpLingua Switcher"
+
+#: inc/admin/option-page-switcher.php:457
+msgid ""
+"Block based themes, wpLingua offers a dedicated Gutenberg block. You can "
+"insert the switcher wherever you want, whether in the content or via the "
+"overall site editor."
+msgstr ""
+"Tema berbasis blok, wpLingua menawarkan blok Gutenberg khusus. Anda dapat "
+"menyisipkan pengalih di mana pun Anda inginkan, baik di dalam konten atau "
+"melalui editor situs secara keseluruhan."
+
+#: inc/admin/option-page-switcher.php:464
+msgid "Switcher in menu: "
+msgstr "Pengalih dalam menu: "
+
+#: inc/admin/option-page-switcher.php:479
+msgid "Appearance ➔ Menus"
+msgstr "Penampilan ➔ Menu"
+
+#: inc/admin/option-page-switcher.php:490
+msgid ""
+"If the active theme manages menus (classic theme), it is possible to add a "
+"language switcher. The design of these language switchers will be defined by "
+"the theme. Go to the Appearance ➔ Menu tab to add the wpLingua switcher as a "
+"menu item. It is also possible to add it as a sub-element."
+msgstr ""
+"Jika tema yang aktif mengelola menu (tema klasik), dimungkinkan untuk "
+"menambahkan pengalih bahasa. Desain pengalih bahasa ini akan ditentukan oleh "
+"tema. Buka tab Penampilan ➔ Menu untuk menambahkan pengalih wpLingua sebagai "
+"item menu. Anda juga dapat menambahkannya sebagai sub-elemen."
+
+#: inc/admin/option-page.php:17
+msgid "wpLingua: Register"
+msgstr "wpLingua: Daftar"
+
+#: inc/admin/option-page.php:36 inc/admin/option-page.php:47
+msgid "wpLingua: Settings"
+msgstr "wpLingua: Pengaturan"
+
+#: inc/admin/option-page.php:48
+msgid "General settings"
+msgstr "Pengaturan Umum"
+
+#: inc/admin/option-page.php:56
+msgid "wpLingua: Switcher"
+msgstr "wpLingua: Pengalih"
+
+#: inc/admin/option-page.php:57
+msgid "Switcher"
+msgstr "Pengalih"
+
+#: inc/admin/option-page.php:65
+msgid "wpLingua: Exclusion"
+msgstr "wpLingua: Pengecualian"
+
+#: inc/admin/option-page.php:66
+msgid "Exclusion"
+msgstr "Pengecualian"
+
+#: inc/admin/option-page.php:74
+msgid "wpLingua: Dictionary"
+msgstr "wpLingua: Kamus"
+
+#: inc/admin/option-page.php:75
+msgid "Dictionary"
+msgstr "Kamus"
+
+#: inc/admin/option-page.php:83
+msgid "wplingua: Links & Medias"
+msgstr "wplingua: Tautan & Media"
+
+#: inc/admin/option-page.php:84
+msgid "Links & Medias"
+msgstr "Tautan & Media"
+
+#: inc/admin/option-page.php:92
+msgid "wpLingua: Website slugs"
+msgstr "wpLingua: Siput situs web"
+
+#: inc/admin/option-page.php:93 inc/admin/slug-cpt.php:23
+msgid "Website slugs"
+msgstr "Siput situs web"
+
+#: inc/admin/option-page.php:101
+msgid "wpLingua: Translations"
+msgstr "wpLingua: Terjemahan"
+
+#: inc/admin/option-page.php:102
+msgid "All translations"
+msgstr "Semua terjemahan"
+
+#: inc/admin/option-page.php:221
+msgid "Thank you for choosing wpLingua!"
+msgstr "Terima kasih telah memilih wpLingua!"
+
+#: inc/admin/option-page.php:224
+#, php-format
+msgid "If you like wpLingua please leave us a %1$s rating. A huge thanks!"
+msgstr ""
+"Jika Anda menyukai wpLingua, silakan beri kami peringkat %1$s. Terima kasih "
+"banyak!"
+
+#: inc/admin/option-page.php:225
+msgid "five stars"
+msgstr "lima bintang"
+
+#: inc/admin/option-page.php:249
+msgid "Version"
+msgstr "Versi"
+
+#: inc/admin/option-page.php:272
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: inc/admin/option-page.php:314
+msgid "wpLingua - Translation solution for multilingual website"
+msgstr "wpLingua - Solusi penerjemahan untuk situs web multibahasa"
+
+#: inc/admin/option-page.php:317
+msgid ""
+"wpLingua is installed, but not yet configured. You are just a few clicks away "
+"from making your website multilingual!"
+msgstr ""
+"wpLingua telah terinstal, tetapi belum dikonfigurasi. Anda hanya perlu "
+"beberapa klik saja untuk membuat situs web Anda menjadi multibahasa!"
+
+#: inc/admin/option-page.php:320
+msgid "Go to the configuration page"
+msgstr "Buka halaman konfigurasi"
+
+#: inc/admin/option-page.php:394
+msgid "wpLingua - Incompatible plugin detected"
+msgstr "wpLingua - Plugin yang tidak kompatibel terdeteksi"
+
+#: inc/admin/option-page.php:397
+msgid ""
+"You have several translation plugins. This may result in unpredictable or "
+"incorrect behavior. For best results, use only one translation plugin at a "
+"time. These plugins can cause problems with wpLingua: "
+msgstr ""
+"Anda memiliki beberapa pengaya terjemahan. Hal ini dapat mengakibatkan "
+"perilaku yang tidak terduga atau salah. Untuk hasil terbaik, gunakan hanya "
+"satu plugin terjemahan dalam satu waktu. Plugin ini dapat menyebabkan masalah "
+"pada wpLingua: "
+
+#: inc/admin/option-page.php:414
+#, php-format
+msgid "Deactivate plugin: %1$s"
+msgstr "Menonaktifkan plugin: %1$s"
+
+#: inc/admin/option-page.php:423
+msgid "Deactivate"
+msgstr "Nonaktifkan"
+
+#: inc/admin/option-page.php:440
+msgid "Manage active plugins"
+msgstr "Mengelola plugin yang aktif"
+
+#: inc/admin/option-page.php:465
+msgid "wpLingua - Incompatible with multisite"
+msgstr "wpLingua - Tidak kompatibel dengan multisite"
+
+#: inc/admin/option-page.php:468
+msgid "wpLingua is not compatible with multisite."
+msgstr "wpLingua tidak kompatibel dengan multisite."
+
+#: inc/admin/option-page.php:492
+msgid "wpLingua - Incompatible with WordPress installed in a subfolder"
+msgstr ""
+"wpLingua - Tidak kompatibel dengan WordPress yang diinstal dalam subfolder"
+
+#: inc/admin/option-page.php:495
+msgid "wpLingua is not compatible with WordPress installed in a subfolder."
+msgstr ""
+"wpLingua tidak kompatibel dengan WordPress yang diinstal dalam subfolder."
+
+#: inc/admin/option-page.php:519
+msgid "wpLingua - Incompatible PHP version"
+msgstr "wpLingua - Versi PHP yang tidak kompatibel"
+
+#: inc/admin/option-page.php:522
+msgid ""
+"wpLingua is not compatible with your PHP version. wpLingua requires PHP 7.4 "
+"or higher."
+msgstr ""
+"wpLingua tidak kompatibel dengan versi PHP Anda. wpLingua membutuhkan PHP 7.4 "
+"atau lebih tinggi."
+
+#: inc/admin/option-page.php:585
+msgid "wpLingua - Incompatible HTACCESS file"
+msgstr "wpLingua - File HTACCESS yang tidak kompatibel"
+
+#: inc/admin/option-page.php:588
+msgid ""
+"It seems that a plugin was incorrectly deactivated and corrupted the site's "
+"HTACCESS file, preventing the correct redirection of translated pages. Please "
+"edit the \".htaccess\" file located at the root of the site and delete the "
+"lines between :"
+msgstr ""
+"Tampaknya sebuah plugin telah dinonaktifkan dengan tidak benar dan merusak "
+"file HTACCESS situs, sehingga mencegah pengalihan yang benar dari halaman "
+"yang diterjemahkan. Harap edit file \".htaccess\" yang terletak di root situs "
+"dan hapus baris di antara file :"
+
+#: inc/admin/slug-cpt.php:19
+msgid "wpLingua - Website slugs"
+msgstr "wpLingua - Slug situs web"
+
+#: inc/admin/slug-cpt.php:20
+msgid "wpLingua - Website slug"
+msgstr "wpLingua - Slug situs web"
+
+#: inc/admin/slug-cpt.php:21
+msgid "wpLingua - All slugs"
+msgstr "wpLingua - Semua slug"
+
+#: inc/admin/slug-cpt.php:22
+msgid "wpLingua - Edit slug"
+msgstr "wpLingua - Edit slug"
+
+#: inc/admin/slug-cpt.php:24
+msgid "Search slugs"
+msgstr "Cari slug"
+
+#: inc/admin/slug-cpt.php:112
+msgid "All slug status"
+msgstr "Semua status siput"
+
+#: inc/admin/slug-cpt.php:127 inc/admin/slug-cpt.php:139
+#: inc/admin/translation-cpt.php:111 inc/admin/translation-cpt.php:119
+#: inc/dom/mode-list.php:193
+msgid "Reviewed"
+msgstr "Telah Diperiksa"
+
+#: inc/admin/slug-cpt.php:128 inc/admin/slug-cpt.php:399
+#: inc/admin/slug-cpt.php:438 inc/admin/translation-cpt.php:112
+#: inc/admin/translation-cpt.php:379 inc/admin/translation-cpt.php:418
+#: inc/dom/mode-list.php:197
+msgid "Unreviewed"
+msgstr "Belum ditinjau"
+
+#: inc/admin/slug-cpt.php:137 inc/admin/slug-cpt.php:389
+#: inc/admin/slug-cpt.php:426 inc/admin/translation-cpt.php:117
+#: inc/admin/translation-cpt.php:369 inc/admin/translation-cpt.php:406
+msgid "Full reviewed"
+msgstr "Ulasan lengkap"
+
+#: inc/admin/slug-cpt.php:138 inc/admin/slug-cpt.php:394
+#: inc/admin/slug-cpt.php:432 inc/admin/translation-cpt.php:118
+#: inc/admin/translation-cpt.php:374 inc/admin/translation-cpt.php:412
+msgid "Partially reviewed"
+msgstr "Ditinjau sebagian"
+
+#: inc/admin/slug-cpt.php:140 inc/admin/translation-cpt.php:120
+msgid "Full unreviewed"
+msgstr "Penuh belum ditinjau"
+
+#: inc/admin/slug-cpt.php:285
+msgid "Slug status"
+msgstr "Status slug"
+
+#: inc/admin/slug-cpt.php:421
+msgid "Slug status: "
+msgstr "Status slug: "
+
+#: inc/admin/slug-meta.php:23
+msgid "Slug"
+msgstr "Slug"
+
+#: inc/admin/slug-meta.php:75 inc/admin/slug-meta.php:154
+#: inc/admin/translation-meta.php:77 inc/admin/translation-meta.php:146
+msgid "Flag for language: "
+msgstr "Tandai untuk bahasa: "
+
+#: inc/admin/slug-meta.php:89
+msgid " - Original slug: "
+msgstr " - Slug asli: "
+
+#: inc/admin/slug-meta.php:153 inc/admin/translation-meta.php:145
+msgid "Regenerate translation"
+msgstr "Membuat ulang terjemahan"
+
+#: inc/admin/slug-meta.php:156 inc/admin/translation-meta.php:148
+msgid "Mark as review"
+msgstr "Tandai sebagai ulasan"
+
+#: inc/admin/slug-meta.php:171 inc/admin/translation-meta.php:157
+msgid "Generate translation"
+msgstr "Menghasilkan terjemahan"
+
+#: inc/admin/slug-meta.php:197 inc/admin/translation-meta.php:183
+msgid "Reviewed on "
+msgstr "Ditinjau pada "
+
+#: inc/admin/slug-meta.php:226
+msgid " - Slug translation: "
+msgstr " - Terjemahan siput: "
+
+#: inc/admin/slug-meta.php:261 inc/admin/translation-meta.php:247
+msgid "Is reviewed"
+msgstr "Ditinjau"
+
+#: inc/admin/slug-meta.php:492 inc/admin/translation-meta.php:471
+msgid "Invalid parameters"
+msgstr "Parameter tidak valid"
+
+#: inc/admin/slug-meta.php:504 inc/admin/translation-meta.php:484
+msgid "Invalid languages parameters"
+msgstr "Parameter bahasa tidak valid"
+
+#: inc/admin/slug-meta.php:561 inc/admin/translation-meta.php:524
+msgid "Invalid API response"
+msgstr "Respons API tidak valid"
+
+#: inc/admin/switcher-nav-menu.php:190
+msgid ""
+"These options are used to add a language switcher in a menu. This language "
+"switcher automatically uses the menu design."
+msgstr ""
+"Opsi ini digunakan untuk menambahkan pengalih bahasa dalam menu. Pengalih "
+"bahasa ini secara otomatis menggunakan desain menu."
+
+#: inc/admin/switcher-nav-menu.php:213 inc/admin/switcher-nav-menu.php:320
+msgid "Displayed flag: "
+msgstr "Bendera yang ditampilkan: "
+
+#: inc/admin/switcher-nav-menu.php:249
+msgid "Language switcher"
+msgstr "Pengalih bahasa"
+
+#: inc/admin/switcher-nav-menu.php:259
+msgid "Add to menu"
+msgstr "Tambahkan ke menu"
+
+#: inc/admin/translation-cpt.php:19
+msgid "wpLingua - Translations"
+msgstr "wpLingua - Terjemahan"
+
+#: inc/admin/translation-cpt.php:20
+msgid "wpLingua - Translation"
+msgstr "wpLingua - Terjemahan"
+
+#: inc/admin/translation-cpt.php:21
+msgid "wpLingua - All translations"
+msgstr "wpLingua - Semua terjemahan"
+
+#: inc/admin/translation-cpt.php:22
+msgid "wpLingua - Edit translation"
+msgstr "wpLingua - Edit terjemahan"
+
+#: inc/admin/translation-cpt.php:24
+msgid "Search translations"
+msgstr "Cari terjemahan"
+
+#: inc/admin/translation-cpt.php:110 inc/admin/translation-cpt.php:116
+msgid "All translation status"
+msgstr "Semua status terjemahan"
+
+#: inc/admin/translation-cpt.php:265
+msgid "Translation status"
+msgstr "Status terjemahan"
+
+#: inc/admin/translation-cpt.php:401
+msgid "Translation status: "
+msgstr "Status terjemahan: "
+
+#: inc/admin/translation-edit-modal.php:29
+msgid "All languages"
+msgstr "Semua Bahasa"
+
+#: inc/admin/translation-edit-modal.php:42
+msgid "Open edit page"
+msgstr "Buka halaman edit"
+
+#: inc/admin/translation-edit-modal.php:58
+msgid "Edit translation"
+msgstr "Edit terjemahan"
+
+#: inc/admin/translation-edit-modal.php:96
+#: inc/admin/translation-edit-modal.php:155
+msgid "Invalid translation ID"
+msgstr "ID terjemahan tidak valid"
+
+#: inc/admin/translation-edit-modal.php:107
+msgid "Invalid translation post"
+msgstr "Pos terjemahan tidak valid"
+
+#: inc/admin/translation-edit-modal.php:178
+msgid "Translation saving failed"
+msgstr "Penyimpanan terjemahan gagal"
+
+#: inc/admin/translation-meta.php:23
+msgid "Translation"
+msgstr "Terjemahan"
+
+#: inc/admin/translation-meta.php:87
+msgid " - Original text: "
+msgstr " - Teks asli: "
+
+#: inc/admin/translation-meta.php:212
+msgid " - Translation: "
+msgstr " - Terjemahan: "
+
+#: inc/admin/translation-meta.php:282
+msgid "Discovery URL: "
+msgstr "URL Penemuan: "
+
+#: inc/api-call/request-api-key.php:60
+msgid "Error - Invalid data."
+msgstr "Kesalahan - Data tidak valid."
+
+#: inc/api-call/request-api-key.php:71
+msgid "Error - Invalid data (email address)."
+msgstr "Kesalahan - Data (alamat email) tidak valid."
+
+#: inc/api-call/request-api-key.php:82
+msgid "Error - Invalid data (website URL)."
+msgstr "Kesalahan - Data tidak valid (URL situs web)."
+
+#: inc/api-call/request-api-key.php:97
+msgid "Error - Invalid data (languages)."
+msgstr "Kesalahan - Data (bahasa) tidak valid."
+
+#: inc/api-call/request-api-key.php:136
+msgid "Error - The API could not be called."
+msgstr "Kesalahan - API tidak dapat dipanggil."
+
+#: inc/api-call/request-api-key.php:181
+msgid "Error - API response not valid."
+msgstr "Kesalahan - Respons API tidak valid."
+
+#: inc/api-call/validate-api-key.php:191
+msgid "Code"
+msgstr "Kode"
+
+#: inc/api-call/validate-api-key.php:217
+msgid "API returned an unexpected response."
+msgstr "API mengembalikan respons yang tidak diharapkan."
+
+#: inc/assets.php:93
+msgid ""
+"You are about to exit without saving your changes. They will be lost if you "
+"continue. Would you like to leave anyway?"
+msgstr ""
+"Anda akan keluar tanpa menyimpan perubahan Anda. Perubahan tersebut akan "
+"hilang jika Anda melanjutkan. Apakah Anda tetap ingin keluar?"
+
+#: inc/assets.php:97
+msgid "Save in progress..."
+msgstr "Menyimpan dalam proses..."
+
+#: inc/dom/load-overload.php:35
+msgid "Translation API overloaded"
+msgstr "API terjemahan kelebihan beban"
+
+#: inc/dom/load-overload.php:39
+msgid "Translation API overloaded. Retry in a few minutes."
+msgstr "API terjemahan kelebihan beban. Coba lagi dalam beberapa menit."
+
+#: inc/dom/load-overload.php:45
+msgid "Close"
+msgstr "Tutup"
+
+#: inc/dom/load-progress.php:86 inc/dom/load-progress.php:167
+msgid "Translation in progress"
+msgstr "Penerjemahan sedang berlangsung"
+
+#: inc/dom/load-progress.php:171
+msgid "In progress: Translation and saving of new texts"
+msgstr "Sedang berlangsung: Penerjemahan dan penyimpanan teks baru"
+
+#: inc/dom/mode-editor.php:118 inc/dom/mode-list.php:306
+msgid "Edit this translation"
+msgstr "Edit terjemahan ini"
+
+#: inc/dom/mode-list.php:171
+msgid "Search"
+msgstr "Cari"
+
+#: inc/dom/mode-list.php:183
+msgid "Status"
+msgstr "Status"
+
+#: inc/dom/mode-list.php:189
+msgid "All"
+msgstr "Semua"
+
+#: inc/dom/mode-list.php:211
+msgid "Order"
+msgstr "Pesanan"
+
+#: inc/dom/mode-list.php:217
+msgid "Occurrence order"
+msgstr "Urutan kejadian"
+
+#: inc/dom/mode-list.php:221
+msgid "Alphabetical - sources"
+msgstr "Menurut abjad - sumber"
+
+#: inc/dom/mode-list.php:225
+msgid "Alphabetical - translations"
+msgstr "Abjad - terjemahan"
+
+#: inc/dom/mode-list.php:322
+msgid "Go to top"
+msgstr "Pergi ke atas"
+
+#: inc/slug.php:294 inc/translation.php:238
+msgid "..."
+msgstr "..."
+
+#: inc/switcher-block.php:47
+msgid "wpLingua: languages switcher"
+msgstr "wpLingua: pengalih bahasa"
+
+#: inc/switcher-block.php:48
+msgid "Add a language switcher to your page."
+msgstr "Tambahkan pengalih bahasa ke halaman Anda."
+
+#: inc/switcher-block.php:53
+msgid "language"
+msgstr "bahasa"
+
+#: inc/switcher-block.php:54
+msgid "switcher"
+msgstr "pengalih"
+
+#: inc/switcher-block.php:55
+msgid "multilanguage"
+msgstr "multibahasa"
+
+#: inc/switcher-block.php:56
+msgid "multilingual"
+msgstr "multibahasa"
+
+#: inc/switcher-block.php:57
+msgid "translate"
+msgstr "menerjemahkan"
+
+#: inc/switcher-block.php:58
+msgid "translation"
+msgstr "terjemahan"
+
+#: inc/switcher-block.php:59
+msgid "flag"
+msgstr "bendera"
+
+#: inc/switcher-block.php:60
+msgid "flags"
+msgstr "bendera"
+
+#: inc/switcher-block.php:151
+msgid "Languages switcher"
+msgstr "Pengalih bahasa"
+
+#: inc/switcher-block.php:152
+msgid "Display the wpLingua languages switcher."
+msgstr "Menampilkan pengalih bahasa wpLingua."
+
+#: inc/switcher-block.php:153
+msgid "Default"
+msgstr "Default"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wplingua.com/"
+msgstr "https://wplingua.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"An all-in-one solution that makes your websites multilingual and translates "
+"them automatically, without word or page limits. The highlights: a free first "
+"language, an on-page visual editor for editing translations, a customizable "
+"language switcher, search engine optimization (SEO), self-hosted data and "
+"more!"
+msgstr ""
+"Solusi lengkap yang menjadikan situs web Anda multibahasa dan "
+"menerjemahkannya secara otomatis, tanpa batas kata atau halaman. Fitur-fitur "
+"utama: bahasa pertama gratis, editor visual di halaman untuk mengedit "
+"terjemahan, pengalih bahasa yang dapat disesuaikan, pengoptimalan mesin "
+"pencari (SEO), data yang dihosting sendiri, dan masih banyak lagi!"
+
+#. Author of the plugin/theme
+msgid "wpLingua Translation Service"
+msgstr "layanan Terjemahan wpLingua"
+
+#~ msgid "wpLingua is not compatible with Multisite."
+#~ msgstr "wpLingua tidak kompatibel dengan Multisite."
+
+#~ msgid "Contact support on wplingua.com"
+#~ msgstr "Hubungi dukungan di wplingua.com"
+
+#~ msgid "Upgrade your API key on wplingua.com"
+#~ msgstr "Tingkatkan kunci API Anda di wplingua.com"
+
+#~ msgid "API feature: Use wpLingua on commercial website"
+#~ msgstr "Fitur API: Gunakan wpLingua di situs web komersial"
+
+#~ msgid "Website slug"
+#~ msgstr "Siput situs web"
+
+#~ msgid "All slugs"
+#~ msgstr "Semua siput"
+
+#~ msgid "Edit slug"
+#~ msgstr "Edit slug"
+
+#~ msgid "Edit entry"
+#~ msgstr "Sunting entri"
+
+#~ msgid "Mark slug translation as review"
+#~ msgstr "Tandai terjemahan siput sebagai ulasan"

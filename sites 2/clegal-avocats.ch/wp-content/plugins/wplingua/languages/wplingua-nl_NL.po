@@ -1,0 +1,2487 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpLingua\n"
+"POT-Creation-Date: 2025-08-25 11:57+0200\n"
+"PO-Revision-Date: 2025-08-25 16:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wplingua.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: data.php:559
+msgid "Bottom right"
+msgstr "Rechtsonder"
+
+#: data.php:560
+msgid "Bottom center"
+msgstr "Onder Midden"
+
+#: data.php:561
+msgid "Bottom left"
+msgstr "Linksonder"
+
+#: data.php:562
+msgid "None"
+msgstr "Geen"
+
+#: data.php:574
+msgid "Light - Double - Smooth"
+msgstr "Licht - Dubbel - Glad"
+
+#: data.php:575
+msgid "Light - Double - Square"
+msgstr "Licht - Dubbel - Vierkant"
+
+#: data.php:576
+msgid "Light - Simple - Smooth"
+msgstr "Licht - Eenvoudig - Soepel"
+
+#: data.php:577
+msgid "Light - Simple - Square"
+msgstr "Licht - Eenvoudig - Vierkant"
+
+#: data.php:578
+msgid "Grey - Double - Smooth"
+msgstr "Grijs - Dubbel - Glad"
+
+#: data.php:579
+msgid "Grey - Double - Square"
+msgstr "Grijs - Dubbel - Vierkant"
+
+#: data.php:580
+msgid "Grey - Simple - Smooth"
+msgstr "Grijs - Eenvoudig - Glad"
+
+#: data.php:581
+msgid "Grey - Simple - Square"
+msgstr "Grijs - Eenvoudig - Vierkant"
+
+#: data.php:582
+msgid "Dark - Double - Smooth"
+msgstr "Donker - Dubbel - Glad"
+
+#: data.php:583
+msgid "Dark - Double - Square"
+msgstr "Donker - Dubbel - Vierkant"
+
+#: data.php:584
+msgid "Dark - Simple - Smooth"
+msgstr "Donker - Eenvoudig - Zacht"
+
+#: data.php:585
+msgid "Dark - Simple - Square"
+msgstr "Donker - Eenvoudig - Vierkant"
+
+#: data.php:586
+msgid "Blur Black - Double - Smooth"
+msgstr "Waas Zwart - Dubbel - Glad"
+
+#: data.php:587
+msgid "Blur Black - Double - Square"
+msgstr "Waas Zwart - Dubbel - Vierkant"
+
+#: data.php:588
+msgid "Blur Black - Simple - Smooth"
+msgstr "Zwart vervagen - Eenvoudig - Zacht"
+
+#: data.php:589
+msgid "Blur Black - Simple - Square"
+msgstr "Waas Zwart - Eenvoudig - Vierkant"
+
+#: data.php:590
+msgid "Blur White - Double - Smooth"
+msgstr "Waas Wit - Dubbel - Glad"
+
+#: data.php:591
+msgid "Blur White - Double - Square"
+msgstr "Waas Wit - Dubbel - Vierkant"
+
+#: data.php:592
+msgid "Blur White - Simple - Smooth"
+msgstr "Wit vervagen - Eenvoudig - Zacht"
+
+#: data.php:593
+msgid "Blur White - Simple - Square"
+msgstr "Waas Wit - Eenvoudig - Vierkant"
+
+#: data.php:605
+msgid "Inline list"
+msgstr "Inline list"
+
+#: data.php:606
+msgid "Block"
+msgstr "Blok"
+
+#: data.php:607
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: data.php:619 data.php:653
+msgid "Original name"
+msgstr "Oorspronkelijke naam"
+
+#: data.php:620 data.php:654
+msgid "Translated name"
+msgstr "Vertaalde naam"
+
+#: data.php:621 data.php:655
+msgid "Language ID"
+msgstr "Taal ID"
+
+#: data.php:622 data.php:637 data.php:656 data.php:669
+msgid "No display"
+msgstr "Geen weergave"
+
+#: data.php:634
+msgid "Circle"
+msgstr "Cirkel"
+
+#: data.php:635
+msgid "Rectangular"
+msgstr "Rechthoekig"
+
+#: data.php:636
+msgid "Wave"
+msgstr "Golf"
+
+#: data.php:668
+msgid "Display"
+msgstr "Weergave"
+
+#: data.php:681
+msgid "List without current language"
+msgstr "Lijst zonder huidige taal"
+
+#: data.php:682
+msgid "List without active class"
+msgstr "Lijst zonder actieve klasse"
+
+#: data.php:683
+msgid "List with active class"
+msgstr "Lijst met actieve klasse"
+
+#: data.php:684
+msgid "Sub-list"
+msgstr "Sublijst"
+
+#: data.php:737
+msgid "Arabic"
+msgstr "Arabisch"
+
+#: data.php:743 data.php:897
+msgid "Global"
+msgstr "Algemeen"
+
+#: data.php:748
+msgid "Egypt"
+msgstr "Egypte"
+
+#: data.php:753
+msgid "Saudi Arabia"
+msgstr "Saudi Arabië"
+
+#: data.php:758
+msgid "Algeria"
+msgstr "Algerije"
+
+#: data.php:763
+msgid "Bahrain"
+msgstr "Bahrein"
+
+#: data.php:768
+msgid "Chad"
+msgstr "Tsjaad"
+
+#: data.php:773
+msgid "Comoros"
+msgstr "Comoren"
+
+#: data.php:778
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: data.php:783
+msgid "Iraq"
+msgstr "Irak"
+
+#: data.php:788
+msgid "Jordan"
+msgstr "Jordanië"
+
+#: data.php:793
+msgid "Kuwait"
+msgstr "Koeweit"
+
+#: data.php:798
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: data.php:803
+msgid "Libya"
+msgstr "Libië"
+
+#: data.php:808
+msgid "Mauritania"
+msgstr "Mauritanië"
+
+#: data.php:813
+msgid "Morocco"
+msgstr "Marokko"
+
+#: data.php:818
+msgid "Oman"
+msgstr "Oman"
+
+#: data.php:823
+msgid "Palestine"
+msgstr "Palestina"
+
+#: data.php:828
+msgid "Qatar"
+msgstr "Qatar"
+
+#: data.php:833
+msgid "Somalia"
+msgstr "Somalië"
+
+#: data.php:838
+msgid "Sudan"
+msgstr "Soedan"
+
+#: data.php:843
+msgid "Syria"
+msgstr "Syrië"
+
+#: data.php:848
+msgid "Tunisia"
+msgstr "Tunesië"
+
+#: data.php:853
+msgid "United Arab Emirates"
+msgstr "Verenigde Arabische Emiraten"
+
+#: data.php:858
+msgid "Yemen"
+msgstr "Jemen"
+
+#: data.php:892
+msgid "Chinese"
+msgstr "Chinees"
+
+#: data.php:902
+msgid "China"
+msgstr "China"
+
+#: data.php:907
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: data.php:912
+msgid "Malaysia"
+msgstr "Maleisië"
+
+#: data.php:917 data.php:1153
+msgid "Singapore"
+msgstr "Singapore"
+
+#: data.php:951
+msgid "Danish"
+msgstr "Deens"
+
+#: data.php:956
+msgid "Denmark"
+msgstr "Denemarken"
+
+#: data.php:990
+msgid "Dutch"
+msgstr "Nederlands"
+
+#: data.php:995
+msgid "Netherlands"
+msgstr "Nederland"
+
+#: data.php:1000 data.php:1246
+msgid "Belgium"
+msgstr "België"
+
+#: data.php:1005
+msgid "Suriname"
+msgstr "Suriname"
+
+#: data.php:1039
+msgid "Slovak"
+msgstr "Slowaaks"
+
+#: data.php:1044
+msgid "Slovakia"
+msgstr "Slowakije"
+
+#: data.php:1049
+msgid "Czech Republic"
+msgstr "Tsjechië"
+
+#: data.php:1083
+msgid "English"
+msgstr "Engels"
+
+#: data.php:1088
+msgid "US / GB"
+msgstr "VS / GB"
+
+#: data.php:1093
+msgid "United Kingdom"
+msgstr "Verenigd Koninkrijk"
+
+#: data.php:1098
+msgid "United States"
+msgstr "Verenigde Staten"
+
+#: data.php:1103
+msgid "Australia"
+msgstr "Australië"
+
+#: data.php:1108 data.php:1256
+msgid "Canada"
+msgstr "Canada"
+
+#: data.php:1113
+msgid "Ireland"
+msgstr "Ierland"
+
+#: data.php:1118
+msgid "New Zealand"
+msgstr "Nieuw-Zeeland"
+
+#: data.php:1123
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: data.php:1128
+msgid "South Africa"
+msgstr "Zuid-Afrika"
+
+#: data.php:1133
+msgid "Kenya"
+msgstr "Kenia"
+
+#: data.php:1138
+msgid "Ghana"
+msgstr "Ghana"
+
+#: data.php:1143
+msgid "South Sudan"
+msgstr "Zuid-Soedan"
+
+#: data.php:1148
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: data.php:1158
+msgid "Liberia"
+msgstr "Liberia"
+
+#: data.php:1163
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: data.php:1197
+msgid "Finnish"
+msgstr "Fins"
+
+#: data.php:1202 data.php:1988
+msgid "Finland"
+msgstr "Finland"
+
+#: data.php:1236
+msgid "French"
+msgstr "Frans"
+
+#: data.php:1241
+msgid "France"
+msgstr "Frankrijk"
+
+#: data.php:1251
+msgid "Quebec"
+msgstr "Quebec"
+
+#: data.php:1261
+msgid "Congo - Kinshasa"
+msgstr "Congo - Kinshasa"
+
+#: data.php:1266
+msgid "Congo - Brazzaville"
+msgstr "Congo - Brazzaville"
+
+#: data.php:1271
+msgid "Cameroon"
+msgstr "Kameroen"
+
+#: data.php:1276
+msgid "Ivory Coast"
+msgstr "Ivoorkust"
+
+#: data.php:1281 data.php:1330
+msgid "Switzerland"
+msgstr "Zwitserland"
+
+#: data.php:1315
+msgid "German"
+msgstr "Duits"
+
+#: data.php:1320
+msgid "Germany"
+msgstr "Duitsland"
+
+#: data.php:1325
+msgid "Austria"
+msgstr "Oostenrijk"
+
+#: data.php:1335
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: data.php:1369
+msgid "Greek"
+msgstr "Grieks"
+
+#: data.php:1374
+msgid "Greece"
+msgstr "Griekenland"
+
+#: data.php:1379 data.php:2032
+msgid "Cyprus"
+msgstr "Cyprus"
+
+#: data.php:1413
+msgid "Hebrew"
+msgstr "Hebreeuws"
+
+#: data.php:1419
+msgid "Israel"
+msgstr "Israël"
+
+#: data.php:1453
+msgid "Hindi"
+msgstr "Hindi"
+
+#: data.php:1458
+msgid "India"
+msgstr "India"
+
+#: data.php:1463
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: data.php:1497
+msgid "Hungarian"
+msgstr "Hongaars"
+
+#: data.php:1502
+msgid "Hungary"
+msgstr "Hongarije"
+
+#: data.php:1536
+msgid "Indonesian"
+msgstr "Indonesisch"
+
+#: data.php:1541
+msgid "Indonesia"
+msgstr "Indonesië"
+
+#: data.php:1575
+msgid "Italian"
+msgstr "Italiaans"
+
+#: data.php:1580
+msgid "Italy"
+msgstr "Italië"
+
+#: data.php:1614
+msgid "Japanese"
+msgstr "Japans"
+
+#: data.php:1619
+msgid "Japan"
+msgstr "Japan"
+
+#: data.php:1653
+msgid "Korean"
+msgstr "Koreaans"
+
+#: data.php:1658
+msgid "South Korea"
+msgstr "Zuid-Korea"
+
+#: data.php:1663
+msgid "North Korea"
+msgstr "Noord-Korea"
+
+#: data.php:1697
+msgid "Polish"
+msgstr "Pools"
+
+#: data.php:1702
+msgid "Poland"
+msgstr "Polen"
+
+#: data.php:1736
+msgid "Portuguese"
+msgstr "Portugees"
+
+#: data.php:1741
+msgid "Portugal"
+msgstr "Portugal"
+
+#: data.php:1746
+msgid "Brazil"
+msgstr "Brazilië"
+
+#: data.php:1751
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: data.php:1756
+msgid "Angola"
+msgstr "Angola"
+
+#: data.php:1790
+msgid "Russian"
+msgstr "Russisch"
+
+#: data.php:1795
+msgid "Russia"
+msgstr "Rusland"
+
+#: data.php:1800
+msgid "Kazakhstan"
+msgstr "Kazachstan"
+
+#: data.php:1805
+msgid "Belarus"
+msgstr "Wit-Rusland"
+
+#: data.php:1810
+msgid "Kyrgyzstan"
+msgstr "Kirgizië"
+
+#: data.php:1815
+msgid "Tajikistan"
+msgstr "Tadzjikistan"
+
+#: data.php:1849
+msgid "Spanish"
+msgstr "Spaans"
+
+#: data.php:1854
+msgid "Spain"
+msgstr "Spanje"
+
+#: data.php:1859
+msgid "Mexico"
+msgstr "Mexico"
+
+#: data.php:1864
+msgid "Argentina"
+msgstr "Argentinië"
+
+#: data.php:1869
+msgid "Colombia"
+msgstr "Colombia"
+
+#: data.php:1874
+msgid "Peru"
+msgstr "Peru"
+
+#: data.php:1879
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: data.php:1884
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: data.php:1889
+msgid "Chile"
+msgstr "Chili"
+
+#: data.php:1894
+msgid "Equatorial Guinea"
+msgstr "Equatoriaal-Guinea"
+
+#: data.php:1899
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: data.php:1904
+msgid "Cuba"
+msgstr "Cuba"
+
+#: data.php:1909
+msgid "Dominican Republic"
+msgstr "Dominicaanse Republiek"
+
+#: data.php:1914
+msgid "Honduras"
+msgstr "Honduras"
+
+#: data.php:1919
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: data.php:1924
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: data.php:1929
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: data.php:1934
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: data.php:1939
+msgid "Panama"
+msgstr "Panama"
+
+#: data.php:1944
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: data.php:1978
+msgid "Swedish"
+msgstr "Zweeds"
+
+#: data.php:1983
+msgid "Sweden"
+msgstr "Zweden"
+
+#: data.php:2022
+msgid "Turkish"
+msgstr "Turks"
+
+#: data.php:2027
+msgid "Turkey"
+msgstr "Turkije"
+
+#: data.php:2066
+msgid "Ukrainian"
+msgstr "Oekraïens"
+
+#: data.php:2071
+msgid "Ukraine"
+msgstr "Oekraïne"
+
+#: data.php:2105
+msgid "Vietnamese"
+msgstr "Vietnamees"
+
+#: data.php:2110
+msgid "Vietnam"
+msgstr "Viëtnam"
+
+#. Plugin Name of the plugin/theme
+#: inc/admin/admin-bar.php:25 inc/admin/option-page.php:18
+#: inc/admin/option-page.php:37 inc/admin/switcher-nav-menu.php:167
+msgid "wpLingua"
+msgstr "wpLingua"
+
+#: inc/admin/admin-bar.php:35
+msgid "This URL is excluded from translation"
+msgstr "Deze URL is uitgesloten van vertaling"
+
+#: inc/admin/admin-bar.php:65 inc/admin/translation-edit-modal.php:18
+#: inc/dom/mode-list.php:158
+msgid "Return on page"
+msgstr "Terug op pagina"
+
+#: inc/admin/admin-bar.php:75
+msgid "Visual editor"
+msgstr "Visuele editor"
+
+#: inc/admin/admin-bar.php:84 inc/dom/mode-list.php:250
+msgid "All translations on page"
+msgstr "Alle vertalingen op pagina"
+
+#: inc/admin/admin-bar.php:200
+msgid "Edit the page slug"
+msgstr "Bewerk de paginaslug"
+
+#: inc/admin/admin-bar.php:279 inc/admin/admin.php:59
+#: inc/admin/translation-cpt.php:23
+msgid "Translations"
+msgstr "Vertalingen"
+
+#: inc/admin/admin.php:57
+msgid "Edit translations"
+msgstr "Vertalingen bewerken"
+
+#: inc/admin/assets.php:366 inc/admin/assets.php:458 inc/assets.php:89
+msgid ""
+"You are about to leave the page without saving your changes. They will be "
+"lost if you continue. Would you like to leave the page anyway?"
+msgstr ""
+"Je staat op het punt de pagina te verlaten zonder je wijzigingen op te slaan. "
+"Ze zullen verloren gaan als je doorgaat. Wil je de pagina toch verlaten?"
+
+#: inc/admin/option-page-dictionary.php:20
+msgid "wpLingua - Dictionary rules"
+msgstr "wpLingua - Regels voor woordenboeken"
+
+#: inc/admin/option-page-dictionary.php:34
+msgid "Dictionary entries"
+msgstr "Woordenboek"
+
+#: inc/admin/option-page-dictionary.php:38
+msgid "Translation rules by dictionary: "
+msgstr "Vertaalregels door woordenboek: "
+
+#: inc/admin/option-page-dictionary.php:40
+msgid ""
+"The dictionary allows you to define translation rules that apply when "
+"generating machine translations. You can specify words or sets of words that "
+"should never be translated, or define how they should be translated for each "
+"language."
+msgstr ""
+"Met het woordenboek kun je vertaalregels definiëren die van toepassing zijn "
+"bij het genereren van machinevertalingen. Je kunt woorden of woordgroepen "
+"opgeven die nooit vertaald mogen worden, of definiëren hoe ze vertaald moeten "
+"worden voor elke taal."
+
+#: inc/admin/option-page-dictionary.php:47
+msgid "Add a dictionary entry"
+msgstr "Een woordenboekitem toevoegen"
+
+#: inc/admin/option-page-dictionary.php:55
+#: inc/admin/option-page-link-media.php:55
+msgid "Add an entry"
+msgstr "Een item toevoegen"
+
+#: inc/admin/option-page-dictionary.php:64
+#: inc/admin/option-page-link-media.php:64
+msgid "Edit the entry"
+msgstr "De invoer bewerken"
+
+#: inc/admin/option-page-dictionary.php:102
+msgid "All dictionary entries: "
+msgstr "Alle woordenboekvermeldingen: "
+
+#: inc/admin/option-page-dictionary.php:117
+#: inc/admin/option-page-link-media.php:117
+msgid "Rule N°"
+msgstr "Regel nr"
+
+#: inc/admin/option-page-dictionary.php:127
+#: inc/admin/option-page-link-media.php:127
+#: inc/admin/option-page-settings.php:272 inc/admin/option-page-settings.php:337
+msgid "Edit"
+msgstr "Bewerken"
+
+#: inc/admin/option-page-dictionary.php:134
+#: inc/admin/option-page-link-media.php:134
+#: inc/admin/option-page-settings.php:338
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: inc/admin/option-page-dictionary.php:146
+msgid "Always translate: "
+msgstr "Altijd vertalen: "
+
+#: inc/admin/option-page-dictionary.php:162
+msgid " - By: "
+msgstr " - Door: "
+
+#: inc/admin/option-page-dictionary.php:168
+msgid "Never translate: "
+msgstr "Nooit vertalen: "
+
+#: inc/admin/option-page-dictionary.php:206
+#: inc/admin/option-page-dictionary.php:320
+msgid "Source text: "
+msgstr "Bronvermelding: "
+
+#: inc/admin/option-page-dictionary.php:230
+#: inc/admin/option-page-dictionary.php:344
+msgid "Never translate"
+msgstr "Nooit vertalen"
+
+#: inc/admin/option-page-dictionary.php:252
+#: inc/admin/option-page-dictionary.php:366
+#: inc/admin/option-page-link-media.php:446
+msgid " - Always translate by: "
+msgstr " - Altijd vertalen door: "
+
+#: inc/admin/option-page-dictionary.php:279
+#: inc/admin/option-page-dictionary.php:393
+#: inc/admin/option-page-link-media.php:336
+#: inc/admin/option-page-link-media.php:472
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: inc/admin/option-page-dictionary.php:287
+#: inc/admin/option-page-link-media.php:344
+msgid "Save new entry"
+msgstr "Nieuw item opslaan"
+
+#: inc/admin/option-page-dictionary.php:401
+#: inc/admin/option-page-link-media.php:480
+msgid "Save edited entry"
+msgstr "Bewerkte invoer opslaan"
+
+#: inc/admin/option-page-exclusions.php:17
+msgid "wpLingua - Exclusion rules"
+msgstr "wpLingua - Uitsluitingsregels"
+
+#: inc/admin/option-page-exclusions.php:28
+msgid "Exclude URL"
+msgstr "URL uitsluiten"
+
+#: inc/admin/option-page-exclusions.php:31
+msgid "Exclude URL from translation: "
+msgstr "URL uitsluiten van vertaling: "
+
+#: inc/admin/option-page-exclusions.php:35
+msgid ""
+"You can exclude from translations pages you wish to offer only in the "
+"website's original language. To do this, list the REGEXs that match the URL "
+"to be excluded, one per line. Examples: "
+msgstr ""
+"Je kunt pagina's die je alleen in de oorspronkelijke taal van de website wilt "
+"aanbieden uitsluiten van vertalingen. Om dit te doen maak je een lijst met "
+"REGEXs die overeenkomen met de URL die je wilt uitsluiten, één per regel. "
+"Voorbeelden: "
+
+#: inc/admin/option-page-exclusions.php:38
+msgid "Exclude URL \"/my-page/\""
+msgstr "URL \"/mijn-pagina/\" uitsluiten"
+
+#: inc/admin/option-page-exclusions.php:39
+msgid "Exclude URL starting with \"/my-page/\""
+msgstr "URL uitsluiten die begint met \"/mijn-pagina/\""
+
+#: inc/admin/option-page-exclusions.php:40
+msgid "Exclude URL ending with \"/my-page/\""
+msgstr "URL uitsluiten die eindigen op \"/mijn-pagina/\""
+
+#: inc/admin/option-page-exclusions.php:41
+msgid "Exclude URL containing \"/my-page/\""
+msgstr "URL uitsluiten die \"/mijn-pagina/\" bevat"
+
+#: inc/admin/option-page-exclusions.php:49
+msgid "Exclude elements"
+msgstr "Elementen uitsluiten"
+
+#: inc/admin/option-page-exclusions.php:52
+msgid "Exclude HTML elements: "
+msgstr "HTML-elementen uitsluiten: "
+
+#: inc/admin/option-page-exclusions.php:56
+msgid ""
+"You can leave some elements of your web pages untranslated. To do this, list "
+"below the CSS selectors for the elements to be excluded, one per line. "
+"Examples: "
+msgstr ""
+"Je kunt sommige elementen van je webpagina's onvertaald laten. Om dit te "
+"doen, vermeld je hieronder de CSS-selectors voor de elementen die je wilt "
+"uitsluiten, één per regel. Voorbeelden: "
+
+#: inc/admin/option-page-exclusions.php:59
+msgid "Exclude elements by ID attribute"
+msgstr "Elementen uitsluiten op ID-attribuut"
+
+#: inc/admin/option-page-exclusions.php:60
+msgid "Exclude elements by class attribute"
+msgstr "Elementen uitsluiten op klassekenmerk"
+
+#: inc/admin/option-page-exclusions.php:61
+msgid "Exclude elements by CSS selector"
+msgstr "Elementen uitsluiten met CSS-selector"
+
+#: inc/admin/option-page-exclusions.php:69 inc/admin/option-page-settings.php:86
+#: inc/admin/option-page-switcher.php:496
+#: inc/admin/translation-edit-modal.php:71 inc/assets.php:96
+msgid "Save"
+msgstr "Opslaan"
+
+#: inc/admin/option-page-link-media.php:20
+msgid "wpLingua - Links & Medias"
+msgstr "wpLingua - Links & Media"
+
+#: inc/admin/option-page-link-media.php:34
+msgid "Links & medias"
+msgstr "Links & media"
+
+#: inc/admin/option-page-link-media.php:38
+msgid "Links and medias translations rules: "
+msgstr "Regels voor links en mediavertalingen: "
+
+#: inc/admin/option-page-link-media.php:40
+msgid ""
+"Translation rules on links and media allow different images to be displayed "
+"or link URLs to be changed according to the current language. These rules "
+"apply to elements such as: link target URLs, image source URLs, iframe source "
+"URLs, URLs in intercepted JSONs..."
+msgstr ""
+"Vertaalregels voor links en media maken het mogelijk om verschillende "
+"afbeeldingen weer te geven of link-URL's te wijzigen afhankelijk van de "
+"huidige taal. Deze regels zijn van toepassing op elementen zoals: doel-URL's "
+"van koppelingen, bron-URL's van afbeeldingen, iframe bron-URL's, URL's in "
+"onderschepte JSON's..."
+
+#: inc/admin/option-page-link-media.php:47
+msgid "Add a rule"
+msgstr "Een regel toevoegen"
+
+#: inc/admin/option-page-link-media.php:102
+msgid "All links and medias rules: "
+msgstr "Alle links en media regels: "
+
+#: inc/admin/option-page-link-media.php:149
+msgid "Mode: "
+msgstr "Modus: "
+
+#: inc/admin/option-page-link-media.php:158
+#: inc/admin/option-page-link-media.php:266
+#: inc/admin/option-page-link-media.php:402
+msgid "Exactly equal"
+msgstr "Precies gelijk"
+
+#: inc/admin/option-page-link-media.php:162
+#: inc/admin/option-page-link-media.php:275
+#: inc/admin/option-page-link-media.php:411
+msgid "Partially equal"
+msgstr "Gedeeltelijk gelijk"
+
+#: inc/admin/option-page-link-media.php:166
+msgid "Regex"
+msgstr "Regex"
+
+#: inc/admin/option-page-link-media.php:170
+msgid "Error"
+msgstr "Error"
+
+#: inc/admin/option-page-link-media.php:182
+msgid "Original: "
+msgstr "Origineel: "
+
+#: inc/admin/option-page-link-media.php:241
+#: inc/admin/option-page-link-media.php:377
+msgid "Original URL: "
+msgstr "Oorspronkelijke URL: "
+
+#: inc/admin/option-page-link-media.php:284
+#: inc/admin/option-page-link-media.php:420
+msgid "REGEX"
+msgstr "REGEX"
+
+#: inc/admin/option-page-link-media.php:310
+msgid " - URL: "
+msgstr " - URL: "
+
+#: inc/admin/option-page-register.php:31 inc/admin/option-page-register.php:70
+msgid "Message: "
+msgstr "Bericht: "
+
+#: inc/admin/option-page-register.php:37
+msgid "An error occurred with API key."
+msgstr "Er is een fout opgetreden met de API-sleutel."
+
+#: inc/admin/option-page-register.php:53
+msgid "Invalid API key."
+msgstr "Ongeldige API-sleutel."
+
+#: inc/admin/option-page-register.php:77
+msgid "An error occurred while creating the API key."
+msgstr "Er is een fout opgetreden tijdens het aanmaken van de API-sleutel."
+
+#: inc/admin/option-page-register.php:93
+msgid "wpLingua - Register API key"
+msgstr "wpLingua - API-sleutel registreren"
+
+#: inc/admin/option-page-register.php:113
+msgid "API key created"
+msgstr "API-sleutel aangemaakt"
+
+#: inc/admin/option-page-register.php:117
+msgid "API key created and sent by email"
+msgstr "API-sleutel aangemaakt en per e-mail verzonden"
+
+#: inc/admin/option-page-register.php:121
+msgid ""
+"The API key has been correctly created and sent to the following e-mail "
+"address: "
+msgstr ""
+"De API-sleutel is correct aangemaakt en verzonden naar het volgende e-"
+"mailadres: "
+
+#: inc/admin/option-page-register.php:127
+msgid ""
+"Go to your mailbox and copy the API key sent to you (don't forget to check "
+"the spam section of your mailbox). Then paste it in the section below, and "
+"click \"Set API key\" to make your website multilingual."
+msgstr ""
+"Ga naar je mailbox en kopieer de API-sleutel die je hebt ontvangen (vergeet "
+"niet de spamsectie van je mailbox te controleren). Plak deze vervolgens in de "
+"sectie hieronder en klik op \"API-sleutel instellen\" om je website meertalig "
+"te maken."
+
+#: inc/admin/option-page-register.php:133 inc/admin/option-page-register.php:149
+msgid "Set API Key"
+msgstr "API-sleutel instellen"
+
+#: inc/admin/option-page-register.php:142 inc/admin/option-page-register.php:187
+#: inc/admin/option-page-register.php:372
+msgid "Get API key"
+msgstr "API-sleutel ophalen"
+
+#: inc/admin/option-page-register.php:156
+msgid "Start with wpLingua"
+msgstr "Begin met wpLingua"
+
+#: inc/admin/option-page-register.php:159
+msgid "You are just a few clicks away from making your website multilingual!"
+msgstr ""
+"Je bent slechts een paar klikken verwijderd van het meertalig maken van je "
+"website!"
+
+#: inc/admin/option-page-register.php:165
+msgid ""
+"For wpLingua to work, an API key is required so that your website has access "
+"to the automatic translation service. On this page you can enter your API key "
+"if you already have one, or create one for free."
+msgstr ""
+"Om wpLingua te laten werken, heb je een API-sleutel nodig zodat je website "
+"toegang heeft tot de automatische vertaalservice. Op deze pagina kun je je "
+"API-sleutel invoeren als je die al hebt, of er gratis een aanmaken."
+
+#: inc/admin/option-page-register.php:170
+msgid ""
+"An <strong>instantly multilingual website</strong> thanks to automatic text "
+"detection and translation. Easy to use, no knowledge required."
+msgstr ""
+"Een <strong>direct meertalige website</strong> dankzij automatische "
+"tekstdetectie en vertaling. Gemakkelijk te gebruiken, geen kennis vereist."
+
+#: inc/admin/option-page-register.php:174
+msgid ""
+"<strong>SEO friendly</strong> to allow search engines to index translated "
+"pages. Open up your website and your business to the whole world."
+msgstr ""
+"<strong>SEO-vriendelijk</strong> zodat zoekmachines vertaalde pagina's kunnen "
+"indexeren. Stel je website en je bedrijf open voor de hele wereld."
+
+#: inc/admin/option-page-register.php:178
+msgid ""
+"All <strong>translations are editable</strong>. Discover the visual editor "
+"and edit translations simply by clicking on them. With a fully customizable "
+"language switcher."
+msgstr ""
+"Alle <strong>vertalingen zijn bewerkbaar</strong>. Ontdek de visuele editor "
+"en bewerk vertalingen door er gewoon op te klikken. Met een volledig "
+"aanpasbare taalswitcher."
+
+#: inc/admin/option-page-register.php:182
+msgid ""
+"One <strong>free and unlimited</strong> language for personal blogs and non-"
+"commercial websites. And many more features!"
+msgstr ""
+"Eén <strong>gratis en onbeperkte</strong> taal voor persoonlijke blogs en "
+"niet-commerciële websites. En nog veel meer functies!"
+
+#: inc/admin/option-page-register.php:191 inc/admin/option-page-register.php:242
+msgid "Set API key"
+msgstr "API-sleutel instellen"
+
+#: inc/admin/option-page-register.php:197
+msgid "Advanced API features"
+msgstr "Geavanceerde API-functies"
+
+#: inc/admin/option-page-register.php:222
+msgid "Set the wpLingua API key: "
+msgstr "Stel de wpLingua API-sleutel in: "
+
+#: inc/admin/option-page-register.php:228
+msgid ""
+"If you already have an API key, enter it below. If you've forgotten your "
+"website's API key, visit"
+msgstr ""
+"Als je al een API-sleutel hebt, voer deze dan hieronder in. Als u de API-"
+"sleutel van uw website bent vergeten, ga dan naar"
+
+#: inc/admin/option-page-register.php:228
+msgid "the API key retrieval page"
+msgstr "de API-sleutel opvraagpagina"
+
+#: inc/admin/option-page-register.php:229 inc/admin/option-page-register.php:293
+#: inc/admin/option-page-register.php:309 inc/admin/option-page-register.php:325
+#: inc/admin/option-page-register.php:341 inc/admin/option-page-settings.php:244
+#: inc/admin/option-page-settings.php:376 inc/admin/option-page-settings.php:432
+#: inc/admin/option-page-settings.php:452 inc/admin/option-page-settings.php:490
+#: inc/admin/option-page-settings.php:509 inc/admin/option-page-settings.php:539
+#: inc/admin/option-page-switcher.php:73 inc/admin/option-page-switcher.php:124
+#: inc/admin/option-page-switcher.php:179 inc/admin/option-page-switcher.php:237
+#: inc/admin/option-page-switcher.php:331 inc/admin/option-page-switcher.php:384
+#: inc/admin/option-page-switcher.php:437 inc/admin/option-page-switcher.php:451
+#: inc/admin/option-page-switcher.php:465
+msgid "Click to expand"
+msgstr "Klik om uit te vouwen"
+
+#: inc/admin/option-page-register.php:233 inc/admin/option-page-settings.php:544
+msgid ""
+"A wpLingua API key consists of 42 characters (uppercase, lowercase and "
+"numbers). It is emailed to you when you request it using the form provided "
+"when you install the plugin. You must keep this key secret and only "
+"communicate it to wplingua.com services."
+msgstr ""
+"Een wpLingua API sleutel bestaat uit 42 karakters (hoofdletters, kleine "
+"letters en cijfers). Het wordt naar je gemaild wanneer je het aanvraagt via "
+"het formulier dat je krijgt wanneer je de plugin installeert. Je moet deze "
+"sleutel geheim houden en alleen doorgeven aan de diensten van wplingua.com."
+
+#: inc/admin/option-page-register.php:277
+msgid "Register wpLingua API key: "
+msgstr "WpLingua API-sleutel registreren: "
+
+#: inc/admin/option-page-register.php:283
+msgid ""
+"Claim a wpLingua API key and make your website multilingual in a minute! For "
+"a personal blog or a non-commercial website, get one unlimited free language."
+msgstr ""
+"Claim een wpLingua API sleutel en maak je website meertalig in een minuut! "
+"Voor een persoonlijke blog of een niet-commerciële website krijg je één "
+"onbeperkte gratis taal."
+
+#: inc/admin/option-page-register.php:292
+msgid "Email address: "
+msgstr "E-mailadres: "
+
+#: inc/admin/option-page-register.php:300
+msgid ""
+"The email address is detected and pre-filled. This is the administrative "
+"email address entered in the Settings ➔ General tab. You can use another "
+"email address used to receive your API key."
+msgstr ""
+"Het e-mailadres wordt gedetecteerd en vooraf ingevuld. Dit is het "
+"administratieve e-mailadres dat is ingevoerd in het tabblad Instellingen ➔ "
+"Algemeen. U kunt een ander e-mailadres gebruiken om uw API-sleutel te "
+"ontvangen."
+
+#: inc/admin/option-page-register.php:308
+msgid "Website URL: "
+msgstr "URL website: "
+
+#: inc/admin/option-page-register.php:316
+msgid ""
+"This is the URL of your website, it is detected and pre-filled automatically. "
+"Please check it and only enter the address of your production website (no "
+"test website or development environment)."
+msgstr ""
+"Dit is de URL van je website, deze wordt automatisch gedetecteerd en vooraf "
+"ingevuld. Controleer dit en voer alleen het adres van uw productiewebsite in "
+"(geen testwebsite of ontwikkelomgeving)."
+
+#: inc/admin/option-page-register.php:324
+msgid "Website language: "
+msgstr "Taal van de website: "
+
+#: inc/admin/option-page-register.php:332 inc/admin/option-page-settings.php:251
+msgid ""
+"This is the language of your website, defined by the associated API key. Make "
+"sure your website language is also correctly set in WordPress options "
+"(Settings ➔ General ➔ Website Language)."
+msgstr ""
+"Dit is de taal van je website, gedefinieerd door de bijbehorende API-sleutel. "
+"Zorg ervoor dat de taal van je website ook correct is ingesteld in de opties "
+"van WordPress (Instellingen ➔ Algemeen ➔ Taal van website)."
+
+#: inc/admin/option-page-register.php:340
+msgid "Target language: "
+msgstr "Doeltaal: "
+
+#: inc/admin/option-page-register.php:348
+msgid ""
+"This is the language you want to translate your website into. Be careful not "
+"to make a mistake because you will not be able to change the language "
+"afterwards."
+msgstr ""
+"Dit is de taal waarin je je website wilt vertalen. Pas op dat je geen fout "
+"maakt, want je kunt de taal achteraf niet meer wijzigen."
+
+#: inc/admin/option-page-register.php:357
+msgid "I have read and accept the"
+msgstr "Ik heb het gelezen en ga akkoord met de"
+
+#: inc/admin/option-page-register.php:357
+msgid "API terms of use"
+msgstr "API-gebruiksvoorwaarden"
+
+#: inc/admin/option-page-register.php:365
+msgid "Website Locale: "
+msgstr "Locatie website: "
+
+#: inc/admin/option-page-register.php:386
+msgid "Get more target languages and advanced features: "
+msgstr "Krijg meer doeltalen en geavanceerde functies: "
+
+#: inc/admin/option-page-register.php:392
+msgid ""
+"To translate your website into more languages and access advanced features, "
+"visit wpLingua website."
+msgstr ""
+"Om je website in meer talen te vertalen en toegang te krijgen tot "
+"geavanceerde functies, bezoek je de website van wpLingua."
+
+#: inc/admin/option-page-register.php:396 inc/admin/option-page-settings.php:431
+msgid "Use wpLingua on commercial website"
+msgstr "Gebruik wpLingua op een commerciële website"
+
+#: inc/admin/option-page-register.php:397
+msgid "Allow search from all languages"
+msgstr "Zoeken in alle talen toestaan"
+
+#: inc/admin/option-page-register.php:398
+msgid "Get more target languages"
+msgstr "Krijg meer doeltalen"
+
+#: inc/admin/option-page-register.php:403
+msgid "Visit wpLingua website"
+msgstr "Bezoek wpLingua website"
+
+#: inc/admin/option-page-settings.php:25
+msgid "wpLingua - General settings"
+msgstr "wpLingua - Algemene instellingen"
+
+#: inc/admin/option-page-settings.php:52
+msgid "Website language"
+msgstr "Taal website"
+
+#: inc/admin/option-page-settings.php:58
+msgid "Translated languages"
+msgstr "Vertaalde talen"
+
+#: inc/admin/option-page-settings.php:64
+#, fuzzy
+#| msgid "API features"
+msgid "Features"
+msgstr "Krijg meer doeltalen en geavanceerde functies: "
+
+#: inc/admin/option-page-settings.php:80
+msgid "API Key"
+msgstr "API sleutel"
+
+#: inc/admin/option-page-settings.php:167
+msgid "Your website is being translated and will be ready soon."
+msgstr "Je website wordt vertaald en zal binnenkort klaar zijn."
+
+#: inc/admin/option-page-settings.php:168
+msgid ""
+"In just a few seconds, your website will be multilingual, and search engines "
+"will be able to index these new pages. wpLingua detects all the texts on your "
+"pages and offers you a first automatically generated translation. All "
+"translations are editable: open the visual editor from the administration bar "
+"and edit them simply by clicking on the texts on your website."
+msgstr ""
+"In slechts enkele seconden is je website meertalig en kunnen zoekmachines "
+"deze nieuwe pagina's indexeren. wpLingua detecteert alle teksten op je "
+"pagina's en biedt je een eerste automatisch gegenereerde vertaling. Alle "
+"vertalingen zijn bewerkbaar: open de visuele editor vanuit de beheerbalk en "
+"bewerk ze door simpelweg op de teksten op je website te klikken."
+
+#: inc/admin/option-page-settings.php:172
+msgid ""
+"Your website is now multilingual! You can start visiting the translated "
+"version."
+msgstr "Je website is nu meertalig! Je kunt nu de vertaalde versie bezoeken."
+
+#: inc/admin/option-page-settings.php:173
+msgid ""
+"The first time a translated page is loaded, the translations are "
+"automatically generated and saved in the database. This may take some time "
+"(on first generation only) depending on the size of your content. This is why "
+"we advise you to browse your entire website for the first time in order to "
+"generate all the multilingual versions."
+msgstr ""
+"De eerste keer dat een vertaalde pagina wordt geladen, worden de vertalingen "
+"automatisch gegenereerd en opgeslagen in de database. Dit kan enige tijd "
+"duren (alleen bij de eerste generatie), afhankelijk van de grootte van je "
+"inhoud. Daarom raden we je aan om de eerste keer je hele website door te "
+"bladeren om alle meertalige versies te genereren."
+
+#: inc/admin/option-page-settings.php:174
+msgid ""
+"All translations are editable: open the visual editor from the administration "
+"bar and edit them simply by clicking on the texts on your website."
+msgstr ""
+"Alle vertalingen zijn bewerkbaar: open de visuele editor vanuit de beheerbalk "
+"en bewerk ze door simpelweg op de teksten op je website te klikken."
+
+#: inc/admin/option-page-settings.php:177
+msgid "Visit your multilingual website"
+msgstr "Bezoek je meertalige website"
+
+#: inc/admin/option-page-settings.php:204
+msgid "Original website language: "
+msgstr "Originele website taal: "
+
+#: inc/admin/option-page-settings.php:230
+msgid "Please choose an option"
+msgstr "Selecteer een optie"
+
+#: inc/admin/option-page-settings.php:241
+msgid "Original website language, defined by API key: "
+msgstr "Originele website taal, bepaald door API sleutel: "
+
+#: inc/admin/option-page-settings.php:253
+msgid ""
+"If you have mistakenly entered the wrong language, contact wpLingua support "
+"to request a correction."
+msgstr ""
+"Als je per ongeluk de verkeerde taal hebt ingevoerd, neem dan contact op met "
+"wpLingua support om een correctie aan te vragen."
+
+#: inc/admin/option-page-settings.php:256
+msgid "wplingua.com : Contact support"
+msgstr "wplingua.com : Contact ondersteuning"
+
+#: inc/admin/option-page-settings.php:263
+msgid "Custom"
+msgstr "Aangepast"
+
+#: inc/admin/option-page-settings.php:278 inc/admin/option-page-settings.php:344
+msgid "Flag to use for this language: "
+msgstr "Te gebruiken vlag voor deze taal: "
+
+#: inc/admin/option-page-settings.php:287 inc/admin/option-page-settings.php:352
+msgid "Custom flag URL for this language: "
+msgstr "Aangepaste vlag URL voor deze taal: "
+
+#: inc/admin/option-page-settings.php:310
+msgid ""
+"Important: space out the addition of new languages ​​by at least ten days and "
+"browse your site for the first time in the added languages. This promotes "
+"better indexing by search engines, reduces the load on your server and "
+"minimizes the risk of slowdowns on your site."
+msgstr ""
+"Belangrijk: stel de toevoeging van nieuwe talen minstens tien dagen uit en "
+"bekijk uw site voor het eerst in de toegevoegde talen. Dit bevordert een "
+"betere indexering door zoekmachines, vermindert de belasting van uw server en "
+"minimaliseert het risico op vertragingen op uw site."
+
+#: inc/admin/option-page-settings.php:314
+msgid "Add new target Language: "
+msgstr "Nieuwe doeltaal toevoegen: "
+
+#: inc/admin/option-page-settings.php:320
+msgid "Add language"
+msgstr "Taal toevoegen"
+
+#: inc/admin/option-page-settings.php:333
+msgid "(Private)"
+msgstr "(Privé)"
+
+#: inc/admin/option-page-settings.php:358
+msgid "Make this language private"
+msgstr "Maak deze taal privé"
+
+#: inc/admin/option-page-settings.php:359
+msgid ""
+"Private languages will only be visible to logged-in users with editing "
+"rights. This option allows administrators to pre-generate and correct "
+"translations before they are accessible to the public."
+msgstr ""
+"Privé talen zijn alleen zichtbaar voor ingelogde gebruikers met "
+"bewerkingsrechten. Met deze optie kunnen beheerders vertalingen vooraf "
+"genereren en corrigeren voordat ze toegankelijk zijn voor het publiek."
+
+#: inc/admin/option-page-settings.php:368
+msgid "Target languages enabled: "
+msgstr "Doeltalen ingeschakeld: "
+
+#: inc/admin/option-page-settings.php:375
+msgid "Access more target languages by upgrading your API key."
+msgstr "Krijg toegang tot meer doeltalen door je API-sleutel te upgraden."
+
+#: inc/admin/option-page-settings.php:384
+msgid "Available languages: "
+msgstr "Beschikbare talen: "
+
+#: inc/admin/option-page-settings.php:404 inc/admin/option-page-settings.php:442
+#: inc/admin/option-page-settings.php:466 inc/admin/option-page-settings.php:549
+msgid "wplingua.com : Upgrade your API key"
+msgstr "wplingua.com : Upgrade je API-sleutel"
+
+#: inc/admin/option-page-settings.php:422
+msgid "API translation features: "
+msgstr "API vertaalfuncties: "
+
+#: inc/admin/option-page-settings.php:425
+msgid ""
+"The options below require extended access to the wpLingua API to be "
+"functional on your website."
+msgstr ""
+"De opties hieronder vereisen uitgebreide toegang tot de wpLingua API om "
+"functioneel te zijn op je website."
+
+#: inc/admin/option-page-settings.php:437
+msgid ""
+"Use of the free wpLingua API keys is reserved for personal blogs and non-"
+"profit websites; paid subscriptions are available for companies and "
+"commercial websites."
+msgstr ""
+"Het gebruik van de gratis wpLingua API keys is voorbehouden aan persoonlijke "
+"blogs en non-profit websites; betaalde abonnementen zijn beschikbaar voor "
+"bedrijven en commerciële websites."
+
+#: inc/admin/option-page-settings.php:451
+msgid "Search from translated languages"
+msgstr "Zoeken in vertaalde talen"
+
+#: inc/admin/option-page-settings.php:457
+msgid "Enable visitors to search on your website in their own language."
+msgstr "Stel bezoekers in staat om in hun eigen taal op je website te zoeken."
+
+#: inc/admin/option-page-settings.php:461
+msgid ""
+"Example: if your website is translated from English to French and you have a "
+"post named \"Hello\". When a French visitor searches for the term \"Bonjour\" "
+"on the website, this feature will translate it on the fly to \"Hello\" before "
+"launching the search. This will allow WordPress to find the post named "
+"\"Hello\" when your visitor has searched for \"Bonjour\"."
+msgstr ""
+"Voorbeeld: als je website vertaald is van het Engels naar het Frans en je "
+"hebt een bericht met de naam \"Hallo\". Wanneer een Franse bezoeker zoekt "
+"naar de term \"Bonjour\" op de website, dan zal deze functie dit direct "
+"vertalen naar \"Hallo\" voordat de zoekopdracht wordt gestart. Hierdoor kan "
+"WordPress het bericht met de naam \"Hallo\" vinden wanneer je bezoeker heeft "
+"gezocht naar \"Bonjour\"."
+
+#: inc/admin/option-page-settings.php:483
+msgid "Plugin translation features: "
+msgstr "Plugin vertaalfuncties: "
+
+#: inc/admin/option-page-settings.php:489
+msgid "Progress bar for editors"
+msgstr "Voortgangsbalk voor redacteuren"
+
+#: inc/admin/option-page-settings.php:495
+msgid "Enable progress bar: Smooth translations loading for editors"
+msgstr "Voortgangsbalk inschakelen: Vertalingen soepel laden voor redacteuren"
+
+#: inc/admin/option-page-settings.php:499
+msgid ""
+"Activate a progress bar when a page requires the generation of more than 20 "
+"new string translations. This feature only applies to connected editors."
+msgstr ""
+"Een voortgangsbalk activeren wanneer een pagina meer dan 20 nieuwe "
+"stringvertalingen moet genereren. Deze functie is alleen van toepassing op "
+"aangesloten editors."
+
+#: inc/admin/option-page-settings.php:508
+msgid "Enable multilingual XML Sitemap"
+msgstr "Meertalige XML-sitemap inschakelen"
+
+#: inc/admin/option-page-settings.php:514
+msgid ""
+"Enable multilingual Sitemap XML: Automatically add links to your wpLingua "
+"translated pages in your XML Sitemap files."
+msgstr ""
+"Schakel meertalige XML Sitemap in: Voeg automatisch links naar je wpLingua "
+"vertaalde pagina's toe in je XML Sitemap bestanden."
+
+#: inc/admin/option-page-settings.php:533
+msgid "Website API key: "
+msgstr "API-sleutel voor de website: "
+
+#: inc/admin/option-page-settings.php:538
+msgid ""
+"The API key connects the website to wpLingua's online services and automatic "
+"translation generators."
+msgstr ""
+"De API-sleutel verbindt de website met de online diensten en automatische "
+"vertaalgeneratoren van wpLingua."
+
+#: inc/admin/option-page-settings.php:560
+msgid "Show API key"
+msgstr "API-sleutel weergeven"
+
+#: inc/admin/option-page-settings.php:562
+msgid "Hide API key"
+msgstr "Verberg API-sleutel"
+
+#: inc/admin/option-page-settings.php:568
+msgid "API key status: "
+msgstr "API-sleutelstatus: "
+
+#: inc/admin/option-page-settings.php:583
+msgid "Premium expiration: "
+msgstr "Premievervaldatum: "
+
+#: inc/admin/option-page-switcher.php:35
+msgid "wpLingua - Switcher settings"
+msgstr "wpLingua - Switcher instellingen"
+
+#: inc/admin/option-page-switcher.php:51
+msgid "No target language selected."
+msgstr "Geen doeltaal geselecteerd."
+
+#: inc/admin/option-page-switcher.php:56
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: inc/admin/option-page-switcher.php:66
+msgid "Design"
+msgstr "Ontwerp"
+
+#: inc/admin/option-page-switcher.php:72 inc/admin/switcher-nav-menu.php:229
+#: inc/admin/switcher-nav-menu.php:342 inc/switcher-block.php:156
+msgid "Layout: "
+msgstr "Lay-out: "
+
+#: inc/admin/option-page-switcher.php:99
+msgid ""
+"This option allow you to define the layout of the languages ​​in the switcher."
+msgstr "Met deze optie kun je de opmaak van de talen in de switcher definiëren."
+
+#: inc/admin/option-page-switcher.php:104
+msgid "Inline list: "
+msgstr "Inline lijst: "
+
+#: inc/admin/option-page-switcher.php:105
+msgid "the languages ​​are lined up next to each other."
+msgstr "de talen staan naast elkaar."
+
+#: inc/admin/option-page-switcher.php:108
+msgid "Block: "
+msgstr "Blok: "
+
+#: inc/admin/option-page-switcher.php:109
+msgid "the languages ​​are placed in columns, one under the other."
+msgstr "de talen worden in kolommen onder elkaar geplaatst."
+
+#: inc/admin/option-page-switcher.php:112
+msgid "Dropdown: "
+msgstr "Dropdown: "
+
+#: inc/admin/option-page-switcher.php:113
+msgid ""
+"the languages ​​appear in a drop-down menu; this is recommended when your "
+"website offers several languages."
+msgstr ""
+"de talen verschijnen in een vervolgkeuzemenu; dit wordt aanbevolen als je "
+"website meerdere talen aanbiedt."
+
+#: inc/admin/option-page-switcher.php:123 inc/admin/switcher-nav-menu.php:197
+#: inc/admin/switcher-nav-menu.php:298 inc/switcher-block.php:157
+msgid "Displayed names: "
+msgstr "Weergegeven namen: "
+
+#: inc/admin/option-page-switcher.php:148
+msgid ""
+"This option allow you to choose how the languages names should be written in "
+"the switcher."
+msgstr ""
+"Met deze optie kun je kiezen hoe de taalnamen moeten worden geschreven in de "
+"switcher."
+
+#: inc/admin/option-page-switcher.php:155
+msgid "Translated names: "
+msgstr "Vertaalde namen: "
+
+#: inc/admin/option-page-switcher.php:156
+msgid ""
+"the name of the languages ​​is translated into the current language displayed."
+msgstr "de naam van de talen wordt vertaald naar de huidige weergegeven taal."
+
+#: inc/admin/option-page-switcher.php:159
+msgid "Original name: "
+msgstr "Oorspronkelijke naam: "
+
+#: inc/admin/option-page-switcher.php:160
+msgid ""
+"each language retains its name in its own language (English, Français, 日本"
+"語, Português, Español, etc.)."
+msgstr ""
+"elke taal behoudt zijn naam in zijn eigen taal (Engels, Français, 日本語, "
+"Português, Español, enz.)."
+
+#: inc/admin/option-page-switcher.php:163
+msgid "Language ID: "
+msgstr "Taal ID: "
+
+#: inc/admin/option-page-switcher.php:164
+msgid "language names use language ID (FR, EN, DE, RU, etc.)."
+msgstr "taalnamen gebruiken taal-ID (FR, EN, DE, RU, enz.)."
+
+#: inc/admin/option-page-switcher.php:167 inc/admin/option-page-switcher.php:220
+msgid "No display: "
+msgstr "Geen weergave: "
+
+#: inc/admin/option-page-switcher.php:168
+msgid "no text, only flags are displayed."
+msgstr "geen tekst, alleen vlaggen worden weergegeven."
+
+#: inc/admin/option-page-switcher.php:178 inc/switcher-block.php:158
+msgid "Flags style: "
+msgstr "Vlaggen stijl: "
+
+#: inc/admin/option-page-switcher.php:202
+msgid ""
+"This option allow you to choose the appearance of the flags in the switcher. "
+msgstr ""
+"Met deze optie kun je het uiterlijk van de vlaggen in de switcher kiezen. "
+
+#: inc/admin/option-page-switcher.php:208
+msgid "Circle: "
+msgstr "Cirkel: "
+
+#: inc/admin/option-page-switcher.php:209
+msgid "display round flags."
+msgstr "ronde vlaggen weergeven."
+
+#: inc/admin/option-page-switcher.php:212
+msgid "Rectangular: "
+msgstr "Rechthoekig: "
+
+#: inc/admin/option-page-switcher.php:213
+msgid "display rectangular flags."
+msgstr "rechthoekige vlaggen weergeven."
+
+#: inc/admin/option-page-switcher.php:216
+msgid "Wave: "
+msgstr "Golf: "
+
+#: inc/admin/option-page-switcher.php:217
+msgid "display wavy flags."
+msgstr "geven golvende vlaggen weer."
+
+#: inc/admin/option-page-switcher.php:221
+msgid "no display any flags, only the language name will be displayed."
+msgstr "geen vlaggen weergeeft, wordt alleen de taalnaam weergegeven."
+
+#: inc/admin/option-page-switcher.php:227
+msgid ""
+"You can also change the country flag or set a custom flag from wpLingua ➔ "
+"General settings. For example, you can set the flag of Mexico for Spanish "
+"instead of the flag of Spain."
+msgstr ""
+"Je kunt ook de vlag van het land wijzigen of een aangepaste vlag instellen "
+"via wpLingua ➔ Algemene instellingen. Je kunt bijvoorbeeld de vlag van Mexico "
+"instellen voor Spaans in plaats van de vlag van Spanje."
+
+#: inc/admin/option-page-switcher.php:236 inc/switcher-block.php:159
+msgid "Color theme: "
+msgstr "Kleurthema: "
+
+#: inc/admin/option-page-switcher.php:262
+msgid ""
+"This option allows you to choose the color and border styles of the languages "
+"switcher."
+msgstr ""
+"Met deze optie kun je de kleur en de randstijlen van de taalswitcher kiezen."
+
+#: inc/admin/option-page-switcher.php:268
+msgid "The color options offer 5 themes: "
+msgstr "De kleuropties bieden 5 thema's: "
+
+#: inc/admin/option-page-switcher.php:273
+msgid "Light: "
+msgstr "Licht: "
+
+#: inc/admin/option-page-switcher.php:274
+msgid "white color in the background of the switcher."
+msgstr "witte kleur op de achtergrond van de switcher."
+
+#: inc/admin/option-page-switcher.php:277
+msgid "Grey: "
+msgstr "Grijs: "
+
+#: inc/admin/option-page-switcher.php:278
+msgid "grey background color."
+msgstr "grijze achtergrondkleur."
+
+#: inc/admin/option-page-switcher.php:281
+msgid "Dark: "
+msgstr "Donker: "
+
+#: inc/admin/option-page-switcher.php:282
+msgid "black background color."
+msgstr "zwarte achtergrondkleur."
+
+#: inc/admin/option-page-switcher.php:285
+msgid "Blur Black: "
+msgstr "Zwart vervagen: "
+
+#: inc/admin/option-page-switcher.php:286
+msgid "transparent and blurred background color with black text and borders."
+msgstr "transparante en onscherpe achtergrondkleur met zwarte tekst en randen."
+
+#: inc/admin/option-page-switcher.php:289
+msgid "Blur White: "
+msgstr "Wit vervagen: "
+
+#: inc/admin/option-page-switcher.php:290
+msgid "transparent and blurred background color with white text and borders."
+msgstr "transparante en onscherpe achtergrondkleur met witte tekst en randen."
+
+#: inc/admin/option-page-switcher.php:297
+msgid "Each theme is then broken down by shape and border style:"
+msgstr "Elk thema wordt vervolgens uitgesplitst naar vorm en randstijl:"
+
+#: inc/admin/option-page-switcher.php:302
+msgid "Double – Smooth: "
+msgstr "Dubbel - Glad: "
+
+#: inc/admin/option-page-switcher.php:303
+msgid "the switcher will be framed by a double border with rounded corners."
+msgstr "wordt de switcher omlijst door een dubbele rand met afgeronde hoeken."
+
+#: inc/admin/option-page-switcher.php:306
+msgid "Double – Square: "
+msgstr "Dubbel - Vierkant: "
+
+#: inc/admin/option-page-switcher.php:307
+msgid "double border with square corners."
+msgstr "dubbele rand met rechte hoeken."
+
+#: inc/admin/option-page-switcher.php:310
+msgid "Simple – Smooth: "
+msgstr "Eenvoudig - Soepel: "
+
+#: inc/admin/option-page-switcher.php:311
+msgid "single border with rounded corners."
+msgstr "enkele rand met afgeronde hoeken."
+
+#: inc/admin/option-page-switcher.php:314
+msgid "Simple – Square: "
+msgstr "Eenvoudig - Vierkant: "
+
+#: inc/admin/option-page-switcher.php:315
+msgid "single border with square corners."
+msgstr "enkele rand met rechte hoeken."
+
+#: inc/admin/option-page-switcher.php:325
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: inc/admin/option-page-switcher.php:327
+msgid "Set custom CSS: "
+msgstr "Aangepaste CSS instellen: "
+
+#: inc/admin/option-page-switcher.php:330
+msgid ""
+"The field below allows you to add custom CSS code that will run on all pages."
+msgstr ""
+"In het onderstaande veld kun je aangepaste CSS-code toevoegen die op alle "
+"pagina's wordt uitgevoerd."
+
+#: inc/admin/option-page-switcher.php:335
+msgid ""
+"First of all, note that the CSS class <code>.switcher-content</code> allows "
+"you to act on the entire block of the language switcher while the class "
+"<code>.wplng-langague</code> allows you to act on the languages ​​themselves."
+msgstr ""
+"Allereerst moet je weten dat je met de CSS-klasse <code>.switcher-content</"
+"code> het hele blok van de taalswitcher kunt aansturen, terwijl je met de "
+"klasse <code>.wplng-langague</code> de talen zelf kunt aansturen."
+
+#: inc/admin/option-page-switcher.php:350
+msgid ""
+"To change the background and border colors of languages, here is the CSS:"
+msgstr "Hier is de CSS om de achtergrond- en randkleuren van talen te wijzigen:"
+
+#: inc/admin/option-page-switcher.php:365
+msgid "More example on wplingua.com"
+msgstr "Meer voorbeelden op wplingua.com"
+
+#: inc/admin/option-page-switcher.php:376
+msgid "Insertion"
+msgstr "Tussenvoegsel"
+
+#: inc/admin/option-page-switcher.php:383
+msgid "Automatic insert: "
+msgstr "Automatisch invoegen: "
+
+#: inc/admin/option-page-switcher.php:409
+msgid "Choose a predefined location: "
+msgstr "Kies een vooraf gedefinieerde locatie: "
+
+#: inc/admin/option-page-switcher.php:413
+msgid "Bottom right: "
+msgstr "Rechtsonder: "
+
+#: inc/admin/option-page-switcher.php:414
+msgid "the switcher is placed at the bottom right of the screen."
+msgstr "staat de switcher rechtsonder in het scherm."
+
+#: inc/admin/option-page-switcher.php:417
+msgid "Bottom Center: "
+msgstr "Middenonder: "
+
+#: inc/admin/option-page-switcher.php:418
+msgid "bottom center of the screen."
+msgstr "middenonder op het scherm."
+
+#: inc/admin/option-page-switcher.php:421
+msgid "Bottom left: "
+msgstr "Linksonder: "
+
+#: inc/admin/option-page-switcher.php:422
+msgid "bottom left of the screen."
+msgstr "linksonder in het scherm."
+
+#: inc/admin/option-page-switcher.php:425
+msgid "None: "
+msgstr "Geen: "
+
+#: inc/admin/option-page-switcher.php:426
+msgid "the switcher is not inserted automatically."
+msgstr "wordt de switcher niet automatisch ingevoegd."
+
+#: inc/admin/option-page-switcher.php:436
+msgid "Shortcode switcher: "
+msgstr "Shortcode switcher: "
+
+#: inc/admin/option-page-switcher.php:443
+msgid ""
+"If you want to insert the language switcher only in certain places on your "
+"website, you can use the shortcode provided for this purpose. Note that in "
+"this case, the previous option should be \"None\". This method is ideal for "
+"placing the switcher where you want it, whether you are using a Gutenberg "
+"block-based theme (FSE), a classic theme or even a page or theme builder like "
+"Divi, Elementor..."
+msgstr ""
+"Als je de taalswitcher alleen op bepaalde plaatsen op je website wilt "
+"invoegen, kun je de daarvoor bestemde shortcode gebruiken. Merk op dat in dit "
+"geval de vorige optie \"Geen\" moet zijn. Deze methode is ideaal om de "
+"switcher te plaatsen waar je hem wilt hebben, of je nu een Gutenberg thema "
+"gebruikt dat op blokken is gebaseerd (FSE), een klassiek thema of zelfs een "
+"pagina- of themabouwer zoals Divi, Elementor..."
+
+#: inc/admin/option-page-switcher.php:450
+msgid "Gutenberg & FSE: "
+msgstr "Gutenberg & FSE: "
+
+#: inc/admin/option-page-switcher.php:453
+msgid "Block wpLingua Switcher"
+msgstr "Blok wpLingua Switcher"
+
+#: inc/admin/option-page-switcher.php:457
+msgid ""
+"Block based themes, wpLingua offers a dedicated Gutenberg block. You can "
+"insert the switcher wherever you want, whether in the content or via the "
+"overall site editor."
+msgstr ""
+"Thema's op basis van blokken, wpLingua biedt een speciaal Gutenberg-blok. Je "
+"kunt de switcher invoegen waar je maar wilt, in de inhoud of via de algemene "
+"site-editor."
+
+#: inc/admin/option-page-switcher.php:464
+msgid "Switcher in menu: "
+msgstr "Switcher in menu: "
+
+#: inc/admin/option-page-switcher.php:479
+msgid "Appearance ➔ Menus"
+msgstr "Uiterlijk ➔ Menu's"
+
+#: inc/admin/option-page-switcher.php:490
+msgid ""
+"If the active theme manages menus (classic theme), it is possible to add a "
+"language switcher. The design of these language switchers will be defined by "
+"the theme. Go to the Appearance ➔ Menu tab to add the wpLingua switcher as a "
+"menu item. It is also possible to add it as a sub-element."
+msgstr ""
+"Als het actieve thema menu's beheert (klassiek thema), is het mogelijk om een "
+"taalswitcher toe te voegen. Het ontwerp van deze taalswitchers wordt bepaald "
+"door het thema. Ga naar het tabblad Uiterlijk ➔ Menu om de wpLingua switcher "
+"als menu-item toe te voegen. Het is ook mogelijk om het als sub-element toe "
+"te voegen."
+
+#: inc/admin/option-page.php:17
+msgid "wpLingua: Register"
+msgstr "wpLingua: Registreren"
+
+#: inc/admin/option-page.php:36 inc/admin/option-page.php:47
+msgid "wpLingua: Settings"
+msgstr "wpLingua: Instellingen"
+
+#: inc/admin/option-page.php:48
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: inc/admin/option-page.php:56
+msgid "wpLingua: Switcher"
+msgstr "wpLingua: Schakelprogramma"
+
+#: inc/admin/option-page.php:57
+msgid "Switcher"
+msgstr "Switcher"
+
+#: inc/admin/option-page.php:65
+msgid "wpLingua: Exclusion"
+msgstr "wpLingua: Uitsluiting"
+
+#: inc/admin/option-page.php:66
+msgid "Exclusion"
+msgstr "Uitsluiting"
+
+#: inc/admin/option-page.php:74
+msgid "wpLingua: Dictionary"
+msgstr "wpLingua: Woordenboek"
+
+#: inc/admin/option-page.php:75
+msgid "Dictionary"
+msgstr "Woordenboek"
+
+#: inc/admin/option-page.php:83
+msgid "wplingua: Links & Medias"
+msgstr "wpLingua: Links & Media"
+
+#: inc/admin/option-page.php:84
+msgid "Links & Medias"
+msgstr "Links en media"
+
+#: inc/admin/option-page.php:92
+msgid "wpLingua: Website slugs"
+msgstr "wpLingua: Website slugs"
+
+#: inc/admin/option-page.php:93 inc/admin/slug-cpt.php:23
+msgid "Website slugs"
+msgstr "Website naaktslakken"
+
+#: inc/admin/option-page.php:101
+msgid "wpLingua: Translations"
+msgstr "wpLingua: Vertalingen"
+
+#: inc/admin/option-page.php:102
+msgid "All translations"
+msgstr "Alle vertalingen"
+
+#: inc/admin/option-page.php:221
+msgid "Thank you for choosing wpLingua!"
+msgstr "Bedankt voor het kiezen van wpLingua!"
+
+#: inc/admin/option-page.php:224
+#, php-format
+msgid "If you like wpLingua please leave us a %1$s rating. A huge thanks!"
+msgstr ""
+"Als je wpLingua leuk vindt, geef ons dan een %1$s beoordeling. Hartelijk dank!"
+
+#: inc/admin/option-page.php:225
+msgid "five stars"
+msgstr "vijf sterren"
+
+#: inc/admin/option-page.php:249
+msgid "Version"
+msgstr "Versie"
+
+#: inc/admin/option-page.php:272
+msgid "Settings"
+msgstr "Instellingen"
+
+#: inc/admin/option-page.php:314
+msgid "wpLingua - Translation solution for multilingual website"
+msgstr "wpLingua - Vertaaloplossing voor meertalige website"
+
+#: inc/admin/option-page.php:317
+msgid ""
+"wpLingua is installed, but not yet configured. You are just a few clicks away "
+"from making your website multilingual!"
+msgstr ""
+"wpLingua is geïnstalleerd, maar nog niet geconfigureerd. Je bent slechts een "
+"paar klikken verwijderd van het meertalig maken van je website!"
+
+#: inc/admin/option-page.php:320
+msgid "Go to the configuration page"
+msgstr "Ga naar de configuratiepagina"
+
+#: inc/admin/option-page.php:394
+msgid "wpLingua - Incompatible plugin detected"
+msgstr "wpLingua - Incompatibele plugin gedetecteerd"
+
+#: inc/admin/option-page.php:397
+msgid ""
+"You have several translation plugins. This may result in unpredictable or "
+"incorrect behavior. For best results, use only one translation plugin at a "
+"time. These plugins can cause problems with wpLingua: "
+msgstr ""
+"Je hebt verschillende vertaalplugins. Dit kan leiden tot onvoorspelbaar of "
+"onjuist gedrag. Voor de beste resultaten gebruik je slechts één vertaalplugin "
+"per keer. Deze plugins kunnen problemen veroorzaken met wpLingua: "
+
+#: inc/admin/option-page.php:414
+#, php-format
+msgid "Deactivate plugin: %1$s"
+msgstr "Plugin deactiveren: %1$s"
+
+#: inc/admin/option-page.php:423
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: inc/admin/option-page.php:440
+msgid "Manage active plugins"
+msgstr "Actieve plugins beheren"
+
+#: inc/admin/option-page.php:465
+msgid "wpLingua - Incompatible with multisite"
+msgstr "wpLingua - Onverenigbaar met multisite"
+
+#: inc/admin/option-page.php:468
+msgid "wpLingua is not compatible with multisite."
+msgstr "wpLingua is niet compatibel met multisite."
+
+#: inc/admin/option-page.php:492
+msgid "wpLingua - Incompatible with WordPress installed in a subfolder"
+msgstr "wpLingua - Onverenigbaar met WordPress geïnstalleerd in een submap"
+
+#: inc/admin/option-page.php:495
+msgid "wpLingua is not compatible with WordPress installed in a subfolder."
+msgstr ""
+"wpLingua is niet compatibel met WordPress dat in een submap is geïnstalleerd."
+
+#: inc/admin/option-page.php:519
+msgid "wpLingua - Incompatible PHP version"
+msgstr "wpLingua - Onverenigbare PHP-versie"
+
+#: inc/admin/option-page.php:522
+msgid ""
+"wpLingua is not compatible with your PHP version. wpLingua requires PHP 7.4 "
+"or higher."
+msgstr ""
+"wpLingua is niet compatibel met uw PHP-versie. wpLingua vereist PHP 7.4 of "
+"hoger."
+
+#: inc/admin/option-page.php:585
+msgid "wpLingua - Incompatible HTACCESS file"
+msgstr "wpLingua - Onverenigbaar HTACCESS-bestand"
+
+#: inc/admin/option-page.php:588
+msgid ""
+"It seems that a plugin was incorrectly deactivated and corrupted the site's "
+"HTACCESS file, preventing the correct redirection of translated pages. Please "
+"edit the \".htaccess\" file located at the root of the site and delete the "
+"lines between :"
+msgstr ""
+"Het lijkt erop dat een plugin ten onrechte is gedeactiveerd en het HTACCESS-"
+"bestand van de site heeft beschadigd, waardoor de vertaalde pagina's niet "
+"correct worden omgeleid. Bewerk het bestand \".htaccess\" in de root van de "
+"site en verwijder de regels tussen :"
+
+#: inc/admin/slug-cpt.php:19
+msgid "wpLingua - Website slugs"
+msgstr "wpLingua - Website slakken"
+
+#: inc/admin/slug-cpt.php:20
+msgid "wpLingua - Website slug"
+msgstr "wpLingua - Website slug"
+
+#: inc/admin/slug-cpt.php:21
+msgid "wpLingua - All slugs"
+msgstr "wpLingua - Alle slakken"
+
+#: inc/admin/slug-cpt.php:22
+msgid "wpLingua - Edit slug"
+msgstr "wpLingua - Slug bewerken"
+
+#: inc/admin/slug-cpt.php:24
+msgid "Search slugs"
+msgstr "Naaktslakken zoeken"
+
+#: inc/admin/slug-cpt.php:112
+msgid "All slug status"
+msgstr "Alle slakkenstatus"
+
+#: inc/admin/slug-cpt.php:127 inc/admin/slug-cpt.php:139
+#: inc/admin/translation-cpt.php:111 inc/admin/translation-cpt.php:119
+#: inc/dom/mode-list.php:193
+msgid "Reviewed"
+msgstr "Beoordeeld"
+
+#: inc/admin/slug-cpt.php:128 inc/admin/slug-cpt.php:399
+#: inc/admin/slug-cpt.php:438 inc/admin/translation-cpt.php:112
+#: inc/admin/translation-cpt.php:379 inc/admin/translation-cpt.php:418
+#: inc/dom/mode-list.php:197
+msgid "Unreviewed"
+msgstr "Niet beoordeeld"
+
+#: inc/admin/slug-cpt.php:137 inc/admin/slug-cpt.php:389
+#: inc/admin/slug-cpt.php:426 inc/admin/translation-cpt.php:117
+#: inc/admin/translation-cpt.php:369 inc/admin/translation-cpt.php:406
+msgid "Full reviewed"
+msgstr "Volledig beoordeeld"
+
+#: inc/admin/slug-cpt.php:138 inc/admin/slug-cpt.php:394
+#: inc/admin/slug-cpt.php:432 inc/admin/translation-cpt.php:118
+#: inc/admin/translation-cpt.php:374 inc/admin/translation-cpt.php:412
+msgid "Partially reviewed"
+msgstr "Gedeeltelijk beoordeeld"
+
+#: inc/admin/slug-cpt.php:140 inc/admin/translation-cpt.php:120
+msgid "Full unreviewed"
+msgstr "Volledig onbeschouwd"
+
+#: inc/admin/slug-cpt.php:285
+msgid "Slug status"
+msgstr "Status slak"
+
+#: inc/admin/slug-cpt.php:421
+msgid "Slug status: "
+msgstr "Status slak: "
+
+#: inc/admin/slug-meta.php:23
+msgid "Slug"
+msgstr "Slug"
+
+#: inc/admin/slug-meta.php:75 inc/admin/slug-meta.php:154
+#: inc/admin/translation-meta.php:77 inc/admin/translation-meta.php:146
+msgid "Flag for language: "
+msgstr "Vlag voor taal: "
+
+#: inc/admin/slug-meta.php:89
+msgid " - Original slug: "
+msgstr " - Originele slak: "
+
+#: inc/admin/slug-meta.php:153 inc/admin/translation-meta.php:145
+msgid "Regenerate translation"
+msgstr "Herstel vertaling"
+
+#: inc/admin/slug-meta.php:156 inc/admin/translation-meta.php:148
+msgid "Mark as review"
+msgstr "Markeren als recensie"
+
+#: inc/admin/slug-meta.php:171 inc/admin/translation-meta.php:157
+msgid "Generate translation"
+msgstr "Vertaling genereren"
+
+#: inc/admin/slug-meta.php:197 inc/admin/translation-meta.php:183
+msgid "Reviewed on "
+msgstr "Beoordeeld op "
+
+#: inc/admin/slug-meta.php:226
+msgid " - Slug translation: "
+msgstr " - Slug vertaling: "
+
+#: inc/admin/slug-meta.php:261 inc/admin/translation-meta.php:247
+msgid "Is reviewed"
+msgstr "Wordt beoordeeld"
+
+#: inc/admin/slug-meta.php:492 inc/admin/translation-meta.php:471
+msgid "Invalid parameters"
+msgstr "Ongeldige parameters"
+
+#: inc/admin/slug-meta.php:504 inc/admin/translation-meta.php:484
+msgid "Invalid languages parameters"
+msgstr "Ongeldige taalparameters"
+
+#: inc/admin/slug-meta.php:561 inc/admin/translation-meta.php:524
+msgid "Invalid API response"
+msgstr "Ongeldig API-antwoord"
+
+#: inc/admin/switcher-nav-menu.php:190
+msgid ""
+"These options are used to add a language switcher in a menu. This language "
+"switcher automatically uses the menu design."
+msgstr ""
+"Deze opties worden gebruikt om een taalswitcher toe te voegen aan een menu. "
+"Deze taalswitcher gebruikt automatisch het menuontwerp."
+
+#: inc/admin/switcher-nav-menu.php:213 inc/admin/switcher-nav-menu.php:320
+msgid "Displayed flag: "
+msgstr "Getoonde vlag: "
+
+#: inc/admin/switcher-nav-menu.php:249
+msgid "Language switcher"
+msgstr "Taalschakelaar"
+
+#: inc/admin/switcher-nav-menu.php:259
+msgid "Add to menu"
+msgstr "Aan menu toevoegen"
+
+#: inc/admin/translation-cpt.php:19
+msgid "wpLingua - Translations"
+msgstr "wpLingua - Vertalingen"
+
+#: inc/admin/translation-cpt.php:20
+msgid "wpLingua - Translation"
+msgstr "wpLingua - Vertaling"
+
+#: inc/admin/translation-cpt.php:21
+msgid "wpLingua - All translations"
+msgstr "wpLingua - Alle vertalingen"
+
+#: inc/admin/translation-cpt.php:22
+msgid "wpLingua - Edit translation"
+msgstr "wpLingua - Vertaling bewerken"
+
+#: inc/admin/translation-cpt.php:24
+msgid "Search translations"
+msgstr "Doorzoek vertalingen"
+
+#: inc/admin/translation-cpt.php:110 inc/admin/translation-cpt.php:116
+msgid "All translation status"
+msgstr "Alle vertaalstatussen"
+
+#: inc/admin/translation-cpt.php:265
+msgid "Translation status"
+msgstr "Vertaalstatus"
+
+#: inc/admin/translation-cpt.php:401
+msgid "Translation status: "
+msgstr "Vertaalstatus: "
+
+#: inc/admin/translation-edit-modal.php:29
+msgid "All languages"
+msgstr "Alle talen"
+
+#: inc/admin/translation-edit-modal.php:42
+msgid "Open edit page"
+msgstr "Pagina bewerken openen"
+
+#: inc/admin/translation-edit-modal.php:58
+msgid "Edit translation"
+msgstr "Vertaling bewerken"
+
+#: inc/admin/translation-edit-modal.php:96
+#: inc/admin/translation-edit-modal.php:155
+msgid "Invalid translation ID"
+msgstr "Ongeldige vertaal-ID"
+
+#: inc/admin/translation-edit-modal.php:107
+msgid "Invalid translation post"
+msgstr "Ongeldige vertaalpost"
+
+#: inc/admin/translation-edit-modal.php:178
+msgid "Translation saving failed"
+msgstr "Opslaan van vertaling mislukt"
+
+#: inc/admin/translation-meta.php:23
+msgid "Translation"
+msgstr "Vertaling"
+
+#: inc/admin/translation-meta.php:87
+msgid " - Original text: "
+msgstr " - Oorspronkelijke tekst: "
+
+#: inc/admin/translation-meta.php:212
+msgid " - Translation: "
+msgstr " - Vertaling: "
+
+#: inc/admin/translation-meta.php:282
+msgid "Discovery URL: "
+msgstr "URL voor ontdekking: "
+
+#: inc/api-call/request-api-key.php:60
+msgid "Error - Invalid data."
+msgstr "Fout - Ongeldige gegevens."
+
+#: inc/api-call/request-api-key.php:71
+msgid "Error - Invalid data (email address)."
+msgstr "Fout - Ongeldige gegevens (e-mailadres)."
+
+#: inc/api-call/request-api-key.php:82
+msgid "Error - Invalid data (website URL)."
+msgstr "Fout - Ongeldige gegevens (website URL)."
+
+#: inc/api-call/request-api-key.php:97
+msgid "Error - Invalid data (languages)."
+msgstr "Fout - Ongeldige gegevens (talen)."
+
+#: inc/api-call/request-api-key.php:136
+msgid "Error - The API could not be called."
+msgstr "Fout - De API kon niet worden aangeroepen."
+
+#: inc/api-call/request-api-key.php:181
+msgid "Error - API response not valid."
+msgstr "Fout - API-antwoord niet geldig."
+
+#: inc/api-call/validate-api-key.php:191
+msgid "Code"
+msgstr "Code"
+
+#: inc/api-call/validate-api-key.php:217
+msgid "API returned an unexpected response."
+msgstr "API heeft een onverwacht antwoord teruggestuurd."
+
+#: inc/assets.php:93
+msgid ""
+"You are about to exit without saving your changes. They will be lost if you "
+"continue. Would you like to leave anyway?"
+msgstr ""
+"Je staat op het punt af te sluiten zonder je wijzigingen op te slaan. Ze "
+"zullen verloren gaan als je doorgaat. Wil je toch weggaan?"
+
+#: inc/assets.php:97
+msgid "Save in progress..."
+msgstr "Opslaan bezig..."
+
+#: inc/dom/load-overload.php:35
+msgid "Translation API overloaded"
+msgstr "Vertaal-API overbelast"
+
+#: inc/dom/load-overload.php:39
+msgid "Translation API overloaded. Retry in a few minutes."
+msgstr "Vertaal-API overbelast. Probeer het opnieuw over een paar minuten."
+
+#: inc/dom/load-overload.php:45
+msgid "Close"
+msgstr "Sluiten"
+
+#: inc/dom/load-progress.php:86 inc/dom/load-progress.php:167
+msgid "Translation in progress"
+msgstr "Vertaling in uitvoering"
+
+#: inc/dom/load-progress.php:171
+msgid "In progress: Translation and saving of new texts"
+msgstr "In uitvoering: Vertalen en opslaan van nieuwe teksten"
+
+#: inc/dom/mode-editor.php:118 inc/dom/mode-list.php:306
+msgid "Edit this translation"
+msgstr "Bewerk deze vertaling"
+
+#: inc/dom/mode-list.php:171
+msgid "Search"
+msgstr "Zoeken"
+
+#: inc/dom/mode-list.php:183
+msgid "Status"
+msgstr "Status"
+
+#: inc/dom/mode-list.php:189
+msgid "All"
+msgstr "Alle"
+
+#: inc/dom/mode-list.php:211
+msgid "Order"
+msgstr "Bestelling"
+
+#: inc/dom/mode-list.php:217
+msgid "Occurrence order"
+msgstr "Volgorde van voorkomen"
+
+#: inc/dom/mode-list.php:221
+msgid "Alphabetical - sources"
+msgstr "Alfabetisch - bronnen"
+
+#: inc/dom/mode-list.php:225
+msgid "Alphabetical - translations"
+msgstr "Alfabetisch - vertalingen"
+
+#: inc/dom/mode-list.php:322
+msgid "Go to top"
+msgstr "Naar bovenkant"
+
+#: inc/slug.php:294 inc/translation.php:238
+msgid "..."
+msgstr "..."
+
+#: inc/switcher-block.php:47
+msgid "wpLingua: languages switcher"
+msgstr "wpLingua: talen switcher"
+
+#: inc/switcher-block.php:48
+msgid "Add a language switcher to your page."
+msgstr "Voeg een taalswitcher toe aan je pagina."
+
+#: inc/switcher-block.php:53
+msgid "language"
+msgstr "taal"
+
+#: inc/switcher-block.php:54
+msgid "switcher"
+msgstr "switcher"
+
+#: inc/switcher-block.php:55
+msgid "multilanguage"
+msgstr "meertalig"
+
+#: inc/switcher-block.php:56
+msgid "multilingual"
+msgstr "meertaligheid"
+
+#: inc/switcher-block.php:57
+msgid "translate"
+msgstr "vertaal"
+
+#: inc/switcher-block.php:58
+msgid "translation"
+msgstr "vertaling"
+
+#: inc/switcher-block.php:59
+msgid "flag"
+msgstr "markeer"
+
+#: inc/switcher-block.php:60
+msgid "flags"
+msgstr "flaggen"
+
+#: inc/switcher-block.php:151
+msgid "Languages switcher"
+msgstr "Talen omschakelaar"
+
+#: inc/switcher-block.php:152
+msgid "Display the wpLingua languages switcher."
+msgstr "Geef de wpLingua-talenkiezer weer."
+
+#: inc/switcher-block.php:153
+msgid "Default"
+msgstr "Standaard"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wplingua.com/"
+msgstr "https://wplingua.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"An all-in-one solution that makes your websites multilingual and translates "
+"them automatically, without word or page limits. The highlights: a free first "
+"language, an on-page visual editor for editing translations, a customizable "
+"language switcher, search engine optimization (SEO), self-hosted data and "
+"more!"
+msgstr ""
+"Een alles-in-één oplossing die je websites meertalig maakt en automatisch "
+"vertaalt, zonder woord- of paginalimieten. De hoogtepunten: een gratis eerste "
+"taal, een on-page visuele editor voor het bewerken van vertalingen, een "
+"aanpasbare taalswitcher, zoekmachineoptimalisatie (SEO), zelf gehoste "
+"gegevens en meer!"
+
+#. Author of the plugin/theme
+msgid "wpLingua Translation Service"
+msgstr "wpLingua Vertaaldienst"
+
+#~ msgid "wpLingua is not compatible with Multisite."
+#~ msgstr "wpLingua is niet compatibel met Multisite."
+
+#~ msgid "Contact support on wplingua.com"
+#~ msgstr "Neem contact op met ondersteuning op wplingua.com"
+
+#~ msgid "Upgrade your API key on wplingua.com"
+#~ msgstr "Upgrade je API-sleutel op wplingua.com"
+
+#~ msgid "API feature: Use wpLingua on commercial website"
+#~ msgstr "API-functie: Gebruik wpLingua op commerciële website"
+
+#~ msgid "Website slug"
+#~ msgstr "Website slug"
+
+#~ msgid "All slugs"
+#~ msgstr "Alle slakken"
+
+#~ msgid "Edit slug"
+#~ msgstr "Slug bewerken"
+
+#~ msgid "Edit entry"
+#~ msgstr "Inbreng bewerken"
+
+#~ msgid "Mark slug translation as review"
+#~ msgstr "Markeer slug vertaling als recensie"

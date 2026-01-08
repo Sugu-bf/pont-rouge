@@ -1,0 +1,2487 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpLingua\n"
+"POT-Creation-Date: 2025-08-25 11:57+0200\n"
+"PO-Revision-Date: 2025-08-25 15:24+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wplingua.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: data.php:559
+msgid "Bottom right"
+msgstr "Nederst til højre"
+
+#: data.php:560
+msgid "Bottom center"
+msgstr "Nederst i midten"
+
+#: data.php:561
+msgid "Bottom left"
+msgstr "Nederst til venstre"
+
+#: data.php:562
+msgid "None"
+msgstr "Ingen"
+
+#: data.php:574
+msgid "Light - Double - Smooth"
+msgstr "Lys - Dobbelt - Glat"
+
+#: data.php:575
+msgid "Light - Double - Square"
+msgstr "Lys - Dobbelt - Firkantet"
+
+#: data.php:576
+msgid "Light - Simple - Smooth"
+msgstr "Let - enkel - glat"
+
+#: data.php:577
+msgid "Light - Simple - Square"
+msgstr "Let - enkel - firkantet"
+
+#: data.php:578
+msgid "Grey - Double - Smooth"
+msgstr "Grå - Dobbelt - Glat"
+
+#: data.php:579
+msgid "Grey - Double - Square"
+msgstr "Grå - Dobbelt - Firkantet"
+
+#: data.php:580
+msgid "Grey - Simple - Smooth"
+msgstr "Grå - enkel - glat"
+
+#: data.php:581
+msgid "Grey - Simple - Square"
+msgstr "Grå - enkel - firkantet"
+
+#: data.php:582
+msgid "Dark - Double - Smooth"
+msgstr "Mørk - Dobbelt - Glat"
+
+#: data.php:583
+msgid "Dark - Double - Square"
+msgstr "Mørk - Dobbelt - Firkantet"
+
+#: data.php:584
+msgid "Dark - Simple - Smooth"
+msgstr "Mørk - enkel - glat"
+
+#: data.php:585
+msgid "Dark - Simple - Square"
+msgstr "Mørk - enkel - firkantet"
+
+#: data.php:586
+msgid "Blur Black - Double - Smooth"
+msgstr "Blur Black - Dobbelt - Glat"
+
+#: data.php:587
+msgid "Blur Black - Double - Square"
+msgstr "Blur Black - Dobbelt - Firkantet"
+
+#: data.php:588
+msgid "Blur Black - Simple - Smooth"
+msgstr "Blur Black - Enkel - Glat"
+
+#: data.php:589
+msgid "Blur Black - Simple - Square"
+msgstr "Blur Black - Enkel - Firkantet"
+
+#: data.php:590
+msgid "Blur White - Double - Smooth"
+msgstr "Blur White - Dobbelt - Glat"
+
+#: data.php:591
+msgid "Blur White - Double - Square"
+msgstr "Blur White - Dobbelt - Firkantet"
+
+#: data.php:592
+msgid "Blur White - Simple - Smooth"
+msgstr "Slør hvid - enkel - glat"
+
+#: data.php:593
+msgid "Blur White - Simple - Square"
+msgstr "Blur White - Simple - Square"
+
+#: data.php:605
+msgid "Inline list"
+msgstr "Inline-liste"
+
+#: data.php:606
+msgid "Block"
+msgstr "Blok"
+
+#: data.php:607
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: data.php:619 data.php:653
+msgid "Original name"
+msgstr "Oprindeligt navn"
+
+#: data.php:620 data.php:654
+msgid "Translated name"
+msgstr "Oversat navn"
+
+#: data.php:621 data.php:655
+msgid "Language ID"
+msgstr "Sprog-ID"
+
+#: data.php:622 data.php:637 data.php:656 data.php:669
+msgid "No display"
+msgstr "Intet display"
+
+#: data.php:634
+msgid "Circle"
+msgstr "Cirkel"
+
+#: data.php:635
+msgid "Rectangular"
+msgstr "Rektangulær"
+
+#: data.php:636
+msgid "Wave"
+msgstr "Bølge"
+
+#: data.php:668
+msgid "Display"
+msgstr "Vis"
+
+#: data.php:681
+msgid "List without current language"
+msgstr "Liste uden nuværende sprog"
+
+#: data.php:682
+msgid "List without active class"
+msgstr "Liste uden aktiv klasse"
+
+#: data.php:683
+msgid "List with active class"
+msgstr "Liste med aktiv klasse"
+
+#: data.php:684
+msgid "Sub-list"
+msgstr "Underliste"
+
+#: data.php:737
+msgid "Arabic"
+msgstr "Arabisk"
+
+#: data.php:743 data.php:897
+msgid "Global"
+msgstr "Global"
+
+#: data.php:748
+msgid "Egypt"
+msgstr "Egypt"
+
+#: data.php:753
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabien"
+
+#: data.php:758
+msgid "Algeria"
+msgstr "Algeriet"
+
+#: data.php:763
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: data.php:768
+msgid "Chad"
+msgstr "Chad"
+
+#: data.php:773
+msgid "Comoros"
+msgstr "Comoros"
+
+#: data.php:778
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: data.php:783
+msgid "Iraq"
+msgstr "Irak"
+
+#: data.php:788
+msgid "Jordan"
+msgstr "Jordan"
+
+#: data.php:793
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: data.php:798
+msgid "Lebanon"
+msgstr "Lebanon"
+
+#: data.php:803
+msgid "Libya"
+msgstr "Libyen"
+
+#: data.php:808
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: data.php:813
+msgid "Morocco"
+msgstr "Marokko"
+
+#: data.php:818
+msgid "Oman"
+msgstr "Oman"
+
+#: data.php:823
+msgid "Palestine"
+msgstr "Palæstina"
+
+#: data.php:828
+msgid "Qatar"
+msgstr "Qatar"
+
+#: data.php:833
+msgid "Somalia"
+msgstr "Somalia"
+
+#: data.php:838
+msgid "Sudan"
+msgstr "Sudan"
+
+#: data.php:843
+msgid "Syria"
+msgstr "Syrien"
+
+#: data.php:848
+msgid "Tunisia"
+msgstr "Tunesien"
+
+#: data.php:853
+msgid "United Arab Emirates"
+msgstr "Forenede Arabiske Emirater"
+
+#: data.php:858
+msgid "Yemen"
+msgstr "Yemen"
+
+#: data.php:892
+msgid "Chinese"
+msgstr "Kinesisk"
+
+#: data.php:902
+msgid "China"
+msgstr "Kina"
+
+#: data.php:907
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: data.php:912
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: data.php:917 data.php:1153
+msgid "Singapore"
+msgstr "Singapore"
+
+#: data.php:951
+msgid "Danish"
+msgstr "Dansk"
+
+#: data.php:956
+msgid "Denmark"
+msgstr "Danmark"
+
+#: data.php:990
+msgid "Dutch"
+msgstr "Hollandsk"
+
+#: data.php:995
+msgid "Netherlands"
+msgstr "Holland"
+
+#: data.php:1000 data.php:1246
+msgid "Belgium"
+msgstr "Belgien"
+
+#: data.php:1005
+msgid "Suriname"
+msgstr "Surinam"
+
+#: data.php:1039
+msgid "Slovak"
+msgstr "Slovakisk"
+
+#: data.php:1044
+msgid "Slovakia"
+msgstr "Slovakiet"
+
+#: data.php:1049
+msgid "Czech Republic"
+msgstr "Tjekkiet"
+
+#: data.php:1083
+msgid "English"
+msgstr "Engelsk"
+
+#: data.php:1088
+msgid "US / GB"
+msgstr "USA / GB"
+
+#: data.php:1093
+msgid "United Kingdom"
+msgstr "Storbritannien"
+
+#: data.php:1098
+msgid "United States"
+msgstr "USA"
+
+#: data.php:1103
+msgid "Australia"
+msgstr "Australien"
+
+#: data.php:1108 data.php:1256
+msgid "Canada"
+msgstr "Canada"
+
+#: data.php:1113
+msgid "Ireland"
+msgstr "Ireland"
+
+#: data.php:1118
+msgid "New Zealand"
+msgstr "New Zealand"
+
+#: data.php:1123
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: data.php:1128
+msgid "South Africa"
+msgstr "Sydafrika"
+
+#: data.php:1133
+msgid "Kenya"
+msgstr "Kenya"
+
+#: data.php:1138
+msgid "Ghana"
+msgstr "Ghana"
+
+#: data.php:1143
+msgid "South Sudan"
+msgstr "Syd Sudan"
+
+#: data.php:1148
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: data.php:1158
+msgid "Liberia"
+msgstr "Liberia"
+
+#: data.php:1163
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: data.php:1197
+msgid "Finnish"
+msgstr "Finsk"
+
+#: data.php:1202 data.php:1988
+msgid "Finland"
+msgstr "Finland"
+
+#: data.php:1236
+msgid "French"
+msgstr "Fransk"
+
+#: data.php:1241
+msgid "France"
+msgstr "Frankrig"
+
+#: data.php:1251
+msgid "Quebec"
+msgstr "Quebec"
+
+#: data.php:1261
+msgid "Congo - Kinshasa"
+msgstr "Congo - Kinshasa"
+
+#: data.php:1266
+msgid "Congo - Brazzaville"
+msgstr "Congo - Brazzaville"
+
+#: data.php:1271
+msgid "Cameroon"
+msgstr "Cameroun"
+
+#: data.php:1276
+msgid "Ivory Coast"
+msgstr "Elfenbenskysten"
+
+#: data.php:1281 data.php:1330
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: data.php:1315
+msgid "German"
+msgstr "Tysk"
+
+#: data.php:1320
+msgid "Germany"
+msgstr "Tyskland"
+
+#: data.php:1325
+msgid "Austria"
+msgstr "Østrig"
+
+#: data.php:1335
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: data.php:1369
+msgid "Greek"
+msgstr "Græsk"
+
+#: data.php:1374
+msgid "Greece"
+msgstr "Grækenland"
+
+#: data.php:1379 data.php:2032
+msgid "Cyprus"
+msgstr "Cypern"
+
+#: data.php:1413
+msgid "Hebrew"
+msgstr "Hebraisk"
+
+#: data.php:1419
+msgid "Israel"
+msgstr "Israel"
+
+#: data.php:1453
+msgid "Hindi"
+msgstr "Hindi"
+
+#: data.php:1458
+msgid "India"
+msgstr "Indien"
+
+#: data.php:1463
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: data.php:1497
+msgid "Hungarian"
+msgstr "Ungarsk"
+
+#: data.php:1502
+msgid "Hungary"
+msgstr "Ungarn"
+
+#: data.php:1536
+msgid "Indonesian"
+msgstr "Indonesisk"
+
+#: data.php:1541
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: data.php:1575
+msgid "Italian"
+msgstr "Italiensk"
+
+#: data.php:1580
+msgid "Italy"
+msgstr "Italien"
+
+#: data.php:1614
+msgid "Japanese"
+msgstr "Japansk"
+
+#: data.php:1619
+msgid "Japan"
+msgstr "Japan"
+
+#: data.php:1653
+msgid "Korean"
+msgstr "Koreansk"
+
+#: data.php:1658
+msgid "South Korea"
+msgstr "Syd Korea"
+
+#: data.php:1663
+msgid "North Korea"
+msgstr "Nordkorea"
+
+#: data.php:1697
+msgid "Polish"
+msgstr "Polsk"
+
+#: data.php:1702
+msgid "Poland"
+msgstr "Polen"
+
+#: data.php:1736
+msgid "Portuguese"
+msgstr "Portugisisk"
+
+#: data.php:1741
+msgid "Portugal"
+msgstr "Portugal"
+
+#: data.php:1746
+msgid "Brazil"
+msgstr "Brasilien"
+
+#: data.php:1751
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: data.php:1756
+msgid "Angola"
+msgstr "Angola"
+
+#: data.php:1790
+msgid "Russian"
+msgstr "Russisk"
+
+#: data.php:1795
+msgid "Russia"
+msgstr "Rusland"
+
+#: data.php:1800
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: data.php:1805
+msgid "Belarus"
+msgstr "Hviderusland"
+
+#: data.php:1810
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+#: data.php:1815
+msgid "Tajikistan"
+msgstr "Tadsjikistan"
+
+#: data.php:1849
+msgid "Spanish"
+msgstr "Spansk"
+
+#: data.php:1854
+msgid "Spain"
+msgstr "Spanien"
+
+#: data.php:1859
+msgid "Mexico"
+msgstr "Mexico"
+
+#: data.php:1864
+msgid "Argentina"
+msgstr "Argentina"
+
+#: data.php:1869
+msgid "Colombia"
+msgstr "Colombia"
+
+#: data.php:1874
+msgid "Peru"
+msgstr "Peru"
+
+#: data.php:1879
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: data.php:1884
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: data.php:1889
+msgid "Chile"
+msgstr "Chile"
+
+#: data.php:1894
+msgid "Equatorial Guinea"
+msgstr "Equatorial Guinea"
+
+#: data.php:1899
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: data.php:1904
+msgid "Cuba"
+msgstr "Cuba"
+
+#: data.php:1909
+msgid "Dominican Republic"
+msgstr "Dominican Republic"
+
+#: data.php:1914
+msgid "Honduras"
+msgstr "Honduras"
+
+#: data.php:1919
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: data.php:1924
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: data.php:1929
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: data.php:1934
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: data.php:1939
+msgid "Panama"
+msgstr "Panama"
+
+#: data.php:1944
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: data.php:1978
+msgid "Swedish"
+msgstr "Svensk"
+
+#: data.php:1983
+msgid "Sweden"
+msgstr "Sverige"
+
+#: data.php:2022
+msgid "Turkish"
+msgstr "Tyrkisk"
+
+#: data.php:2027
+msgid "Turkey"
+msgstr "Tyrkiet"
+
+#: data.php:2066
+msgid "Ukrainian"
+msgstr "Ukrainsk"
+
+#: data.php:2071
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: data.php:2105
+msgid "Vietnamese"
+msgstr "Vietnamesisk"
+
+#: data.php:2110
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#. Plugin Name of the plugin/theme
+#: inc/admin/admin-bar.php:25 inc/admin/option-page.php:18
+#: inc/admin/option-page.php:37 inc/admin/switcher-nav-menu.php:167
+msgid "wpLingua"
+msgstr "wpLingua"
+
+#: inc/admin/admin-bar.php:35
+msgid "This URL is excluded from translation"
+msgstr "Denne URL er udelukket fra oversættelse"
+
+#: inc/admin/admin-bar.php:65 inc/admin/translation-edit-modal.php:18
+#: inc/dom/mode-list.php:158
+msgid "Return on page"
+msgstr "Tilbage på siden"
+
+#: inc/admin/admin-bar.php:75
+msgid "Visual editor"
+msgstr "Visuel editor"
+
+#: inc/admin/admin-bar.php:84 inc/dom/mode-list.php:250
+msgid "All translations on page"
+msgstr "Alle oversættelser på siden"
+
+#: inc/admin/admin-bar.php:200
+msgid "Edit the page slug"
+msgstr "Rediger sidens slug"
+
+#: inc/admin/admin-bar.php:279 inc/admin/admin.php:59
+#: inc/admin/translation-cpt.php:23
+msgid "Translations"
+msgstr "Oversættelser"
+
+#: inc/admin/admin.php:57
+msgid "Edit translations"
+msgstr "Rediger oversættelser"
+
+#: inc/admin/assets.php:366 inc/admin/assets.php:458 inc/assets.php:89
+msgid ""
+"You are about to leave the page without saving your changes. They will be "
+"lost if you continue. Would you like to leave the page anyway?"
+msgstr ""
+"Du er ved at forlade siden uden at gemme dine ændringer. De vil gå tabt, hvis "
+"du fortsætter. Vil du gerne forlade siden alligevel?"
+
+#: inc/admin/option-page-dictionary.php:20
+msgid "wpLingua - Dictionary rules"
+msgstr "wpLingua - Regler for ordbøger"
+
+#: inc/admin/option-page-dictionary.php:34
+msgid "Dictionary entries"
+msgstr "Ordbogsopslag"
+
+#: inc/admin/option-page-dictionary.php:38
+msgid "Translation rules by dictionary: "
+msgstr "Oversættelsesregler efter ordbog: "
+
+#: inc/admin/option-page-dictionary.php:40
+msgid ""
+"The dictionary allows you to define translation rules that apply when "
+"generating machine translations. You can specify words or sets of words that "
+"should never be translated, or define how they should be translated for each "
+"language."
+msgstr ""
+"Ordbogen giver dig mulighed for at definere oversættelsesregler, der gælder, "
+"når du genererer maskinoversættelser. Du kan angive ord eller sæt af ord, der "
+"aldrig skal oversættes, eller definere, hvordan de skal oversættes for hvert "
+"sprog."
+
+#: inc/admin/option-page-dictionary.php:47
+msgid "Add a dictionary entry"
+msgstr "Tilføj et ordbogsopslag"
+
+#: inc/admin/option-page-dictionary.php:55
+#: inc/admin/option-page-link-media.php:55
+msgid "Add an entry"
+msgstr "Tilføj en post"
+
+#: inc/admin/option-page-dictionary.php:64
+#: inc/admin/option-page-link-media.php:64
+msgid "Edit the entry"
+msgstr "Rediger posten"
+
+#: inc/admin/option-page-dictionary.php:102
+msgid "All dictionary entries: "
+msgstr "Alle ordbogsopslag: "
+
+#: inc/admin/option-page-dictionary.php:117
+#: inc/admin/option-page-link-media.php:117
+msgid "Rule N°"
+msgstr "Regel nr"
+
+#: inc/admin/option-page-dictionary.php:127
+#: inc/admin/option-page-link-media.php:127
+#: inc/admin/option-page-settings.php:272 inc/admin/option-page-settings.php:337
+msgid "Edit"
+msgstr "Rediger"
+
+#: inc/admin/option-page-dictionary.php:134
+#: inc/admin/option-page-link-media.php:134
+#: inc/admin/option-page-settings.php:338
+msgid "Remove"
+msgstr "Fjern"
+
+#: inc/admin/option-page-dictionary.php:146
+msgid "Always translate: "
+msgstr "Oversæt altid: "
+
+#: inc/admin/option-page-dictionary.php:162
+msgid " - By: "
+msgstr " - Af: "
+
+#: inc/admin/option-page-dictionary.php:168
+msgid "Never translate: "
+msgstr "Oversæt aldrig: "
+
+#: inc/admin/option-page-dictionary.php:206
+#: inc/admin/option-page-dictionary.php:320
+msgid "Source text: "
+msgstr "Kildetekst: "
+
+#: inc/admin/option-page-dictionary.php:230
+#: inc/admin/option-page-dictionary.php:344
+msgid "Never translate"
+msgstr "Oversæt aldrig"
+
+#: inc/admin/option-page-dictionary.php:252
+#: inc/admin/option-page-dictionary.php:366
+#: inc/admin/option-page-link-media.php:446
+msgid " - Always translate by: "
+msgstr " - Oversæt altid efter: "
+
+#: inc/admin/option-page-dictionary.php:279
+#: inc/admin/option-page-dictionary.php:393
+#: inc/admin/option-page-link-media.php:336
+#: inc/admin/option-page-link-media.php:472
+msgid "Cancel"
+msgstr "Annuller"
+
+#: inc/admin/option-page-dictionary.php:287
+#: inc/admin/option-page-link-media.php:344
+msgid "Save new entry"
+msgstr "Gem ny post"
+
+#: inc/admin/option-page-dictionary.php:401
+#: inc/admin/option-page-link-media.php:480
+msgid "Save edited entry"
+msgstr "Gem redigeret post"
+
+#: inc/admin/option-page-exclusions.php:17
+msgid "wpLingua - Exclusion rules"
+msgstr "wpLingua - Regler for udelukkelse"
+
+#: inc/admin/option-page-exclusions.php:28
+msgid "Exclude URL"
+msgstr "Ekskluder URL"
+
+#: inc/admin/option-page-exclusions.php:31
+msgid "Exclude URL from translation: "
+msgstr "Udeluk URL fra oversættelse: "
+
+#: inc/admin/option-page-exclusions.php:35
+msgid ""
+"You can exclude from translations pages you wish to offer only in the "
+"website's original language. To do this, list the REGEXs that match the URL "
+"to be excluded, one per line. Examples: "
+msgstr ""
+"Du kan udelukke sider fra oversættelser, som du kun ønsker at tilbyde på "
+"hjemmesidens originalsprog. For at gøre dette skal du angive de REGEX'er, der "
+"matcher den URL, der skal udelukkes, én pr. linje. Eksempler: "
+
+#: inc/admin/option-page-exclusions.php:38
+msgid "Exclude URL \"/my-page/\""
+msgstr "Udeluk URL'en \"/my-page/\""
+
+#: inc/admin/option-page-exclusions.php:39
+msgid "Exclude URL starting with \"/my-page/\""
+msgstr "Ekskluder URL, der starter med \"/my-page/\""
+
+#: inc/admin/option-page-exclusions.php:40
+msgid "Exclude URL ending with \"/my-page/\""
+msgstr "Udeluk URL'er, der slutter med \"/my-page/\""
+
+#: inc/admin/option-page-exclusions.php:41
+msgid "Exclude URL containing \"/my-page/\""
+msgstr "Ekskluder URL, der indeholder \"/my-page/\""
+
+#: inc/admin/option-page-exclusions.php:49
+msgid "Exclude elements"
+msgstr "Ekskluder elementer"
+
+#: inc/admin/option-page-exclusions.php:52
+msgid "Exclude HTML elements: "
+msgstr "Ekskluder HTML-elementer: "
+
+#: inc/admin/option-page-exclusions.php:56
+msgid ""
+"You can leave some elements of your web pages untranslated. To do this, list "
+"below the CSS selectors for the elements to be excluded, one per line. "
+"Examples: "
+msgstr ""
+"Du kan lade nogle elementer på dine websider være uoversatte. For at gøre "
+"dette skal du nedenfor angive CSS-selektorer for de elementer, der skal "
+"udelukkes, en pr. linje. Eksempler på dette: "
+
+#: inc/admin/option-page-exclusions.php:59
+msgid "Exclude elements by ID attribute"
+msgstr "Ekskluder elementer efter ID-attribut"
+
+#: inc/admin/option-page-exclusions.php:60
+msgid "Exclude elements by class attribute"
+msgstr "Ekskluder elementer efter klasseattribut"
+
+#: inc/admin/option-page-exclusions.php:61
+msgid "Exclude elements by CSS selector"
+msgstr "Udeluk elementer med CSS-vælger"
+
+#: inc/admin/option-page-exclusions.php:69 inc/admin/option-page-settings.php:86
+#: inc/admin/option-page-switcher.php:496
+#: inc/admin/translation-edit-modal.php:71 inc/assets.php:96
+msgid "Save"
+msgstr "Gem"
+
+#: inc/admin/option-page-link-media.php:20
+msgid "wpLingua - Links & Medias"
+msgstr "wpLingua - Links og medier"
+
+#: inc/admin/option-page-link-media.php:34
+msgid "Links & medias"
+msgstr "Links og medier"
+
+#: inc/admin/option-page-link-media.php:38
+msgid "Links and medias translations rules: "
+msgstr "Regler for links og medieoversættelser: "
+
+#: inc/admin/option-page-link-media.php:40
+msgid ""
+"Translation rules on links and media allow different images to be displayed "
+"or link URLs to be changed according to the current language. These rules "
+"apply to elements such as: link target URLs, image source URLs, iframe source "
+"URLs, URLs in intercepted JSONs..."
+msgstr ""
+"Oversættelsesregler for links og medier gør det muligt at vise forskellige "
+"billeder eller ændre link-URL'er alt efter det aktuelle sprog. Disse regler "
+"gælder for elementer som: URL'er til linkmål, URL'er til billedkilder, URL'er "
+"til iframe-kilder, URL'er i opfangede JSON'er..."
+
+#: inc/admin/option-page-link-media.php:47
+msgid "Add a rule"
+msgstr "Tilføj en regel"
+
+#: inc/admin/option-page-link-media.php:102
+msgid "All links and medias rules: "
+msgstr "Alle links og medier er underlagt regler: "
+
+#: inc/admin/option-page-link-media.php:149
+msgid "Mode: "
+msgstr "Mode: "
+
+#: inc/admin/option-page-link-media.php:158
+#: inc/admin/option-page-link-media.php:266
+#: inc/admin/option-page-link-media.php:402
+msgid "Exactly equal"
+msgstr "Præcis lige meget"
+
+#: inc/admin/option-page-link-media.php:162
+#: inc/admin/option-page-link-media.php:275
+#: inc/admin/option-page-link-media.php:411
+msgid "Partially equal"
+msgstr "Delvist lige"
+
+#: inc/admin/option-page-link-media.php:166
+msgid "Regex"
+msgstr "Regex"
+
+#: inc/admin/option-page-link-media.php:170
+msgid "Error"
+msgstr "Fejl"
+
+#: inc/admin/option-page-link-media.php:182
+msgid "Original: "
+msgstr "Original: "
+
+#: inc/admin/option-page-link-media.php:241
+#: inc/admin/option-page-link-media.php:377
+msgid "Original URL: "
+msgstr "Original URL: "
+
+#: inc/admin/option-page-link-media.php:284
+#: inc/admin/option-page-link-media.php:420
+msgid "REGEX"
+msgstr "REGEX"
+
+#: inc/admin/option-page-link-media.php:310
+msgid " - URL: "
+msgstr " - URL: "
+
+#: inc/admin/option-page-register.php:31 inc/admin/option-page-register.php:70
+msgid "Message: "
+msgstr "Besked: "
+
+#: inc/admin/option-page-register.php:37
+msgid "An error occurred with API key."
+msgstr "Der opstod en fejl med API-nøglen."
+
+#: inc/admin/option-page-register.php:53
+msgid "Invalid API key."
+msgstr "Ugyldig API-nøgle."
+
+#: inc/admin/option-page-register.php:77
+msgid "An error occurred while creating the API key."
+msgstr "Der opstod en fejl under oprettelsen af API-nøglen."
+
+#: inc/admin/option-page-register.php:93
+msgid "wpLingua - Register API key"
+msgstr "wpLingua - Registrer API-nøgle"
+
+#: inc/admin/option-page-register.php:113
+msgid "API key created"
+msgstr "API-nøgle oprettet"
+
+#: inc/admin/option-page-register.php:117
+msgid "API key created and sent by email"
+msgstr "API-nøgle oprettet og sendt via e-mail"
+
+#: inc/admin/option-page-register.php:121
+msgid ""
+"The API key has been correctly created and sent to the following e-mail "
+"address: "
+msgstr ""
+"API-nøglen er blevet oprettet korrekt og sendt til følgende e-mailadresse: "
+
+#: inc/admin/option-page-register.php:127
+msgid ""
+"Go to your mailbox and copy the API key sent to you (don't forget to check "
+"the spam section of your mailbox). Then paste it in the section below, and "
+"click \"Set API key\" to make your website multilingual."
+msgstr ""
+"Gå til din mailboks, og kopier den API-nøgle, du har fået tilsendt (glem ikke "
+"at tjekke spam-afsnittet i din mailboks). Indsæt den derefter i afsnittet "
+"nedenfor, og klik på \"Indstil API-nøgle\" for at gøre din hjemmeside "
+"flersproget."
+
+#: inc/admin/option-page-register.php:133 inc/admin/option-page-register.php:149
+msgid "Set API Key"
+msgstr "Indstil API-nøgle"
+
+#: inc/admin/option-page-register.php:142 inc/admin/option-page-register.php:187
+#: inc/admin/option-page-register.php:372
+msgid "Get API key"
+msgstr "Hent API-nøgle"
+
+#: inc/admin/option-page-register.php:156
+msgid "Start with wpLingua"
+msgstr "Start med wpLingua"
+
+#: inc/admin/option-page-register.php:159
+msgid "You are just a few clicks away from making your website multilingual!"
+msgstr "Du er kun få klik fra at gøre din hjemmeside flersproget!"
+
+#: inc/admin/option-page-register.php:165
+msgid ""
+"For wpLingua to work, an API key is required so that your website has access "
+"to the automatic translation service. On this page you can enter your API key "
+"if you already have one, or create one for free."
+msgstr ""
+"For at wpLingua kan fungere, kræves der en API-nøgle, så din hjemmeside har "
+"adgang til den automatiske oversættelsestjeneste. På denne side kan du "
+"indtaste din API-nøgle, hvis du allerede har en, eller oprette en gratis."
+
+#: inc/admin/option-page-register.php:170
+msgid ""
+"An <strong>instantly multilingual website</strong> thanks to automatic text "
+"detection and translation. Easy to use, no knowledge required."
+msgstr ""
+"En <strong>flersproget hjemmeside</strong> med det samme takket være "
+"automatisk tekstregistrering og oversættelse. Let at bruge, kræver ingen "
+"viden."
+
+#: inc/admin/option-page-register.php:174
+msgid ""
+"<strong>SEO friendly</strong> to allow search engines to index translated "
+"pages. Open up your website and your business to the whole world."
+msgstr ""
+"<strong>SEO-venlig</strong>, så søgemaskiner kan indeksere oversatte sider. "
+"Åbn din hjemmeside og din virksomhed for hele verden."
+
+#: inc/admin/option-page-register.php:178
+msgid ""
+"All <strong>translations are editable</strong>. Discover the visual editor "
+"and edit translations simply by clicking on them. With a fully customizable "
+"language switcher."
+msgstr ""
+"Alle <strong>oversættelser kan redigeres</strong>. Oplev den visuelle editor "
+"og rediger oversættelser ved blot at klikke på dem. Med en fuldt tilpasselig "
+"sprogomskifter."
+
+#: inc/admin/option-page-register.php:182
+msgid ""
+"One <strong>free and unlimited</strong> language for personal blogs and non-"
+"commercial websites. And many more features!"
+msgstr ""
+"Et <strong>gratis og ubegrænset</strong> sprog til personlige blogs og ikke-"
+"kommercielle hjemmesider. Og mange flere funktioner!"
+
+#: inc/admin/option-page-register.php:191 inc/admin/option-page-register.php:242
+msgid "Set API key"
+msgstr "Indstil API-nøgle"
+
+#: inc/admin/option-page-register.php:197
+msgid "Advanced API features"
+msgstr "Avancerede API-funktioner"
+
+#: inc/admin/option-page-register.php:222
+msgid "Set the wpLingua API key: "
+msgstr "Indstil wpLingua API-nøglen: "
+
+#: inc/admin/option-page-register.php:228
+msgid ""
+"If you already have an API key, enter it below. If you've forgotten your "
+"website's API key, visit"
+msgstr ""
+"Hvis du allerede har en API-nøgle, skal du indtaste den nedenfor. Hvis du har "
+"glemt din hjemmesides API-nøgle, kan du besøge"
+
+#: inc/admin/option-page-register.php:228
+msgid "the API key retrieval page"
+msgstr "siden til hentning af API-nøgler"
+
+#: inc/admin/option-page-register.php:229 inc/admin/option-page-register.php:293
+#: inc/admin/option-page-register.php:309 inc/admin/option-page-register.php:325
+#: inc/admin/option-page-register.php:341 inc/admin/option-page-settings.php:244
+#: inc/admin/option-page-settings.php:376 inc/admin/option-page-settings.php:432
+#: inc/admin/option-page-settings.php:452 inc/admin/option-page-settings.php:490
+#: inc/admin/option-page-settings.php:509 inc/admin/option-page-settings.php:539
+#: inc/admin/option-page-switcher.php:73 inc/admin/option-page-switcher.php:124
+#: inc/admin/option-page-switcher.php:179 inc/admin/option-page-switcher.php:237
+#: inc/admin/option-page-switcher.php:331 inc/admin/option-page-switcher.php:384
+#: inc/admin/option-page-switcher.php:437 inc/admin/option-page-switcher.php:451
+#: inc/admin/option-page-switcher.php:465
+msgid "Click to expand"
+msgstr "Klik for at læse mere"
+
+#: inc/admin/option-page-register.php:233 inc/admin/option-page-settings.php:544
+msgid ""
+"A wpLingua API key consists of 42 characters (uppercase, lowercase and "
+"numbers). It is emailed to you when you request it using the form provided "
+"when you install the plugin. You must keep this key secret and only "
+"communicate it to wplingua.com services."
+msgstr ""
+"En wpLingua API-nøgle består af 42 tegn (store og små bogstaver samt tal). "
+"Den sendes til dig, når du anmoder om den ved hjælp af formularen, der følger "
+"med, når du installerer pluginet. Du skal holde denne nøgle hemmelig og kun "
+"kommunikere den til wplingua.com-tjenester."
+
+#: inc/admin/option-page-register.php:277
+msgid "Register wpLingua API key: "
+msgstr "Registrer wpLingua API-nøgle: "
+
+#: inc/admin/option-page-register.php:283
+msgid ""
+"Claim a wpLingua API key and make your website multilingual in a minute! For "
+"a personal blog or a non-commercial website, get one unlimited free language."
+msgstr ""
+"Gør krav på en wpLingua API-nøgle, og gør din hjemmeside flersproget på et "
+"minut! Til en personlig blog eller en ikke-kommerciel hjemmeside kan du få et "
+"ubegrænset gratis sprog."
+
+#: inc/admin/option-page-register.php:292
+msgid "Email address: "
+msgstr "E-mail-adresse: "
+
+#: inc/admin/option-page-register.php:300
+msgid ""
+"The email address is detected and pre-filled. This is the administrative "
+"email address entered in the Settings ➔ General tab. You can use another "
+"email address used to receive your API key."
+msgstr ""
+"E-mailadressen registreres og udfyldes på forhånd. Det er den administrative "
+"e-mailadresse, der er indtastet i fanen Indstillinger ➔ Generelt. Du kan "
+"bruge en anden e-mailadresse, der bruges til at modtage din API-nøgle."
+
+#: inc/admin/option-page-register.php:308
+msgid "Website URL: "
+msgstr "Hjemmeside-URL: "
+
+#: inc/admin/option-page-register.php:316
+msgid ""
+"This is the URL of your website, it is detected and pre-filled automatically. "
+"Please check it and only enter the address of your production website (no "
+"test website or development environment)."
+msgstr ""
+"Dette er URL'en til din hjemmeside, den registreres og udfyldes automatisk. "
+"Tjek det, og indtast kun adressen på din produktionshjemmeside (ingen "
+"testhjemmeside eller udviklingsmiljø)."
+
+#: inc/admin/option-page-register.php:324
+msgid "Website language: "
+msgstr "Hjemmesidens sprog: "
+
+#: inc/admin/option-page-register.php:332 inc/admin/option-page-settings.php:251
+msgid ""
+"This is the language of your website, defined by the associated API key. Make "
+"sure your website language is also correctly set in WordPress options "
+"(Settings ➔ General ➔ Website Language)."
+msgstr ""
+"Dette er sproget på din hjemmeside, som er defineret af den tilknyttede API-"
+"nøgle. Sørg for, at dit hjemmesidesprog også er indstillet korrekt i "
+"WordPress-indstillingerne (Indstillinger ➔ Generelt ➔ Hjemmesidesprog)."
+
+#: inc/admin/option-page-register.php:340
+msgid "Target language: "
+msgstr "Målsprog: "
+
+#: inc/admin/option-page-register.php:348
+msgid ""
+"This is the language you want to translate your website into. Be careful not "
+"to make a mistake because you will not be able to change the language "
+"afterwards."
+msgstr ""
+"Det er det sprog, du vil oversætte din hjemmeside til. Pas på, at du ikke "
+"laver en fejl, for du kan ikke ændre sproget bagefter."
+
+#: inc/admin/option-page-register.php:357
+msgid "I have read and accept the"
+msgstr "Jeg har læst og accepterer"
+
+#: inc/admin/option-page-register.php:357
+msgid "API terms of use"
+msgstr "Vilkår for brug af API"
+
+#: inc/admin/option-page-register.php:365
+msgid "Website Locale: "
+msgstr "Webstedets beliggenhed: "
+
+#: inc/admin/option-page-register.php:386
+msgid "Get more target languages and advanced features: "
+msgstr "Få flere målsprog og avancerede funktioner: "
+
+#: inc/admin/option-page-register.php:392
+msgid ""
+"To translate your website into more languages and access advanced features, "
+"visit wpLingua website."
+msgstr ""
+"Hvis du vil oversætte din hjemmeside til flere sprog og have adgang til "
+"avancerede funktioner, kan du besøge wpLinguas hjemmeside."
+
+#: inc/admin/option-page-register.php:396 inc/admin/option-page-settings.php:431
+msgid "Use wpLingua on commercial website"
+msgstr "Brug wpLingua på en kommerciel hjemmeside"
+
+#: inc/admin/option-page-register.php:397
+msgid "Allow search from all languages"
+msgstr "Tillad søgning fra alle sprog"
+
+#: inc/admin/option-page-register.php:398
+msgid "Get more target languages"
+msgstr "Få flere målsprog"
+
+#: inc/admin/option-page-register.php:403
+msgid "Visit wpLingua website"
+msgstr "Besøg wpLinguas hjemmeside"
+
+#: inc/admin/option-page-settings.php:25
+msgid "wpLingua - General settings"
+msgstr "wpLingua - Generelle indstillinger"
+
+#: inc/admin/option-page-settings.php:52
+msgid "Website language"
+msgstr "Sprog på hjemmesiden"
+
+#: inc/admin/option-page-settings.php:58
+msgid "Translated languages"
+msgstr "Oversatte sprog"
+
+#: inc/admin/option-page-settings.php:64
+msgid "Features"
+msgstr "Funktioner"
+
+#: inc/admin/option-page-settings.php:80
+msgid "API Key"
+msgstr "API-nøgle"
+
+#: inc/admin/option-page-settings.php:167
+msgid "Your website is being translated and will be ready soon."
+msgstr "Din hjemmeside er ved at blive oversat og vil snart være klar."
+
+#: inc/admin/option-page-settings.php:168
+msgid ""
+"In just a few seconds, your website will be multilingual, and search engines "
+"will be able to index these new pages. wpLingua detects all the texts on your "
+"pages and offers you a first automatically generated translation. All "
+"translations are editable: open the visual editor from the administration bar "
+"and edit them simply by clicking on the texts on your website."
+msgstr ""
+"På få sekunder bliver din hjemmeside flersproget, og søgemaskinerne kan "
+"indeksere de nye sider. wpLingua registrerer alle tekster på dine sider og "
+"tilbyder dig en første automatisk genereret oversættelse. Alle oversættelser "
+"kan redigeres: Åbn den visuelle editor fra administrationslinjen, og rediger "
+"dem ved blot at klikke på teksterne på din hjemmeside."
+
+#: inc/admin/option-page-settings.php:172
+msgid ""
+"Your website is now multilingual! You can start visiting the translated "
+"version."
+msgstr ""
+"Din hjemmeside er nu flersproget! Du kan begynde at besøge den oversatte "
+"version."
+
+#: inc/admin/option-page-settings.php:173
+msgid ""
+"The first time a translated page is loaded, the translations are "
+"automatically generated and saved in the database. This may take some time "
+"(on first generation only) depending on the size of your content. This is why "
+"we advise you to browse your entire website for the first time in order to "
+"generate all the multilingual versions."
+msgstr ""
+"Første gang en oversat side indlæses, genereres oversættelserne automatisk og "
+"gemmes i databasen. Det kan tage lidt tid (kun ved første generering) "
+"afhængigt af størrelsen på dit indhold. Derfor råder vi dig til at gennemse "
+"hele din hjemmeside første gang for at generere alle de flersprogede "
+"versioner."
+
+#: inc/admin/option-page-settings.php:174
+msgid ""
+"All translations are editable: open the visual editor from the administration "
+"bar and edit them simply by clicking on the texts on your website."
+msgstr ""
+"Alle oversættelser kan redigeres: Åbn den visuelle editor fra "
+"administrationslinjen, og rediger dem ved blot at klikke på teksterne på dit "
+"website."
+
+#: inc/admin/option-page-settings.php:177
+msgid "Visit your multilingual website"
+msgstr "Besøg din flersprogede hjemmeside"
+
+#: inc/admin/option-page-settings.php:204
+msgid "Original website language: "
+msgstr "Hjemmesidens oprindelige sprog: "
+
+#: inc/admin/option-page-settings.php:230
+msgid "Please choose an option"
+msgstr "Vælg venligst en mulighed"
+
+#: inc/admin/option-page-settings.php:241
+msgid "Original website language, defined by API key: "
+msgstr "Hjemmesidens oprindelige sprog, defineret af API-nøglen: "
+
+#: inc/admin/option-page-settings.php:253
+msgid ""
+"If you have mistakenly entered the wrong language, contact wpLingua support "
+"to request a correction."
+msgstr ""
+"Hvis du ved en fejl har indtastet det forkerte sprog, skal du kontakte "
+"wpLingua-support for at anmode om en rettelse."
+
+#: inc/admin/option-page-settings.php:256
+msgid "wplingua.com : Contact support"
+msgstr "wplingua.com : Kontakt support"
+
+#: inc/admin/option-page-settings.php:263
+msgid "Custom"
+msgstr "Brugerdefineret"
+
+#: inc/admin/option-page-settings.php:278 inc/admin/option-page-settings.php:344
+msgid "Flag to use for this language: "
+msgstr "Flag, der skal bruges til dette sprog: "
+
+#: inc/admin/option-page-settings.php:287 inc/admin/option-page-settings.php:352
+msgid "Custom flag URL for this language: "
+msgstr "Brugerdefineret flag-URL for dette sprog: "
+
+#: inc/admin/option-page-settings.php:310
+msgid ""
+"Important: space out the addition of new languages ​​by at least ten days and "
+"browse your site for the first time in the added languages. This promotes "
+"better indexing by search engines, reduces the load on your server and "
+"minimizes the risk of slowdowns on your site."
+msgstr ""
+"Vigtigt: Tilføj nye sprog med mindst ti dages mellemrum, og gennemse dit "
+"websted for første gang på de tilføjede sprog. Det giver søgemaskinerne en "
+"bedre indeksering, reducerer belastningen på din server og minimerer risikoen "
+"for, at dit site bliver langsommere."
+
+#: inc/admin/option-page-settings.php:314
+msgid "Add new target Language: "
+msgstr "Tilføj nyt målsprog: "
+
+#: inc/admin/option-page-settings.php:320
+msgid "Add language"
+msgstr "Tilføj sprog"
+
+#: inc/admin/option-page-settings.php:333
+msgid "(Private)"
+msgstr "(Privat)"
+
+#: inc/admin/option-page-settings.php:358
+msgid "Make this language private"
+msgstr "Gør dette sprog privat"
+
+#: inc/admin/option-page-settings.php:359
+msgid ""
+"Private languages will only be visible to logged-in users with editing "
+"rights. This option allows administrators to pre-generate and correct "
+"translations before they are accessible to the public."
+msgstr ""
+"Private sprog vil kun være synlige for indloggede brugere med "
+"redigeringsrettigheder. Denne mulighed giver administratorer mulighed for at "
+"forhåndsgenerere og korrigere oversættelser, før de er tilgængelige for "
+"offentligheden."
+
+#: inc/admin/option-page-settings.php:368
+msgid "Target languages enabled: "
+msgstr "Målsprog aktiveret: "
+
+#: inc/admin/option-page-settings.php:375
+msgid "Access more target languages by upgrading your API key."
+msgstr "Få adgang til flere målsprog ved at opgradere din API-nøgle."
+
+#: inc/admin/option-page-settings.php:384
+msgid "Available languages: "
+msgstr "Tilgængelige sprog: "
+
+#: inc/admin/option-page-settings.php:404 inc/admin/option-page-settings.php:442
+#: inc/admin/option-page-settings.php:466 inc/admin/option-page-settings.php:549
+msgid "wplingua.com : Upgrade your API key"
+msgstr "wplingua.com : Opgrader din API-nøgle"
+
+#: inc/admin/option-page-settings.php:422
+msgid "API translation features: "
+msgstr "API-oversættelsesfunktioner: "
+
+#: inc/admin/option-page-settings.php:425
+msgid ""
+"The options below require extended access to the wpLingua API to be "
+"functional on your website."
+msgstr ""
+"Nedenstående muligheder kræver udvidet adgang til wpLingua API for at kunne "
+"fungere på din hjemmeside."
+
+#: inc/admin/option-page-settings.php:437
+msgid ""
+"Use of the free wpLingua API keys is reserved for personal blogs and non-"
+"profit websites; paid subscriptions are available for companies and "
+"commercial websites."
+msgstr ""
+"Brug af de gratis wpLingua API-nøgler er forbeholdt personlige blogs og non-"
+"profit websites; betalte abonnementer er tilgængelige for virksomheder og "
+"kommercielle websites."
+
+#: inc/admin/option-page-settings.php:451
+msgid "Search from translated languages"
+msgstr "Søg fra oversatte sprog"
+
+#: inc/admin/option-page-settings.php:457
+msgid "Enable visitors to search on your website in their own language."
+msgstr ""
+"Gør det muligt for besøgende at søge på dit website på deres eget sprog."
+
+#: inc/admin/option-page-settings.php:461
+msgid ""
+"Example: if your website is translated from English to French and you have a "
+"post named \"Hello\". When a French visitor searches for the term \"Bonjour\" "
+"on the website, this feature will translate it on the fly to \"Hello\" before "
+"launching the search. This will allow WordPress to find the post named "
+"\"Hello\" when your visitor has searched for \"Bonjour\"."
+msgstr ""
+"Eksempel: Hvis din hjemmeside er oversat fra engelsk til fransk, og du har et "
+"indlæg med navnet \"Hello\". Når en fransk besøgende søger efter udtrykket "
+"\"Bonjour\" på hjemmesiden, vil denne funktion oversætte det til \"Hello\", "
+"før søgningen startes. På den måde kan WordPress finde indlægget med navnet "
+"\"Hello\", når din besøgende har søgt efter \"Bonjour\"."
+
+#: inc/admin/option-page-settings.php:483
+msgid "Plugin translation features: "
+msgstr "Plugin-oversættelsesfunktioner: "
+
+#: inc/admin/option-page-settings.php:489
+msgid "Progress bar for editors"
+msgstr "Fremdriftslinje for redaktører"
+
+#: inc/admin/option-page-settings.php:495
+msgid "Enable progress bar: Smooth translations loading for editors"
+msgstr "Aktivér statuslinje: Glat indlæsning af oversættelser for redaktører"
+
+#: inc/admin/option-page-settings.php:499
+msgid ""
+"Activate a progress bar when a page requires the generation of more than 20 "
+"new string translations. This feature only applies to connected editors."
+msgstr ""
+"Aktivér en statuslinje, når en side kræver generering af mere end 20 nye "
+"strengoversættelser. Denne funktion gælder kun for forbundne redaktører."
+
+#: inc/admin/option-page-settings.php:508
+msgid "Enable multilingual XML Sitemap"
+msgstr "Aktivér flersproget XML-sitemap"
+
+#: inc/admin/option-page-settings.php:514
+msgid ""
+"Enable multilingual Sitemap XML: Automatically add links to your wpLingua "
+"translated pages in your XML Sitemap files."
+msgstr ""
+"Aktivér flersproget Sitemap XML: Tilføj automatisk links til dine wpLingua-"
+"oversatte sider i dine XML-sitemap-filer."
+
+#: inc/admin/option-page-settings.php:533
+msgid "Website API key: "
+msgstr "Hjemmesidens API-nøgle: "
+
+#: inc/admin/option-page-settings.php:538
+msgid ""
+"The API key connects the website to wpLingua's online services and automatic "
+"translation generators."
+msgstr ""
+"API-nøglen forbinder hjemmesiden med wpLinguas onlinetjenester og automatiske "
+"oversættelsesgeneratorer."
+
+#: inc/admin/option-page-settings.php:560
+msgid "Show API key"
+msgstr "Vis API-nøgle"
+
+#: inc/admin/option-page-settings.php:562
+msgid "Hide API key"
+msgstr "Skjul API-nøgle"
+
+#: inc/admin/option-page-settings.php:568
+msgid "API key status: "
+msgstr "Status for API-nøgle: "
+
+#: inc/admin/option-page-settings.php:583
+msgid "Premium expiration: "
+msgstr "Udløb af præmie: "
+
+#: inc/admin/option-page-switcher.php:35
+msgid "wpLingua - Switcher settings"
+msgstr "wpLingua - Indstillinger for switcher"
+
+#: inc/admin/option-page-switcher.php:51
+msgid "No target language selected."
+msgstr "Intet målsprog valgt."
+
+#: inc/admin/option-page-switcher.php:56
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+#: inc/admin/option-page-switcher.php:66
+msgid "Design"
+msgstr "Design"
+
+#: inc/admin/option-page-switcher.php:72 inc/admin/switcher-nav-menu.php:229
+#: inc/admin/switcher-nav-menu.php:342 inc/switcher-block.php:156
+msgid "Layout: "
+msgstr "Layout: "
+
+#: inc/admin/option-page-switcher.php:99
+msgid ""
+"This option allow you to define the layout of the languages ​​in the switcher."
+msgstr ""
+"Med denne indstilling kan du definere layoutet for sprogene i omskifteren."
+
+#: inc/admin/option-page-switcher.php:104
+msgid "Inline list: "
+msgstr "Inline-liste: "
+
+#: inc/admin/option-page-switcher.php:105
+msgid "the languages ​​are lined up next to each other."
+msgstr "sprogene er stillet op ved siden af hinanden."
+
+#: inc/admin/option-page-switcher.php:108
+msgid "Block: "
+msgstr "Blok: "
+
+#: inc/admin/option-page-switcher.php:109
+msgid "the languages ​​are placed in columns, one under the other."
+msgstr "sprogene er placeret i kolonner, det ene under det andet."
+
+#: inc/admin/option-page-switcher.php:112
+msgid "Dropdown: "
+msgstr "Dropdown: "
+
+#: inc/admin/option-page-switcher.php:113
+msgid ""
+"the languages ​​appear in a drop-down menu; this is recommended when your "
+"website offers several languages."
+msgstr ""
+"sprogene vises i en rullemenu; dette anbefales, når din hjemmeside tilbyder "
+"flere sprog."
+
+#: inc/admin/option-page-switcher.php:123 inc/admin/switcher-nav-menu.php:197
+#: inc/admin/switcher-nav-menu.php:298 inc/switcher-block.php:157
+msgid "Displayed names: "
+msgstr "Visning af navne: "
+
+#: inc/admin/option-page-switcher.php:148
+msgid ""
+"This option allow you to choose how the languages names should be written in "
+"the switcher."
+msgstr ""
+"Med denne indstilling kan du vælge, hvordan sprognavnene skal skrives i "
+"omskifteren."
+
+#: inc/admin/option-page-switcher.php:155
+msgid "Translated names: "
+msgstr "Oversatte navne: "
+
+#: inc/admin/option-page-switcher.php:156
+msgid ""
+"the name of the languages ​​is translated into the current language displayed."
+msgstr "navnet på sprogene oversættes til det aktuelle sprog, der vises."
+
+#: inc/admin/option-page-switcher.php:159
+msgid "Original name: "
+msgstr "Oprindeligt navn: "
+
+#: inc/admin/option-page-switcher.php:160
+msgid ""
+"each language retains its name in its own language (English, Français, 日本"
+"語, Português, Español, etc.)."
+msgstr ""
+"hvert sprog beholder sit navn på sit eget sprog (English, Français, 日本語, "
+"Português, Español osv.)."
+
+#: inc/admin/option-page-switcher.php:163
+msgid "Language ID: "
+msgstr "Sprog-ID: "
+
+#: inc/admin/option-page-switcher.php:164
+msgid "language names use language ID (FR, EN, DE, RU, etc.)."
+msgstr "sprognavne bruger sprog-ID (FR, EN, DE, RU osv.)."
+
+#: inc/admin/option-page-switcher.php:167 inc/admin/option-page-switcher.php:220
+msgid "No display: "
+msgstr "Intet display: "
+
+#: inc/admin/option-page-switcher.php:168
+msgid "no text, only flags are displayed."
+msgstr "ingen tekst, kun flag vises."
+
+#: inc/admin/option-page-switcher.php:178 inc/switcher-block.php:158
+msgid "Flags style: "
+msgstr "Flags stil: "
+
+#: inc/admin/option-page-switcher.php:202
+msgid ""
+"This option allow you to choose the appearance of the flags in the switcher. "
+msgstr ""
+"Med denne indstilling kan du vælge, hvordan flagene skal se ud i omskifteren. "
+
+#: inc/admin/option-page-switcher.php:208
+msgid "Circle: "
+msgstr "Cirkel: "
+
+#: inc/admin/option-page-switcher.php:209
+msgid "display round flags."
+msgstr "vise runde flag."
+
+#: inc/admin/option-page-switcher.php:212
+msgid "Rectangular: "
+msgstr "Rektangulær: "
+
+#: inc/admin/option-page-switcher.php:213
+msgid "display rectangular flags."
+msgstr "viser rektangulære flag."
+
+#: inc/admin/option-page-switcher.php:216
+msgid "Wave: "
+msgstr "Bølge: "
+
+#: inc/admin/option-page-switcher.php:217
+msgid "display wavy flags."
+msgstr "vise bølgede flag."
+
+#: inc/admin/option-page-switcher.php:221
+msgid "no display any flags, only the language name will be displayed."
+msgstr "ikke viser nogen flag, vises kun sprognavnet."
+
+#: inc/admin/option-page-switcher.php:227
+msgid ""
+"You can also change the country flag or set a custom flag from wpLingua ➔ "
+"General settings. For example, you can set the flag of Mexico for Spanish "
+"instead of the flag of Spain."
+msgstr ""
+"Du kan også ændre landets flag eller indstille et brugerdefineret flag fra "
+"wpLingua ➔ Generelle indstillinger. Du kan f.eks. indstille Mexicos flag til "
+"spansk i stedet for Spaniens flag."
+
+#: inc/admin/option-page-switcher.php:236 inc/switcher-block.php:159
+msgid "Color theme: "
+msgstr "Farvetema: "
+
+#: inc/admin/option-page-switcher.php:262
+msgid ""
+"This option allows you to choose the color and border styles of the languages "
+"switcher."
+msgstr ""
+"Denne mulighed giver dig mulighed for at vælge farve og kantstil for "
+"sprogomskifteren."
+
+#: inc/admin/option-page-switcher.php:268
+msgid "The color options offer 5 themes: "
+msgstr "Farveindstillingerne tilbyder 5 temaer: "
+
+#: inc/admin/option-page-switcher.php:273
+msgid "Light: "
+msgstr "Lys: "
+
+#: inc/admin/option-page-switcher.php:274
+msgid "white color in the background of the switcher."
+msgstr "hvid farve i baggrunden af omskifteren."
+
+#: inc/admin/option-page-switcher.php:277
+msgid "Grey: "
+msgstr "Grå: "
+
+#: inc/admin/option-page-switcher.php:278
+msgid "grey background color."
+msgstr "grå baggrundsfarve."
+
+#: inc/admin/option-page-switcher.php:281
+msgid "Dark: "
+msgstr "Mørk: "
+
+#: inc/admin/option-page-switcher.php:282
+msgid "black background color."
+msgstr "sort baggrundsfarve."
+
+#: inc/admin/option-page-switcher.php:285
+msgid "Blur Black: "
+msgstr "Blur Black: "
+
+#: inc/admin/option-page-switcher.php:286
+msgid "transparent and blurred background color with black text and borders."
+msgstr "gennemsigtig og sløret baggrundsfarve med sort tekst og kanter."
+
+#: inc/admin/option-page-switcher.php:289
+msgid "Blur White: "
+msgstr "Blur White: "
+
+#: inc/admin/option-page-switcher.php:290
+msgid "transparent and blurred background color with white text and borders."
+msgstr "gennemsigtig og sløret baggrundsfarve med hvid tekst og kanter."
+
+#: inc/admin/option-page-switcher.php:297
+msgid "Each theme is then broken down by shape and border style:"
+msgstr "Hvert tema er derefter opdelt efter form og kantstil:"
+
+#: inc/admin/option-page-switcher.php:302
+msgid "Double – Smooth: "
+msgstr "Dobbelt - Glat: "
+
+#: inc/admin/option-page-switcher.php:303
+msgid "the switcher will be framed by a double border with rounded corners."
+msgstr "omskifteren bliver indrammet af en dobbelt kant med afrundede hjørner."
+
+#: inc/admin/option-page-switcher.php:306
+msgid "Double – Square: "
+msgstr "Dobbelt - Firkantet: "
+
+#: inc/admin/option-page-switcher.php:307
+msgid "double border with square corners."
+msgstr "dobbelt kant med firkantede hjørner."
+
+#: inc/admin/option-page-switcher.php:310
+msgid "Simple – Smooth: "
+msgstr "Enkel - glat: "
+
+#: inc/admin/option-page-switcher.php:311
+msgid "single border with rounded corners."
+msgstr "enkelt kant med afrundede hjørner."
+
+#: inc/admin/option-page-switcher.php:314
+msgid "Simple – Square: "
+msgstr "Enkel - firkantet: "
+
+#: inc/admin/option-page-switcher.php:315
+msgid "single border with square corners."
+msgstr "enkelt kant med firkantede hjørner."
+
+#: inc/admin/option-page-switcher.php:325
+msgid "Custom CSS"
+msgstr "Brugerdefineret CSS"
+
+#: inc/admin/option-page-switcher.php:327
+msgid "Set custom CSS: "
+msgstr "Indstil brugerdefineret CSS: "
+
+#: inc/admin/option-page-switcher.php:330
+msgid ""
+"The field below allows you to add custom CSS code that will run on all pages."
+msgstr ""
+"I feltet nedenfor kan du tilføje brugerdefineret CSS-kode, som vil køre på "
+"alle sider."
+
+#: inc/admin/option-page-switcher.php:335
+msgid ""
+"First of all, note that the CSS class <code>.switcher-content</code> allows "
+"you to act on the entire block of the language switcher while the class "
+"<code>.wplng-langague</code> allows you to act on the languages ​​themselves."
+msgstr ""
+"Først og fremmest skal du bemærke, at CSS-klassen <code>.switcher-content</"
+"code> giver dig mulighed for at handle på hele blokken med sprogomskifteren, "
+"mens klassen <code>.wplng-langague</code> giver dig mulighed for at handle på "
+"selve sprogene."
+
+#: inc/admin/option-page-switcher.php:350
+msgid ""
+"To change the background and border colors of languages, here is the CSS:"
+msgstr "Her er CSS'en til at ændre baggrunds- og kantfarver på sprog:"
+
+#: inc/admin/option-page-switcher.php:365
+msgid "More example on wplingua.com"
+msgstr "Flere eksempler på wplingua.com"
+
+#: inc/admin/option-page-switcher.php:376
+msgid "Insertion"
+msgstr "Indsættelse"
+
+#: inc/admin/option-page-switcher.php:383
+msgid "Automatic insert: "
+msgstr "Automatisk indsats: "
+
+#: inc/admin/option-page-switcher.php:409
+msgid "Choose a predefined location: "
+msgstr "Vælg en foruddefineret placering: "
+
+#: inc/admin/option-page-switcher.php:413
+msgid "Bottom right: "
+msgstr "Nederst til højre: "
+
+#: inc/admin/option-page-switcher.php:414
+msgid "the switcher is placed at the bottom right of the screen."
+msgstr "omskifteren er placeret nederst til højre på skærmen."
+
+#: inc/admin/option-page-switcher.php:417
+msgid "Bottom Center: "
+msgstr "Nederst i midten: "
+
+#: inc/admin/option-page-switcher.php:418
+msgid "bottom center of the screen."
+msgstr "nederst i midten af skærmen."
+
+#: inc/admin/option-page-switcher.php:421
+msgid "Bottom left: "
+msgstr "Nederst til venstre: "
+
+#: inc/admin/option-page-switcher.php:422
+msgid "bottom left of the screen."
+msgstr "nederst til venstre på skærmen."
+
+#: inc/admin/option-page-switcher.php:425
+msgid "None: "
+msgstr "Ingen: "
+
+#: inc/admin/option-page-switcher.php:426
+msgid "the switcher is not inserted automatically."
+msgstr "er omskifteren ikke indsat automatisk."
+
+#: inc/admin/option-page-switcher.php:436
+msgid "Shortcode switcher: "
+msgstr "Skift mellem kortkoder: "
+
+#: inc/admin/option-page-switcher.php:443
+msgid ""
+"If you want to insert the language switcher only in certain places on your "
+"website, you can use the shortcode provided for this purpose. Note that in "
+"this case, the previous option should be \"None\". This method is ideal for "
+"placing the switcher where you want it, whether you are using a Gutenberg "
+"block-based theme (FSE), a classic theme or even a page or theme builder like "
+"Divi, Elementor..."
+msgstr ""
+"Hvis du kun vil indsætte sprogomskifteren bestemte steder på din hjemmeside, "
+"kan du bruge den medfølgende kortkode til dette formål. Bemærk, at i dette "
+"tilfælde skal den forrige indstilling være \"Ingen\". Denne metode er ideel "
+"til at placere switchen, hvor du vil have den, uanset om du bruger et "
+"Gutenberg-blokbaseret tema (FSE), et klassisk tema eller endda en side- eller "
+"temabygger som Divi, Elementor ..."
+
+#: inc/admin/option-page-switcher.php:450
+msgid "Gutenberg & FSE: "
+msgstr "Gutenberg & FSE: "
+
+#: inc/admin/option-page-switcher.php:453
+msgid "Block wpLingua Switcher"
+msgstr "Bloker wpLingua Switcher"
+
+#: inc/admin/option-page-switcher.php:457
+msgid ""
+"Block based themes, wpLingua offers a dedicated Gutenberg block. You can "
+"insert the switcher wherever you want, whether in the content or via the "
+"overall site editor."
+msgstr ""
+"Blokbaserede temaer, wpLingua tilbyder en dedikeret Gutenberg-blok. Du kan "
+"indsætte omskifteren, hvor du vil, hvad enten det er i indholdet eller via "
+"den overordnede site-editor."
+
+#: inc/admin/option-page-switcher.php:464
+msgid "Switcher in menu: "
+msgstr "Switcher i menuen: "
+
+#: inc/admin/option-page-switcher.php:479
+msgid "Appearance ➔ Menus"
+msgstr "Udseende ➔ Menuer"
+
+#: inc/admin/option-page-switcher.php:490
+msgid ""
+"If the active theme manages menus (classic theme), it is possible to add a "
+"language switcher. The design of these language switchers will be defined by "
+"the theme. Go to the Appearance ➔ Menu tab to add the wpLingua switcher as a "
+"menu item. It is also possible to add it as a sub-element."
+msgstr ""
+"Hvis det aktive tema håndterer menuer (klassisk tema), er det muligt at "
+"tilføje en sprogomskifter. Designet af disse sprogomskiftere vil blive "
+"defineret af temaet. Gå til fanen Udseende ➔ Menu for at tilføje wpLingua-"
+"omskifteren som et menupunkt. Det er også muligt at tilføje den som et "
+"underelement."
+
+#: inc/admin/option-page.php:17
+msgid "wpLingua: Register"
+msgstr "wpLingua: Registrer dig"
+
+#: inc/admin/option-page.php:36 inc/admin/option-page.php:47
+msgid "wpLingua: Settings"
+msgstr "wpLingua: Indstillinger"
+
+#: inc/admin/option-page.php:48
+msgid "General settings"
+msgstr "Generelle indstillinger"
+
+#: inc/admin/option-page.php:56
+msgid "wpLingua: Switcher"
+msgstr "wpLingua: Omskifter"
+
+#: inc/admin/option-page.php:57
+msgid "Switcher"
+msgstr "Omskifter"
+
+#: inc/admin/option-page.php:65
+msgid "wpLingua: Exclusion"
+msgstr "wpLingua: Udelukkelse"
+
+#: inc/admin/option-page.php:66
+msgid "Exclusion"
+msgstr "Eksklusion"
+
+#: inc/admin/option-page.php:74
+msgid "wpLingua: Dictionary"
+msgstr "wpLingua: Ordbog"
+
+#: inc/admin/option-page.php:75
+msgid "Dictionary"
+msgstr "Ordbog"
+
+#: inc/admin/option-page.php:83
+msgid "wplingua: Links & Medias"
+msgstr "wplingua: Links og medier"
+
+#: inc/admin/option-page.php:84
+msgid "Links & Medias"
+msgstr "Links og medier"
+
+#: inc/admin/option-page.php:92
+msgid "wpLingua: Website slugs"
+msgstr "wpLingua: Website-slug"
+
+#: inc/admin/option-page.php:93 inc/admin/slug-cpt.php:23
+msgid "Website slugs"
+msgstr "Website-slug"
+
+#: inc/admin/option-page.php:101
+msgid "wpLingua: Translations"
+msgstr "wpLingua: Oversættelser"
+
+#: inc/admin/option-page.php:102
+msgid "All translations"
+msgstr "Alle oversættelser"
+
+#: inc/admin/option-page.php:221
+msgid "Thank you for choosing wpLingua!"
+msgstr "Tak, fordi du valgte wpLingua!"
+
+#: inc/admin/option-page.php:224
+#, php-format
+msgid "If you like wpLingua please leave us a %1$s rating. A huge thanks!"
+msgstr ""
+"Hvis du kan lide wpLingua, bedes du give os en %1$s-vurdering. En kæmpe tak!"
+
+#: inc/admin/option-page.php:225
+msgid "five stars"
+msgstr "fem stjerner"
+
+#: inc/admin/option-page.php:249
+msgid "Version"
+msgstr "Version"
+
+#: inc/admin/option-page.php:272
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: inc/admin/option-page.php:314
+msgid "wpLingua - Translation solution for multilingual website"
+msgstr "wpLingua - Oversættelsesløsning til flersprogede hjemmesider"
+
+#: inc/admin/option-page.php:317
+msgid ""
+"wpLingua is installed, but not yet configured. You are just a few clicks away "
+"from making your website multilingual!"
+msgstr ""
+"wpLingua er installeret, men endnu ikke konfigureret. Du er kun få klik fra "
+"at gøre din hjemmeside flersproget!"
+
+#: inc/admin/option-page.php:320
+msgid "Go to the configuration page"
+msgstr "Gå til konfigurationssiden"
+
+#: inc/admin/option-page.php:394
+msgid "wpLingua - Incompatible plugin detected"
+msgstr "wpLingua - Inkompatibelt plugin fundet"
+
+#: inc/admin/option-page.php:397
+msgid ""
+"You have several translation plugins. This may result in unpredictable or "
+"incorrect behavior. For best results, use only one translation plugin at a "
+"time. These plugins can cause problems with wpLingua: "
+msgstr ""
+"Du har flere oversættelsesplugins. Det kan resultere i uforudsigelig eller "
+"ukorrekt adfærd. For at opnå de bedste resultater skal du kun bruge ét "
+"oversættelsesplugin ad gangen. Disse plugins kan forårsage problemer med "
+"wpLingua: "
+
+#: inc/admin/option-page.php:414
+#, php-format
+msgid "Deactivate plugin: %1$s"
+msgstr "Deaktiver plugin: %1$s"
+
+#: inc/admin/option-page.php:423
+msgid "Deactivate"
+msgstr "Deaktiver"
+
+#: inc/admin/option-page.php:440
+msgid "Manage active plugins"
+msgstr "Administrer aktive plugins"
+
+#: inc/admin/option-page.php:465
+msgid "wpLingua - Incompatible with multisite"
+msgstr "wpLingua - Inkompatibel med multisite"
+
+#: inc/admin/option-page.php:468
+msgid "wpLingua is not compatible with multisite."
+msgstr "wpLingua er ikke kompatibel med multisite."
+
+#: inc/admin/option-page.php:492
+msgid "wpLingua - Incompatible with WordPress installed in a subfolder"
+msgstr "wpLingua - Inkompatibel med WordPress installeret i en undermappe"
+
+#: inc/admin/option-page.php:495
+msgid "wpLingua is not compatible with WordPress installed in a subfolder."
+msgstr ""
+"wpLingua er ikke kompatibel med WordPress, der er installeret i en undermappe."
+
+#: inc/admin/option-page.php:519
+msgid "wpLingua - Incompatible PHP version"
+msgstr "wpLingua - Inkompatibel PHP-version"
+
+#: inc/admin/option-page.php:522
+msgid ""
+"wpLingua is not compatible with your PHP version. wpLingua requires PHP 7.4 "
+"or higher."
+msgstr ""
+"wpLingua er ikke kompatibel med din PHP-version. wpLingua kræver PHP 7.4 "
+"eller højere."
+
+#: inc/admin/option-page.php:585
+msgid "wpLingua - Incompatible HTACCESS file"
+msgstr "wpLingua - Inkompatibel HTACCESS-fil"
+
+#: inc/admin/option-page.php:588
+msgid ""
+"It seems that a plugin was incorrectly deactivated and corrupted the site's "
+"HTACCESS file, preventing the correct redirection of translated pages. Please "
+"edit the \".htaccess\" file located at the root of the site and delete the "
+"lines between :"
+msgstr ""
+"Det ser ud til, at et plugin blev deaktiveret forkert og ødelagde webstedets "
+"HTACCESS-fil, hvilket forhindrer korrekt omdirigering af oversatte sider. "
+"Rediger venligst filen \".htaccess\", der ligger i roden af webstedet, og "
+"slet linjerne mellem :"
+
+#: inc/admin/slug-cpt.php:19
+msgid "wpLingua - Website slugs"
+msgstr "wpLingua - Website-slugs"
+
+#: inc/admin/slug-cpt.php:20
+msgid "wpLingua - Website slug"
+msgstr "wpLingua - Website-slug"
+
+#: inc/admin/slug-cpt.php:21
+msgid "wpLingua - All slugs"
+msgstr "wpLingua - Alle slugs"
+
+#: inc/admin/slug-cpt.php:22
+msgid "wpLingua - Edit slug"
+msgstr "wpLingua - Rediger slug"
+
+#: inc/admin/slug-cpt.php:24
+msgid "Search slugs"
+msgstr "Søg slugs"
+
+#: inc/admin/slug-cpt.php:112
+msgid "All slug status"
+msgstr "Alle slug-statusser"
+
+#: inc/admin/slug-cpt.php:127 inc/admin/slug-cpt.php:139
+#: inc/admin/translation-cpt.php:111 inc/admin/translation-cpt.php:119
+#: inc/dom/mode-list.php:193
+msgid "Reviewed"
+msgstr "Anmeldt"
+
+#: inc/admin/slug-cpt.php:128 inc/admin/slug-cpt.php:399
+#: inc/admin/slug-cpt.php:438 inc/admin/translation-cpt.php:112
+#: inc/admin/translation-cpt.php:379 inc/admin/translation-cpt.php:418
+#: inc/dom/mode-list.php:197
+msgid "Unreviewed"
+msgstr "Ikke anmeldt"
+
+#: inc/admin/slug-cpt.php:137 inc/admin/slug-cpt.php:389
+#: inc/admin/slug-cpt.php:426 inc/admin/translation-cpt.php:117
+#: inc/admin/translation-cpt.php:369 inc/admin/translation-cpt.php:406
+msgid "Full reviewed"
+msgstr "Fuldt gennemgået"
+
+#: inc/admin/slug-cpt.php:138 inc/admin/slug-cpt.php:394
+#: inc/admin/slug-cpt.php:432 inc/admin/translation-cpt.php:118
+#: inc/admin/translation-cpt.php:374 inc/admin/translation-cpt.php:412
+msgid "Partially reviewed"
+msgstr "Delvist gennemgået"
+
+#: inc/admin/slug-cpt.php:140 inc/admin/translation-cpt.php:120
+msgid "Full unreviewed"
+msgstr "Fuldstændig uanmeldt"
+
+#: inc/admin/slug-cpt.php:285
+msgid "Slug status"
+msgstr "Slug-status"
+
+#: inc/admin/slug-cpt.php:421
+msgid "Slug status: "
+msgstr "Slug-status: "
+
+#: inc/admin/slug-meta.php:23
+msgid "Slug"
+msgstr "Slug"
+
+#: inc/admin/slug-meta.php:75 inc/admin/slug-meta.php:154
+#: inc/admin/translation-meta.php:77 inc/admin/translation-meta.php:146
+msgid "Flag for language: "
+msgstr "Flag for sprog: "
+
+#: inc/admin/slug-meta.php:89
+msgid " - Original slug: "
+msgstr " - Oprindelig slug: "
+
+#: inc/admin/slug-meta.php:153 inc/admin/translation-meta.php:145
+msgid "Regenerate translation"
+msgstr "Regenereret oversættelse"
+
+#: inc/admin/slug-meta.php:156 inc/admin/translation-meta.php:148
+msgid "Mark as review"
+msgstr "Marker som anmeldelse"
+
+#: inc/admin/slug-meta.php:171 inc/admin/translation-meta.php:157
+msgid "Generate translation"
+msgstr "Generer oversættelse"
+
+#: inc/admin/slug-meta.php:197 inc/admin/translation-meta.php:183
+msgid "Reviewed on "
+msgstr "Anmeldt den "
+
+#: inc/admin/slug-meta.php:226
+msgid " - Slug translation: "
+msgstr " - Slug-oversættelse: "
+
+#: inc/admin/slug-meta.php:261 inc/admin/translation-meta.php:247
+msgid "Is reviewed"
+msgstr "Er gennemgået"
+
+#: inc/admin/slug-meta.php:492 inc/admin/translation-meta.php:471
+msgid "Invalid parameters"
+msgstr "Ugyldig parameter"
+
+#: inc/admin/slug-meta.php:504 inc/admin/translation-meta.php:484
+msgid "Invalid languages parameters"
+msgstr "Ugyldige sprogparametre"
+
+#: inc/admin/slug-meta.php:561 inc/admin/translation-meta.php:524
+msgid "Invalid API response"
+msgstr "Ugyldigt API-svar"
+
+#: inc/admin/switcher-nav-menu.php:190
+msgid ""
+"These options are used to add a language switcher in a menu. This language "
+"switcher automatically uses the menu design."
+msgstr ""
+"Disse muligheder bruges til at tilføje en sprogomskifter i en menu. Denne "
+"sprogomskifter bruger automatisk menudesignet."
+
+#: inc/admin/switcher-nav-menu.php:213 inc/admin/switcher-nav-menu.php:320
+msgid "Displayed flag: "
+msgstr "Udstillet flag: "
+
+#: inc/admin/switcher-nav-menu.php:249
+msgid "Language switcher"
+msgstr "Sprogomskifter"
+
+#: inc/admin/switcher-nav-menu.php:259
+msgid "Add to menu"
+msgstr "Tilføj til menu"
+
+#: inc/admin/translation-cpt.php:19
+msgid "wpLingua - Translations"
+msgstr "wpLingua - Oversættelser"
+
+#: inc/admin/translation-cpt.php:20
+msgid "wpLingua - Translation"
+msgstr "wpLingua - Oversættelse"
+
+#: inc/admin/translation-cpt.php:21
+msgid "wpLingua - All translations"
+msgstr "wpLingua - Alle oversættelser"
+
+#: inc/admin/translation-cpt.php:22
+msgid "wpLingua - Edit translation"
+msgstr "wpLingua - Rediger oversættelse"
+
+#: inc/admin/translation-cpt.php:24
+msgid "Search translations"
+msgstr "Søg i oversættelser"
+
+#: inc/admin/translation-cpt.php:110 inc/admin/translation-cpt.php:116
+msgid "All translation status"
+msgstr "Alle oversættelsesstatusser"
+
+#: inc/admin/translation-cpt.php:265
+msgid "Translation status"
+msgstr "Oversættelsesstatus"
+
+#: inc/admin/translation-cpt.php:401
+msgid "Translation status: "
+msgstr "Oversættelsesstatus: "
+
+#: inc/admin/translation-edit-modal.php:29
+msgid "All languages"
+msgstr "Alle sprog"
+
+#: inc/admin/translation-edit-modal.php:42
+msgid "Open edit page"
+msgstr "Åbn redigeringsside"
+
+#: inc/admin/translation-edit-modal.php:58
+msgid "Edit translation"
+msgstr "Rediger oversættelse"
+
+#: inc/admin/translation-edit-modal.php:96
+#: inc/admin/translation-edit-modal.php:155
+msgid "Invalid translation ID"
+msgstr "Ugyldigt oversættelses-ID"
+
+#: inc/admin/translation-edit-modal.php:107
+msgid "Invalid translation post"
+msgstr "Ugyldigt oversættelsesindlæg"
+
+#: inc/admin/translation-edit-modal.php:178
+msgid "Translation saving failed"
+msgstr "Gemning af oversættelse mislykkedes"
+
+#: inc/admin/translation-meta.php:23
+msgid "Translation"
+msgstr "Oversættelse"
+
+#: inc/admin/translation-meta.php:87
+msgid " - Original text: "
+msgstr " - Original tekst: "
+
+#: inc/admin/translation-meta.php:212
+msgid " - Translation: "
+msgstr " - Oversættelse: "
+
+#: inc/admin/translation-meta.php:282
+msgid "Discovery URL: "
+msgstr "URL til opdagelse: "
+
+#: inc/api-call/request-api-key.php:60
+msgid "Error - Invalid data."
+msgstr "Fejl - Ugyldige data."
+
+#: inc/api-call/request-api-key.php:71
+msgid "Error - Invalid data (email address)."
+msgstr "Fejl - Ugyldige data (e-mailadresse)."
+
+#: inc/api-call/request-api-key.php:82
+msgid "Error - Invalid data (website URL)."
+msgstr "Fejl - Ugyldige data (websteds-URL)."
+
+#: inc/api-call/request-api-key.php:97
+msgid "Error - Invalid data (languages)."
+msgstr "Fejl - Ugyldige data (sprog)."
+
+#: inc/api-call/request-api-key.php:136
+msgid "Error - The API could not be called."
+msgstr "Fejl - API'en kunne ikke kaldes."
+
+#: inc/api-call/request-api-key.php:181
+msgid "Error - API response not valid."
+msgstr "Fejl - API-svaret er ikke gyldigt."
+
+#: inc/api-call/validate-api-key.php:191
+msgid "Code"
+msgstr "Kode"
+
+#: inc/api-call/validate-api-key.php:217
+msgid "API returned an unexpected response."
+msgstr "API returnerede et uventet svar."
+
+#: inc/assets.php:93
+msgid ""
+"You are about to exit without saving your changes. They will be lost if you "
+"continue. Would you like to leave anyway?"
+msgstr ""
+"Du er ved at afslutte uden at gemme dine ændringer. De vil gå tabt, hvis du "
+"fortsætter. Vil du gerne forlade stedet alligevel?"
+
+#: inc/assets.php:97
+msgid "Save in progress..."
+msgstr "Gem i gang..."
+
+#: inc/dom/load-overload.php:35
+msgid "Translation API overloaded"
+msgstr "Oversættelses-API overbelastet"
+
+#: inc/dom/load-overload.php:39
+msgid "Translation API overloaded. Retry in a few minutes."
+msgstr "Oversættelses-API'en er overbelastet. Prøv igen om et par minutter."
+
+#: inc/dom/load-overload.php:45
+msgid "Close"
+msgstr "Luk"
+
+#: inc/dom/load-progress.php:86 inc/dom/load-progress.php:167
+msgid "Translation in progress"
+msgstr "Oversættelse i gang"
+
+#: inc/dom/load-progress.php:171
+msgid "In progress: Translation and saving of new texts"
+msgstr "I gang med at arbejde: Oversættelse og lagring af nye tekster"
+
+#: inc/dom/mode-editor.php:118 inc/dom/mode-list.php:306
+msgid "Edit this translation"
+msgstr "Rediger denne oversættelse"
+
+#: inc/dom/mode-list.php:171
+msgid "Search"
+msgstr "Søg"
+
+#: inc/dom/mode-list.php:183
+msgid "Status"
+msgstr "Status"
+
+#: inc/dom/mode-list.php:189
+msgid "All"
+msgstr "Alle"
+
+#: inc/dom/mode-list.php:211
+msgid "Order"
+msgstr "Ordre"
+
+#: inc/dom/mode-list.php:217
+msgid "Occurrence order"
+msgstr "Rækkefølge for forekomst"
+
+#: inc/dom/mode-list.php:221
+msgid "Alphabetical - sources"
+msgstr "Alfabetisk - kilder"
+
+#: inc/dom/mode-list.php:225
+msgid "Alphabetical - translations"
+msgstr "Alfabetisk - oversættelser"
+
+#: inc/dom/mode-list.php:322
+msgid "Go to top"
+msgstr "Gå til toppen"
+
+#: inc/slug.php:294 inc/translation.php:238
+msgid "..."
+msgstr "..."
+
+#: inc/switcher-block.php:47
+msgid "wpLingua: languages switcher"
+msgstr "wpLingua: skift mellem sprog"
+
+#: inc/switcher-block.php:48
+msgid "Add a language switcher to your page."
+msgstr "Tilføj en sprogomskifter til din side."
+
+#: inc/switcher-block.php:53
+msgid "language"
+msgstr "sprog"
+
+#: inc/switcher-block.php:54
+msgid "switcher"
+msgstr "omskifter"
+
+#: inc/switcher-block.php:55
+msgid "multilanguage"
+msgstr "flersproget"
+
+#: inc/switcher-block.php:56
+msgid "multilingual"
+msgstr "flersproget"
+
+#: inc/switcher-block.php:57
+msgid "translate"
+msgstr "oversætte"
+
+#: inc/switcher-block.php:58
+msgid "translation"
+msgstr "oversættelse"
+
+#: inc/switcher-block.php:59
+msgid "flag"
+msgstr "flag"
+
+#: inc/switcher-block.php:60
+msgid "flags"
+msgstr "flag"
+
+#: inc/switcher-block.php:151
+msgid "Languages switcher"
+msgstr "Skift mellem sprog"
+
+#: inc/switcher-block.php:152
+msgid "Display the wpLingua languages switcher."
+msgstr "Vis wpLingua-sprogomskifteren."
+
+#: inc/switcher-block.php:153
+msgid "Default"
+msgstr "Standard"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wplingua.com/"
+msgstr "https://wplingua.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"An all-in-one solution that makes your websites multilingual and translates "
+"them automatically, without word or page limits. The highlights: a free first "
+"language, an on-page visual editor for editing translations, a customizable "
+"language switcher, search engine optimization (SEO), self-hosted data and "
+"more!"
+msgstr ""
+"En alt-i-en-løsning, der gør dine hjemmesider flersprogede og oversætter dem "
+"automatisk uden ord- eller sidebegrænsninger. Højdepunkterne: et gratis "
+"førstesprog, en visuel editor på siden til redigering af oversættelser, en "
+"sprogomskifter, der kan tilpasses, søgemaskineoptimering (SEO), selvhostede "
+"data og meget mere!"
+
+#. Author of the plugin/theme
+msgid "wpLingua Translation Service"
+msgstr "wpLingua Oversættelsesservice"
+
+#~ msgid "wpLingua is not compatible with Multisite."
+#~ msgstr "wpLingua er ikke kompatibel med Multisite."
+
+#~ msgid "Contact support on wplingua.com"
+#~ msgstr "Kontakt support på wplingua.com"
+
+#~ msgid "Upgrade your API key on wplingua.com"
+#~ msgstr "Opgrader din API-nøgle på wplingua.com"
+
+#~ msgid "API feature: Use wpLingua on commercial website"
+#~ msgstr "API-funktion: Brug wpLingua på en kommerciel hjemmeside"
+
+#~ msgid "Website slug"
+#~ msgstr "Hjemmeside-slug"
+
+#~ msgid "All slugs"
+#~ msgstr "Alle snegle"
+
+#~ msgid "Edit slug"
+#~ msgstr "Rediger slug"
+
+#~ msgid "Edit entry"
+#~ msgstr "Rediger post"
+
+#~ msgid "Mark slug translation as review"
+#~ msgstr "Marker slug-oversættelse som anmeldelse"

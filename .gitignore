@@ -1,0 +1,8 @@
+wp-config.php
+wp-content/cache/
+*.log
+.DS_Store
+node_modules
+.vscode/
+wp-content/ai1wm-backups/
+*.wpress
