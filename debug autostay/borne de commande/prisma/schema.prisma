@@ -1,0 +1,202 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ═══════════════════════════════════════
+// ADMIN USERS
+// ═══════════════════════════════════════
+model AdminUser {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  password  String   // bcrypt hash
+  name      String
+  role      String   @default("staff") // 'admin' | 'staff'
+  active    Boolean  @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+// ═══════════════════════════════════════
+// SITES (multi-restaurant)
+// ═══════════════════════════════════════
+model Site {
+  id         String   @id @default(cuid())
+  slug       String   @unique
+  name       String
+  legalName  String   @default("")  // Raison sociale (ex: FryBurger SA)
+  cheNumber  String   @default("")  // Numéro IDE/TVA (ex: CHE-123.456.789)
+  address    String
+  postalCode String   @default("")
+  city       String
+  phone      String   @default("")
+  email      String   @default("")
+
+  // TVA rates (configurable par site depuis le backoffice)
+  tvaSurPlace  Float @default(0.081)  // 8.1%
+  tvaEmporter  Float @default(0.026)  // 2.6%
+
+  active    Boolean  @default(true)
+  createdAt DateTime @default(now())
+
+  orders    Order[]
+  auditLogs AuditLog[]
+}
+
+// ═══════════════════════════════════════
+// MENU
+// ═══════════════════════════════════════
+model Category {
+  id          String  @id @default(cuid())
+  slug        String  @unique
+  name        String
+  nameFr      String
+  nameEn      String
+  nameDe      String
+  icon        String
+  description String?
+  sortOrder   Int     @default(0)
+  active      Boolean @default(true)
+
+  products Product[]
+}
+
+model Product {
+  id              String  @id @default(cuid())
+  slug            String  @unique
+  name            String
+  description     String
+  price           Float
+  priceWithFrites Float?
+  image           String?
+  hasProteinChoice Boolean @default(false)
+  veganAvailable  Boolean @default(false)
+  isNew           Boolean @default(false)
+  isGourmet       Boolean @default(false)
+  hasSupplements  Boolean @default(false)
+  hasSauceChoice  Boolean @default(false)
+  includesFrites  Boolean @default(false)
+  active          Boolean @default(true)
+  sortOrder       Int     @default(0)
+
+  categoryId String
+  category   Category @relation(fields: [categoryId], references: [id])
+
+  orderItems OrderItem[]
+}
+
+model Supplement {
+  id     String @id @default(cuid())
+  slug   String @unique
+  name   String
+  price  Float
+  active Boolean @default(true)
+  sortOrder Int @default(0)
+}
+
+model Sauce {
+  id     String @id @default(cuid())
+  slug   String @unique
+  name   String
+  price  Float
+  active Boolean @default(true)
+  sortOrder Int @default(0)
+}
+
+// ═══════════════════════════════════════
+// ORDERS
+// ═══════════════════════════════════════
+model Order {
+  id            String   @id @default(cuid())
+  orderNumber   Int
+  receiptNumber String   @unique   // Numéro de reçu unique global (ex: FB-BULLE-20260309-0001)
+  type          String              // 'surPlace' | 'aEmporter'
+  status        String   @default("pending") // pending, preparing, ready, completed, cancelled
+
+  // Montants
+  subtotal   Float   // Total HT
+  tvaRate    Float   // Taux TVA appliqué
+  tvaAmount  Float   // Montant TVA
+  total      Float   // Total TTC (subtotal inclut déjà la TVA dans les prix affichés)
+
+  // Paiement
+  paymentMethod String?  // 'card' | 'twint' | 'counter'
+  paidAt        DateTime? // Timestamp du paiement
+
+  // Traçabilité
+  terminalId  String  @default("kiosk-01") // Identifiant de la borne
+  fiscalHash  String  @default("")          // SHA-256 hash pour intégrité fiscale
+  lang        String  @default("fr")
+
+  // Annulation
+  cancelledAt    DateTime?
+  cancelReason   String?
+
+  siteId    String
+  site      Site     @relation(fields: [siteId], references: [id])
+
+  items     OrderItem[]
+  auditLogs AuditLog[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([siteId, receiptNumber])
+  @@index([siteId, status])
+  @@index([siteId, createdAt])
+}
+
+model OrderItem {
+  id       String @id @default(cuid())
+  quantity Int    @default(1)
+  unitPrice Float
+  totalPrice Float
+
+  // Customization stored as JSON strings
+  protein        String?  // 'boeuf' | 'poulet' | 'vegetarien'
+  withFrites     Boolean  @default(false)
+  supplements    String   @default("[]")  // JSON array of {name, price}
+  sauce          String?  // sauce name
+  removedIngredients String @default("[]") // JSON array of strings
+
+  productId String
+  product   Product @relation(fields: [productId], references: [id])
+
+  orderId String
+  order   Order  @relation(fields: [orderId], references: [id], onDelete: Cascade)
+}
+
+// ═══════════════════════════════════════
+// AUDIT LOG — traçabilité complète (GeBüV)
+// ═══════════════════════════════════════
+model AuditLog {
+  id        String   @id @default(cuid())
+  action    String   // 'order.created' | 'order.status_changed' | 'order.cancelled'
+  entity    String   // 'order'
+  entityId  String   // ID de la commande
+
+  // Détail du changement
+  oldValue  String?  // Ancien statut/valeur (JSON)
+  newValue  String?  // Nouveau statut/valeur (JSON)
+
+  // Contexte
+  terminalId String  @default("kiosk-01")
+  ipAddress  String  @default("")
+
+  // Relations optionnelles
+  orderId String?
+  order   Order?  @relation(fields: [orderId], references: [id])
+
+  siteId  String?
+  site    Site?   @relation(fields: [siteId], references: [id])
+
+  createdAt DateTime @default(now())
+
+  @@index([entityId])
+  @@index([siteId, createdAt])
+  @@index([action])
+}
